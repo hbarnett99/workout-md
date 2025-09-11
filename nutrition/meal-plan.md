@@ -1,14 +1,41 @@
-# Complete Fat Loss & Fitness Guide - 30% to 17% Body Fat Goal
+---
+title: Fat Loss Meal Plan
+description: Complete fat loss meal plan targeting 30% to 17% body fat reduction
+---
 
-## Overview
+# Fat Loss Meal Plan
+
+::: info Goal Overview
 **Timeline:** End of September to January (4 months)  
 **Daily Calorie Target:** 2,100 calories  
 **Goal:** Reduce body fat from 30% to 17%  
 **Current Intake:** ~2,800 calories  
+:::
 
-## Daily Calorie Breakdown
+## Table of Contents
 
-### Breakfast: 450-500 calories
+- [Daily Meal Plans](#daily-meal-plans)
+  - [Breakfast Options](#breakfast-options)
+  - [Lunch Options](#lunch-options) 
+  - [Dinner Options](#dinner-options)
+  - [Snack Options](#snack-options)
+- [Meal Prep Strategy](#meal-prep-strategy)
+- [Equipment Guide](#equipment-guide)
+- [Nutrition Tracking](#nutrition-tracking)
+- [Cardio Integration](#cardio-integration)
+- [Supplements & Recovery](#supplements-recovery)
+- [Success Strategies](#success-strategies)
+
+::: tip Quick Navigation
+Looking for specific content? Check out our [Workout Plan](../fitness/workout-plan) to complement this meal plan.
+:::
+
+## Daily Meal Plans
+
+### Calorie Breakdown
+
+### Breakfast Options
+::: details 450-500 calories per serving
 **Option 1 - Quick Eggs & Yogurt**
 - 3 scrambled eggs (210 cal)
 - Coles high protein yogurt (80 cal)
@@ -26,7 +53,10 @@
 - Greek yogurt (100 cal)
 - Berries (80 cal)
 
-### Lunch: 600-650 calories
+:::
+
+### Lunch Options
+::: details 600-650 calories per serving
 **Option 1 - Hainanese Chicken Rice**
 - 150g hainanese chicken (300 cal)
 - 3/4 cup cooked rice (200 cal)
@@ -46,7 +76,10 @@
 - Mixed vegetables (80 cal)
 - Light dressing (140 cal)
 
-### Dinner: 550-600 calories
+:::
+
+### Dinner Options
+::: details 550-600 calories per serving
 **Option 1 - Air-fried Chicken**
 - 150g Portuguese seasoned chicken (300 cal)
 - 1 large microwaved sweet potato (200 cal)
@@ -64,7 +97,10 @@
 - Frozen stir-fry vegetables (80 cal)
 - Minimal oil/sauce (50 cal)
 
-### Snacks: 350-400 calories
+:::
+
+### Snack Options
+::: details 350-400 calories per serving
 **Daily Snack Combination:**
 - WPI/WPC protein shake (150 cal)
 - Measured cereal portion (200 cal)
@@ -73,8 +109,9 @@
 - 2 hard-boiled eggs + apple (200 cal)
 - Greek yogurt + nuts (200 cal)
 - Protein bar + banana (300 cal)
+:::
 
-## Weekly Meal Prep Strategy
+## Meal Prep Strategy {#meal-prep-strategy}
 
 ### Sunday Prep Session
 **Rice Cooker Hainanese Chicken:**
@@ -104,7 +141,7 @@
 - Steam frozen vegetables
 - Grab pre-portioned meals
 
-## Equipment Utilization
+## Equipment Guide {#equipment-guide}
 
 ### Rice Cooker (1.8L)
 - Hainanese chicken + rice together
@@ -170,7 +207,11 @@
 - Nuts
 - Rice wine/cooking wine
 
-## Cardio Addition Plan
+## Cardio Integration {#cardio-integration}
+
+::: warning Integration with Workout Plan
+This cardio plan is designed to complement the [Workout Plan](../fitness/workout-plan). See the workout plan for detailed gym sessions.
+:::
 
 ### Starting Phase (Weeks 1-2)
 - **Frequency:** 2 sessions per week (Tuesday + weekend)
@@ -187,11 +228,11 @@
 - Current schedule maintained
 - Weekend cardio session flexible timing
 
-## Tracking & Monitoring
+## Nutrition Tracking {#nutrition-tracking}
 
 ### Recommended Apps & Tools
-- **Flexify:** Track all gym sessions and progressive overload
-- **MyFitnessPal/Cronometer:** Calorie and macro tracking
+- **[Flexify](https://flexify.net/):** Track all gym sessions and progressive overload
+- **[MyFitnessPal](https://www.myfitnesspal.com/) / [Cronometer](https://cronometer.com/):** Calorie and macro tracking
 - **Body weight app:** Daily weigh-ins with trend analysis
 - **Food scale:** Accurate portion measurement
 
@@ -214,7 +255,7 @@
 - Diet adherence analysis
 - Adjust calories if needed
 
-## Supplements & Recovery
+## Supplements & Recovery {#supplements-recovery}
 
 ### Supplements Worth Considering
 **Effective & Evidence-Based:**
@@ -245,7 +286,7 @@
 - Proper warm-ups (covered in current plan)
 - Forearm foam rolling
 
-## Additional Success Factors
+## Success Strategies {#success-strategies}
 
 ### Hydration Strategy
 - **Target:** 3-4L water daily (more on tennis/climbing days)
@@ -332,4 +373,12 @@
 
 ---
 
-*Note: This plan prioritizes simplicity, minimal food waste, and equipment you already own. Focus on consistency with the fundamentals rather than perfection. Your success will come from daily adherence to the meal plan, progressive overload in the gym, and adding those cardio sessions.*
+::: tip Success Key
+This plan prioritizes simplicity, minimal food waste, and equipment you already own. Focus on consistency with the fundamentals rather than perfection. Your success will come from daily adherence to the meal plan, progressive overload in the gym, and adding those cardio sessions.
+:::
+
+::: info Related Resources
+- **[Workout Plan](../fitness/workout-plan)** - Complete exercise routine to complement this meal plan
+- **[Equipment Guide](../guides/equipment)** - Maximize your rice cooker and air fryer
+- **[Progress Tracking](../guides/tracking)** - Apps and tools for monitoring success
+:::
