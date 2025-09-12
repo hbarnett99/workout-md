@@ -428,71 +428,160 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 ### Machine-Based Upper Body
 
 #### Chest Press Machine {#chest-press-machine}
-**Setup:** Seat height so handles align with mid-chest
-**Movement:** Press forward smoothly, don't lock elbows completely
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
+
+**Target Muscles:** 
+- **Primary:** Chest (Pectorals)
+- **Secondary:** Shoulders (Anterior Deltoids), Triceps
+
+**Setup:** Seat height so handles align with mid-chest, back firmly against pad
+**Movement:** Press forward smoothly until arms extended, control the return
 **Breathing:** Exhale on press, inhale on return
 **Starting weight:** 35-45kg
-**Tennis benefit:** Serve power development
+**Tennis benefit:** Serve power development and upper body strength
 
 #### Lat Pulldown Machine {#lat-pulldown-machine}
-**Setup:** Thigh pads snug, slight lean back
-**Movement:** Pull bar to upper chest, squeeze shoulder blades
-**Avoid:** Pulling behind neck
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1268/machine-lat-pulldown)**
+
+**Target Muscles:**
+- **Primary:** Latissimus Dorsi (Back)
+- **Secondary:** Rhomboids, Middle Trapezius, Rear Deltoids, Biceps
+
+**Setup:** Thigh pads snug, slight lean back, wide overhand grip
+**Movement:** Pull bar to upper chest, squeeze shoulder blades together
+**Key tip:** Wide-grip front pulldown produces greatest lat muscle activity
+**Avoid:** Pulling behind neck - less effective and potentially dangerous
 **Starting weight:** 40-50kg
-**Tennis benefit:** Overhead stability
+**Tennis benefit:** Overhead stability and serve power
 
 #### Shoulder Press Machine {#shoulder-press-machine}
-**Setup:** Back against pad, handles at shoulder height
-**Movement:** Press up and slightly forward
-**Range:** Full extension without locking out
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/46/machine-shoulder-press)**
+
+**Target Muscles:**
+- **Primary:** Shoulders (Deltoids - all three heads)
+- **Secondary:** Triceps, Upper Chest
+
+**Setup:** Back firmly against pad, feet flat on ground, grip handles with palms forward
+**Movement:** Press handles upward extending through elbows, feel stretch on shoulders
+**Form focus:** Keep elbows at 90-degree angle at start, engage core for stability
 **Starting weight:** 20-30kg
-**Tennis benefit:** Serve and overhead shots
+**Tennis benefit:** Serve power and overhead shot stability
 
 ### Machine-Based Lower Body (Ankle-Safe)
 
 #### Leg Press Machine {#leg-press-machine}
-**Setup:** Both feet flat on platform, knees aligned with toes
-**Movement:** Lower until 90-degree knee bend, press through heels
-**Ankle focus:** Maintain foot position throughout
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/132/machine-leg-press)**
+
+**Target Muscles:**
+- **Primary:** Quadriceps (Front of thighs)
+- **Secondary:** Glutes, Hamstrings, Calves
+
+**Setup:** Sit on machine, feet on platform 6 inches apart, toes pointed slightly outward
+**Movement:** Release locks, slowly bend knees bringing weight toward chest, press back up through heels
+**Ankle safety:** Both feet secure on platform, no single-leg variations
+**Form focus:** Grab side handles, bring weight as far as possible toward chest
 **Starting weight:** 70-90kg
-**Tennis benefit:** Court movement power
+**Tennis benefit:** Court movement power and lateral stability
 
 #### Leg Curl Machine {#leg-curl-machine}
-**Setup:** Pad just above heels, thighs flat on bench
-**Movement:** Curl heels toward glutes, control the return
-**Ankle position:** Relaxed, focus on hamstring work
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/161/machine-seated-leg-curl)**
+
+**Target Muscles:**
+- **Primary:** Hamstrings (Back of thighs)
+- **Secondary:** Calves, Glutes
+
+**Setup:** Adjust machine so footpad is above heels, sit upright with abs drawn in
+**Movement:** Slowly curl legs back toward buttocks, hold 1-2 count, return to start
+**Form focus:** Keep upper body still, squeeze hamstrings on the way up
+**Ankle position:** Relaxed, focus on hamstring contraction
 **Starting weight:** 20-25kg
-**Tennis benefit:** Deceleration control
+**Tennis benefit:** Deceleration control and injury prevention
+
+#### Leg Extension Machine {#leg-extension-machine}
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1256/machine-single-leg-extension-)**
+
+**Target Muscles:**
+- **Primary:** Quadriceps (Front of thighs)
+- **Secondary:** None (isolation exercise)
+
+**Setup:** Sit on machine with both legs under padding, back flat against rest
+**Movement:** Slowly elevate padding up, squeeze quads, hold for count, return
+**Form focus:** Keep upper body still, squeeze quads and hamstrings on the way up
+**Ankle safety:** Controlled movement, no explosive extensions
+**Starting weight:** 25-35kg
+**Tennis benefit:** Knee stability and court movement strength
 
 #### Hip Abductor Machine {#hip-abductor-machine}
-**Setup:** Back against pad, knees against pads
-**Movement:** Press knees apart against resistance
-**Focus:** Lateral hip strength for court stability
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1305/machine-hip-abduction)**
+
+**Target Muscles:**
+- **Primary:** Hip Abductors (Outer hip and glutes)
+- **Secondary:** Glute medius, Tensor fasciae latae
+
+**Setup:** Sit with back against pad, position knees against outer pads
+**Movement:** Press knees apart against resistance, squeeze outer hip muscles
+**Form focus:** Keep torso upright, control both the opening and closing motion
+**Tennis specific:** Critical for lateral court movement and ankle stability
 **Starting weight:** 30-40kg
-**Tennis benefit:** Lateral movement stability
+**Tennis benefit:** Lateral movement stability and injury prevention
+
+#### Seated Calf Raise Machine {#seated-calf-raise-machine}
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/144/machine-seated-calf-raise)**
+
+**Target Muscles:**
+- **Primary:** Calves (Gastrocnemius, Soleus)
+- **Secondary:** None (isolation exercise)
+
+**Setup:** Sit at calf raise machine, balls of feet on footpad, thighs under leg pad
+**Movement:** Unlock bar, raise toes up as high as possible, hold, return to start
+**Ankle benefit:** Strengthens calf muscles safely for your ankle history
+**Form focus:** Feel stretch in calf muscles, controlled movement up and down
+**Starting weight:** 25-35kg
+**Tennis benefit:** Ankle strength and court movement stability
 
 ### Cable Exercises
 
 #### Seated Cable Row {#seated-cable-row}
-**Setup:** Feet on platform, slight knee bend
-**Movement:** Pull handle to lower ribs, squeeze shoulder blades
-**Posture:** Maintain straight back throughout
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/21/cable-seated-row)**
+
+**Target Muscles:**
+- **Primary:** Middle Trapezius, Rhomboids, Latissimus Dorsi
+- **Secondary:** Rear Deltoids, Biceps
+
+**Setup:** Sit with feet on footrests, knees slightly bent, neutral grip on handle
+**Movement:** Pull handle to lower ribs, squeeze shoulder blades together
+**Form focus:** Sit upright, chest out, avoid using momentum
+**Posture benefit:** Excellent for counteracting desk work posture
 **Starting weight:** 35-45kg
-**Tennis benefit:** Posture and pulling strength
+**Tennis benefit:** Posture correction and pulling strength for groundstrokes
 
 #### Cable Face Pulls {#cable-face-pulls}
-**Setup:** Cable at face height, rope attachment
-**Movement:** Pull rope apart toward face, elbows high
-**Focus:** Rear deltoid and upper back activation
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/874/cable-rope-face-pull)**
+
+**Target Muscles:**
+- **Primary:** Rear Deltoids, Rhomboids, Middle Trapezius
+- **Secondary:** Rotator Cuff, Upper Back
+
+**Setup:** Face high pulley at eye level, grab rope attachment with both hands
+**Movement:** Pull rope directly toward face, separate rope as you pull back
+**Form focus:** Keep elbows high, rope at eye level, don't let head jut forward
+**Key benefit:** Strengthens often-neglected rear delts for balanced shoulders
 **Starting weight:** 15-25kg
-**Tennis benefit:** Shoulder health and serve stability
+**Tennis benefit:** Shoulder health, serve stability, and injury prevention
 
 #### Cable Wood Chops {#cable-wood-chops}
-**Setup:** Cable at chest height, both feet planted
-**Movement:** Rotate torso, pull cable across body
-**Ankle safety:** No pivoting on feet, rotate from core
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/744/cable-wood-chop)**
+
+**Target Muscles:**
+- **Primary:** Obliques, Core muscles
+- **Secondary:** Shoulders, Back, Hips
+
+**Setup:** Stand with feet shoulder-width apart, hold high pulley cable at shoulder level
+**Movement:** Bring cable downward diagonally, press into opposite thigh
+**Ankle safety:** Keep both feet planted, rotate from core only - no pivoting
+**Form focus:** Squeeze oblique muscles, controlled diagonal movement
 **Starting weight:** 20-30kg
-**Tennis benefit:** Rotational power for groundstrokes
+**Tennis benefit:** Rotational power for groundstrokes and serves
 
 ## Flexibility & Mobility Guides
 
