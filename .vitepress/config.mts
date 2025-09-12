@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Fitness & Nutrition Guide",
   description: "Complete workout and nutrition plan for fat loss and sports performance",
+  base: "/workout-md/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
