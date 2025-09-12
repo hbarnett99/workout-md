@@ -1,6 +1,6 @@
 # Fitness & Nutrition Guide
 
-A comprehensive VitePress documentation site containing a complete workout and nutrition plan designed for fat loss, muscle building, and sports performance enhancement.
+A comprehensive VitePress documentation site containing a complete workout and nutrition plan designed for wham af.
 
 ## 🎯 Features
 
