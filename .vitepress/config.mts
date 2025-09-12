@@ -26,7 +26,8 @@ export default defineConfig({
         text: 'Fitness',
         collapsed: false,
         items: [
-          { text: 'Workout Plan', link: '/fitness/workout-plan' }
+          { text: 'Workout Plan', link: '/fitness/workout-plan' },
+          { text: 'Exercise Guides', link: '/fitness/exercise-guides' }
         ]
       },
       {
