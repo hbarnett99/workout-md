@@ -393,25 +393,25 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 ## Expected Timeline & Results
 
 ### Month 1 (September) - Foundation
-**Calories:** 2,300 | **Expected Loss:** 2-3% body fat
+**Calories:** 2,300 | **Body Fat Target:** 20.3% → 18.8%
 - Habit formation primary goal
-- Energy levels should remain stable
-- Gym performance improving
-- Tennis may actually improve with better fitness
+- Energy levels should remain stable with higher BMR
+- Gym performance improving steadily
+- Tennis may actually improve with better fitness base
 
 ### Month 2 (October) - Adaptation  
-**Calories:** 2,200 | **Expected Loss:** 2-3% body fat
+**Calories:** 2,200 | **Body Fat Target:** 18.8% → 17.3%
 - Body adapted to exercise load
 - Steady progress continues
 - May feel slight energy dip initially
 - Cardio fitness noticeably better
 
 ### Months 3-4 (Nov-Jan) - Final Push
-**Calories:** 2,100 | **Expected Loss:** 4-6% body fat
+**Calories:** 2,100 | **Body Fat Target:** 17.3% → 15%
 - Most challenging phase mentally
-- May need refeed days
-- Tennis performance temporary dip expected
-- Final push to 18% goal
+- May need refeed days every 10-14 days
+- Tennis performance may dip slightly
+- Final push to lean, defined physique
 
 **Realistic Expectations:**
 - **Total Target:** 12% body fat reduction (pending scan results)

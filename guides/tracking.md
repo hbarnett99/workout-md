@@ -246,7 +246,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 ---
 
 ::: tip Precision Tracking Success Philosophy
-With your 4-month timeline, closer macro tracking can accelerate results without becoming obsessive. You've already proven you can lose weight (81kg→72kg), now precise tracking ensures you're maximizing muscle retention and optimizing performance during the deficit.
+With your 4-month timeline to reach 15% body fat from 20.3%, closer macro tracking will accelerate results. Your BMR of 1635 kcal allows for higher calories than originally planned, making this more sustainable while still achieving significant body recomposition.
 :::
 
 ::: warning Balance Precision with Sustainability

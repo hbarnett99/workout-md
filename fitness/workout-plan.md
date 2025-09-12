@@ -62,7 +62,7 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 **Strength Circuit (22 min)**
 **Superset A (3 rounds, 60s rest):**
 - **[Chest Press Machine](#chest-press-machine)** - 8-10 reps (*Start: 35-40kg*)
-- **[Lat Pulldown Wide Grip](#lat-pulldown-machine)** - 10-12 reps (*Start: 40-45kg*)
+- **[Lat Pulldown Wide Grip](exercise-guides.md#lat-pulldown-wide-grip)** - 10-12 reps (*Start: 40-45kg*)
 
 **Superset B (3 rounds, 60s rest):**
 - **[Shoulder Press Machine](#shoulder-press-machine)** - 10-12 reps (*Start: 20-25kg*)
@@ -70,7 +70,7 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 
 **Superset C (2 rounds, 45s rest):**
 - **[Cable Face Pulls](#cable-face-pulls)** - 15-20 reps (*Start: 15-20kg*)
-- **[Push-ups](#push-ups)** - Max reps (modify as needed)
+- **[Push-ups](exercise-guides.md#push-ups)** - Max reps (modify as needed)
 
 **Cool Down (3 min)**
 - [Doorway chest stretch](#doorway-chest-stretch) - 30 seconds each arm
@@ -127,11 +127,11 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 **Push/Pull Supersets (25 min)**
 **Superset 1 (4 rounds, 75s rest):**
 - **[Chest Press Machine](#chest-press-machine)** - 8-10 reps (*Progressive from Monday*)
-- **[Cable Row Wide Grip](#seated-cable-row)** - 10-12 reps (*Different angle than Monday*)
+- **[Cable Row Wide Grip](exercise-guides.md#cable-row-wide-grip)** - 10-12 reps (*Different angle than Monday*)
 
 **Superset 2 (3 rounds, 60s rest):**
 - **[Shoulder Press Machine](#shoulder-press-machine)** - 10-12 reps
-- **[Lat Pulldown Close Grip](#lat-pulldown-machine)** - 12-15 reps
+- **[Lat Pulldown Close Grip](exercise-guides.md#lat-pulldown-close-grip)** - 12-15 reps
 
 **Tennis Power Block (8 min)**
 1. **[Cable Wood Chops](#cable-wood-chops)** - 3 sets x 8 each side (*standing, both feet planted*)
@@ -193,9 +193,9 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 
 1. **[Chest Press Machine](#chest-press-machine)** - Light weight, 12-15 reps
 2. **[Leg Press Machine](#leg-press-machine)** - Moderate weight, 15-20 reps  
-3. **[Bodyweight Squats](#bodyweight-squats)** - Controlled pace
+3. **[Bodyweight Squats](exercise-guides.md#bodyweight-squats)** - Controlled pace
 4. **[Seated Cable Row](#seated-cable-row)** - 12-15 reps
-5. **[Modified Push-ups](#push-ups)** - From knees if needed
+5. **[Modified Push-ups](exercise-guides.md#push-ups)** - From knees if needed
 
 **Weekend Finisher (3 min)**
 *Only if feeling good:*
@@ -218,13 +218,13 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 
 **Ankle-Focused Preparation (6 min)**
 1. **[Ankle Alphabet](#ankle-alphabet)** - 1 min each foot *critical for your ankle*
-2. **[Ankle Pumps & Circles](#ankle-pumps--circles)** - 1 min each foot
+2. **[Ankle Pumps & Circles](exercise-guides.md#ankle-mobility-warmup)** - 1 min each foot
 3. **[Standing Calf Stretch](#standing-calf-stretch)** - 1 min each leg
 4. **[Single-leg Balance](#single-leg-balance)** - 30s each foot *progress gradually*
 
 **Tennis-Specific Preparation (7 min)**
 1. **[Tennis-Specific Arm Swings](#tennis-specific-arm-swings)** - 2 min
-2. **[Shoulder Cross-body & External Rotation](#shoulder-cross-body--external-rotation)** - 2 min  
+2. **[Cross-body Shoulder Stretch](exercise-guides.md#cross-body-shoulder-stretch)** - 2 min  
 3. **[Hip Circles & Leg Swings](#hip-circles--leg-swings)** - 2 min
 4. **[Shadow Tennis Movements](#shadow-tennis-movements)** - 1 min *both feet planted*
 
