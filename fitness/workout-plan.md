@@ -51,7 +51,7 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 ::: details Session Overview - 30-35 minutes (lunch break friendly)
 **Focus:** Efficient upper body workout during lunch
 **Equipment:** Machines primarily for speed and safety
-**Benefits:** Minimal setup time, shower-friendly intensity
+**Benefits:** Minimal setup time, can work at moderate intensity
 :::
 
 **Quick Warm-up (5 min)**
@@ -61,15 +61,15 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 
 **Strength Circuit (22 min)**
 **Superset A (3 rounds, 60s rest):**
-- **[Chest Press Machine](exercise-guides.md#chest-press-machine)** - 8-10 reps (*Start: 35-40kg*)
-- **[Lat Pulldown Wide Grip](exercise-guides.md#lat-pulldown-wide-grip)** - 10-12 reps (*Start: 40-45kg*)
+- **[Chest Press Machine](exercise-guides.md#chest-press-machine)** - 8-10 reps (*Start: 15-20kg*)
+- **[Lat Pulldown Wide Grip](exercise-guides.md#lat-pulldown-wide-grip)** - 10-12 reps (*Start: 25-30kg*)
 
 **Superset B (3 rounds, 60s rest):**
-- **[Shoulder Press Machine](exercise-guides.md#shoulder-press-machine)** - 10-12 reps (*Start: 20-25kg*)
-- **[Seated Cable Row](exercise-guides.md#seated-cable-row)** - 12-15 reps (*Start: 35-40kg*)
+- **[Shoulder Press Machine](exercise-guides.md#shoulder-press-machine)** - 10-12 reps (*Start: 10-15kg*)
+- **[Seated Cable Row](exercise-guides.md#seated-cable-row)** - 12-15 reps (*Start: 20-25kg*)
 
 **Superset C (2 rounds, 45s rest):**
-- **[Cable Face Pulls](exercise-guides.md#cable-face-pulls)** - 15-20 reps (*Start: 15-20kg*)
+- **[Cable Face Pulls](exercise-guides.md#cable-face-pulls)** - 15-20 reps (*Start: 8-12kg*)
 - **[Push-ups](exercise-guides.md#push-ups)** - Max reps (modify as needed)
 
 **Cool Down (3 min)**
@@ -91,17 +91,17 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 - Ankle mobility focus (2 min) *critical for your ankle*
 
 **Strength Training (28 min)**
-1. **[Leg Press Machine](exercise-guides.md#leg-press-machine)** - 4 sets x 8-10 reps (*Start: 70-90kg*)
+1. **[Leg Press Machine](exercise-guides.md#leg-press-machine)** - 4 sets x 8-10 reps (*Start: 10-20kg added*)
    - *Both feet secure, no single-leg variations*
    - *Rest: 90 seconds between sets*
 
 2. **Superset A (3 rounds, 75s rest):**
-   - **[Leg Curl Machine](exercise-guides.md#leg-curl-machine)** - 10-12 reps (*Start: 20-25kg*)
-   - **[Leg Extension Machine](exercise-guides.md#leg-extension-machine)** - 12-15 reps (*Start: 25-30kg*)
+   - **[Leg Curl Machine](exercise-guides.md#leg-curl-machine)** - 10-12 reps (*Start: 10-15kg*)
+   - **[Leg Extension Machine](exercise-guides.md#leg-extension-machine)** - 12-15 reps (*Start: 15-20kg*)
 
 3. **Superset B (3 rounds, 60s rest):**
-   - **[Seated Calf Raise](exercise-guides.md#seated-calf-raise-machine)** - 15-20 reps (*Start: 25-30kg*)
-   - **[Hip Abductor Machine](exercise-guides.md#hip-abductor-machine)** - 12-15 reps (*Start: 30-40kg*) *lateral stability*
+   - **[Seated Calf Raise](exercise-guides.md#seated-calf-raise-machine)** - 15-20 reps (*Start: 15-20kg*)
+   - **[Hip Abductor Machine](exercise-guides.md#hip-abductor-machine)** - 12-15 reps (*Start: 15-25kg*) *lateral stability*
 
 **Tennis-Specific Power (4 min)**
 - **[Jump Squats](exercise-guides.md#jump-squats)** - 3 sets x 6-8 reps (both feet landing together)
@@ -134,8 +134,8 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 - **[Lat Pulldown Close Grip](exercise-guides.md#lat-pulldown-close-grip)** - 12-15 reps
 
 **Tennis Power Block (8 min)**
-1. **[Cable Wood Chops](exercise-guides.md#cable-wood-chops)** - 3 sets x 8 each side (*standing, both feet planted*)
-2. **[Rotary Torso Machine](exercise-guides.md#rotary-torso-machine)** - 2 sets x 12 each direction (*seated stability*)
+1. **[Cable Wood Chops](exercise-guides.md#cable-wood-chops)** - 3 sets x 8 each side (*Start: 10-15kg, both feet planted*)
+2. **[Rotary Torso Machine](exercise-guides.md#rotary-torso-machine)** - 2 sets x 12 each direction (*Start: 15-20kg, seated stability*)
 
 **Cool Down (2 min)**
 - Upper body stretches
@@ -156,18 +156,18 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 - You've already been moving, so minimal warm-up needed
 
 **Cardio Block (18 min)**
-**Option 1 - Treadmill Intervals:**
-- 3 min moderate walk (3% incline) 
-- 6 rounds: 45s brisk walk/light jog + 90s recovery
+**Option 1 - Treadmill (Beginner-friendly):**
+- 3 min easy walk (1% incline)
+- 6 rounds: 30s brisk walk + 90s easy walk recovery
 - 3 min cool down walk
 
-**Option 2 - Bike/Rower:**
-- 3 min moderate pace
-- 6 rounds: 45s higher intensity + 90s easy pace
+**Option 2 - Bike/Rower (Beginner-friendly):**
+- 3 min easy pace warm-up
+- 6 rounds: 30s moderate effort + 90s easy pace
 - 3 min cool down
 
 **Core Focus (3 min)**
-**2 rounds, 45s work/15s rest:**
+**2 rounds, 30s work/15s rest:**
 - **[Dead bugs](exercise-guides.md#dead-bugs)** *safe for ankle*
 - **[Plank hold](exercise-guides.md#plank-hold)**
 - **[Russian twists](exercise-guides.md#russian-twists)** *seated, both feet down*

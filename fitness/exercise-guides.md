@@ -27,7 +27,7 @@
 - **Avoid** letting shoulders roll forward or using momentum
 - **Range of motion** - full stretch to full contraction
 
-**Starting Weight:** 35-45kg
+**Starting Weight:** 15-20kg
 **Progression:** Add 2.5-5kg when you can complete all sets with 2 reps in reserve
 **Tennis Benefit:** Serves power development, upper body pushing strength
 
@@ -58,7 +58,7 @@
 - **Avoid** pulling behind neck - less effective and potentially dangerous
 - **Mind-muscle connection** - feel the width of your back working
 
-**Starting Weight:** 40-50kg
+**Starting Weight:** 25-30kg
 **Progression:** Increase when you can pause for 2 seconds at bottom position
 **Tennis Benefit:** Overhead stability, serve power, improved posture for desk work
 
@@ -89,7 +89,7 @@
 - **Full range of motion** - ear level to overhead
 - **Controlled movement** - no bouncing at bottom
 
-**Starting Weight:** 20-30kg
+**Starting Weight:** 10-15kg
 **Progression:** Add weight when you can complete all reps with shoulders staying back
 **Tennis Benefit:** Serve power, overhead shot stability, shoulder health
 
@@ -120,7 +120,7 @@
 - **Avoid** using momentum or rounding shoulders forward
 - **Elbow path** - keep them close to body, not flared wide
 
-**Starting Weight:** 35-45kg
+**Starting Weight:** 20-25kg
 **Progression:** Increase when you can hold the contraction for 2 seconds
 **Tennis Benefit:** Posture correction, pulling strength for groundstrokes, shoulder health
 
@@ -151,7 +151,7 @@
 - **Rope separation** - imagine trying to touch rope ends to ears
 - **Rear delt focus** - feel the burn in back of shoulders
 
-**Starting Weight:** 15-25kg
+**Starting Weight:** 8-12kg
 **Progression:** Add weight when you can hold end position for 2 seconds
 **Tennis Benefit:** Shoulder health, serve stability, injury prevention, posture
 
@@ -184,7 +184,7 @@
 - **Full range of motion** - deepest comfortable position
 - **Heel drive** - push through heels, not toes
 
-**Starting Weight:** 70-90kg
+**Starting Weight:** 10-20kg added to machine weight
 **Progression:** Add 5-10kg when you can control the full range of motion
 **Tennis Benefit:** Court movement power, lateral stability, jumping ability
 
@@ -215,7 +215,7 @@
 - **Full range of motion** - stretch to contraction
 - **Upper body still** - grip handles for stability only
 
-**Starting Weight:** 20-25kg
+**Starting Weight:** 10-15kg
 **Progression:** Add weight when you can pause at the top for 2 seconds
 **Tennis Benefit:** Deceleration control, injury prevention, posterior chain strength
 
@@ -247,7 +247,7 @@
 - **Full range of motion** - complete extension and flexion
 - **Upper body still** - core engaged, no swaying
 
-**Starting Weight:** 25-35kg
+**Starting Weight:** 15-20kg
 **Progression:** Add weight when you can hold top position for 2 seconds
 **Tennis Benefit:** Knee stability, court movement strength, jumping power
 
@@ -278,7 +278,7 @@
 - **Full range of motion** - together to maximum comfortable spread
 - **Control the return** - don't let weight slam back
 
-**Starting Weight:** 30-40kg
+**Starting Weight:** 15-25kg
 **Progression:** Add weight when you can hold the spread position for 2 seconds
 **Tennis Benefit:** Lateral movement stability, injury prevention, court agility
 
@@ -309,7 +309,7 @@
 - **Controlled movement** - especially important for your ankle history
 - **Balance** - equal pressure on both feet
 
-**Starting Weight:** 25-35kg
+**Starting Weight:** 15-20kg
 **Progression:** Add weight when you can hold the top position for 3 seconds
 **Tennis Benefit:** Ankle strength, court movement stability, injury prevention
 
@@ -342,7 +342,7 @@
 - **Controlled movement** - no jerky or ballistic motions
 - **Diagonal pattern** - shoulder to opposite hip motion
 
-**Starting Weight:** 20-30kg
+**Starting Weight:** 10-15kg
 **Progression:** Add weight when you can control the full range smoothly
 **Tennis Benefit:** Rotational power for groundstrokes and serves
 
@@ -374,7 +374,7 @@
 - **Elbow path** - wide pull targets different back muscles
 - **Posture maintenance** - chest up throughout
 
-**Starting Weight:** 35-45kg
+**Starting Weight:** 20-25kg
 **Tennis Benefit:** Different pulling angle, complete back development
 
 ---
@@ -405,7 +405,7 @@
 - **Deeper range** - can typically pull handle closer to chest
 - **Back thickness** - builds depth rather than width
 
-**Starting Weight:** 40-50kg
+**Starting Weight:** 25-30kg
 **Tennis Benefit:** Complete lat development, pulling strength variety
 
 ---
@@ -435,7 +435,7 @@
 - **Full range of motion** - stretch to full contraction
 - **Equal work both sides** - complete all reps one direction first
 
-**Starting Weight:** 25-35kg
+**Starting Weight:** 15-20kg
 **Progression:** Add weight when you can control full range smoothly
 **Tennis Benefit:** Rotational core strength, injury prevention
 
