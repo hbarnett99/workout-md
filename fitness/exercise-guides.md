@@ -1,3 +1,8 @@
+---
+title: Exercise Guides
+description: Workout guides with links for quick and clear use in the gym.
+---
+
 ## Exercise Guides {#exercise-guides}
 
 ### Machine-Based Upper Body
