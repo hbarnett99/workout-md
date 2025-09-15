@@ -6,7 +6,7 @@ description: Simple, non-tedious tracking methods for your fat loss and fitness 
 # Progress Tracking
 
 ::: info Anti-Tedious Philosophy
-Tracking should take less time than the actual activity. Focus on the big 3: calories, protein, and gym progression. Skip the micro-management that burns you out.
+Tracking should take less time than the actual activity. Focus on the big 3: calories, protein (180g target), and gym progression. Skip the micro-management that burns you out.
 :::
 
 ## Essential Apps & Tools
@@ -20,9 +20,9 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 
 ### Nutrition Tracking - Simplified Approach
 **[MyFitnessPal](https://www.myfitnesspal.com/)** - Set up once, use forever
-- **Strategy:** Pre-log your standard meals in Week 1
+- **Strategy:** Pre-log your updated standard meals in Week 1
 - **Daily use:** Copy yesterday's meals, adjust portions for calorie phase
-- **Focus:** Only track calories and protein grams
+- **Focus:** Only track calories and protein (180g target)
 - **Skip:** Vegetables under 50 calories, condiments, weekend social meals
 
 **Alternative: [Cronometer](https://cronometer.com/)**
@@ -34,6 +34,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 - **Frequency:** Weekly, same day/time (e.g., Sunday morning)
 - **Focus:** 4-week trends, ignore daily fluctuations
 - **Target:** 0.5-1kg loss per week average
+- **Starting point:** 73.5kg at 20.3% body fat (from Evolt scan)
 
 **Progress Photos**
 - **Frequency:** Every 2 weeks
@@ -46,14 +47,14 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 ### Morning Routine (2 minutes max)
 1. **If it's Sunday:** Weigh yourself, log in app
 2. **Every day:** Copy yesterday's meal plan in MyFitnessPal
-3. **Adjust portions** based on current calorie phase (2,300→2,200→2,100)
-4. **Check:** Do I have ingredients for planned meals?
+3. **Adjust portions** based on current calorie phase (2,200→2,100→2,000)
+4. **Quick protein check:** Aim for 180g daily (non-negotiable)
 
 ### Throughout the Day - Zero Extra Effort
 - **Meals:** Already pre-logged, just eat what's planned
-- **Snacks:** Pre-portioned, already logged
-- **Protein shakes:** Log immediately after drinking
+- **Protein focus:** 2 scoops protein powder + 200g chicken portions
 - **Deviations:** Only log if significant (>100 calories different)
+- **Weekend flexibility:** Don't obsess, get back on track Monday
 
 ### Gym Sessions - 30 seconds between sets
 **In Flexify:**
@@ -64,7 +65,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 
 ### Evening Review (1 minute)
 - **Food log complete?** Quick scan, don't obsess
-- **Hit protein target?** ~140g daily minimum
+- **Hit protein target?** ~180g daily (this is your anchor)
 - **Plan tomorrow's gym session?** Check schedule, prep gym clothes
 
 ## Weekly Assessment - Sunday Planning
@@ -74,45 +75,45 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 - **Weight trend** over past 4 weeks
 - **Progress photos** comparison if taken
 - **How clothes fit** - most reliable day-to-day indicator
-- **Energy levels** - should remain stable or improve
+- **Energy levels** - should remain stable with higher protein
 
-**Target Indicators:**
-- **Month 1:** 1-2kg loss, energy stable
-- **Month 2:** 1-2kg additional loss, some energy dip possible
-- **Months 3-4:** 2-4kg additional loss, expect some fatigue
+**Target Indicators (Based on Your Evolt Scan):**
+- **Month 1:** 1-2kg loss, energy stable (20.3% → 18.8% body fat)
+- **Month 2:** 1-2kg additional loss, slight energy dip possible (18.8% → 17.3%)
+- **Months 3-4:** 2-3kg additional loss, expect some fatigue (17.3% → 15%)
 
 ### Workout Performance Review (3 minutes)
 **In Flexify, check:**
 - **Weight progression** - increasing every 2-3 weeks?
 - **Session completion** - hitting 3 gym sessions weekly?
-- **Strength trends** - maintaining or improving despite deficit?
+- **Strength trends** - maintaining despite deficit?
 - **Ankle comfort** - any exercises causing discomfort?
 
 **Red flags:**
-- **Strength dropping** 2+ weeks in a row
+- **Strength dropping** 2+ weeks in a row (increase protein/calories)
 - **Can't complete sessions** due to fatigue
 - **Ankle pain** during or after workouts
 
 ### Schedule & Adherence Planning (2 minutes)
 **Review upcoming week:**
 - **Social plans** that might affect Friday workout
-- **Office days** (Tue/Wed) - cardio opportunities
+- **Office days** (Tue/Wed) - meal prep ready?
 - **Tennis scheduling** - Thursday prep routine planned?
-- **Meal prep** - do I need to shop Sunday?
+- **Protein prep** - do you have enough chicken/protein powder?
 
 ## Monthly Deep Dive - First Sunday of Month
 
 ### Comprehensive Assessment (15 minutes)
 **Body Composition Analysis:**
-- **Total weight lost** since start
+- **Total weight lost** since start (from 73.5kg baseline)
 - **Progress photo comparison** - front, side, back
-- **Measurements** - waist, chest, arms (optional, not essential)
 - **Body fat estimation** - visual comparison to reference images
+- **Target tracking:** Working toward 15% body fat goal
 
 **Performance Analysis:**
 - **Strength progression** - total weight increases across exercises
-- **Cardio improvement** - easier to complete sessions?
-- **Tennis performance** - notice any changes?
+- **Protein adherence** - hitting 180g target consistently?
+- **Tennis improvement** - technique focus paying off?
 - **Ankle stability** - improvements in balance/confidence?
 
 **Adherence Analysis:**
@@ -125,7 +126,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 **Consider reducing calories (next phase early) if:**
 - **Ahead of weight loss schedule** and energy good
 - **Strength still progressing** week to week
-- **No significant hunger or cravings**
+- **Protein target consistently hit** (180g daily)
 
 **Consider staying at current calories longer if:**
 - **Weight loss on track** but energy very low
@@ -135,7 +136,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 
 **Consider diet break (1 week maintenance) if:**
 - **Obsessive food thoughts** developing
-- **Strength dropping rapidly** despite adequate rest
+- **Strength dropping rapidly** despite adequate protein
 - **Sleep quality severely impacted**
 - **Social life suffering** due to food restrictions
 
@@ -144,7 +145,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 ### Primary Success Metrics (Track These)
 **Nutrition:**
 - **Average daily calories:** Within ±100 of phase target
-- **Average daily protein:** 130-150g (aim for 140g)
+- **Average daily protein:** 175-185g (180g target with 5g flexibility)
 - **Meal prep days per week:** 5-6 days minimum
 
 **Training:**
@@ -154,21 +155,21 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 
 **Body Composition:**
 - **Weekly weight trend:** 0.5-1kg loss per week average
-- **Monthly progress:** 2-3% body fat reduction visual estimate
-- **Overall goal:** 30% → 18% by January (pending body comp scan)
+- **Monthly progress:** Visual improvement toward 15% body fat goal
+- **Overall target:** 20.3% → 15% by January 2026
 
 ### Secondary Metrics (Nice to Have)
 - **Steps on office days:** 8,000+ when in office
-- **Cardio sessions:** 2 per week when added
-- **Tennis improvement:** Rally length, movement quality
+- **Tennis improvement:** Technique focus, movement quality
 - **Sleep consistency:** 7+ hours, similar bedtime/wake time
+- **Social balance:** Not isolating due to diet
 
 ### Warning Indicators - Take Action
 **Immediate Concern:**
 - **Weight stalled 2+ weeks** with perfect adherence
 - **Strength dropping** multiple sessions in a row
+- **Protein target consistently missed** (<170g daily)
 - **Ankle pain** during any exercise
-- **Sleep disruption** lasting more than few days
 
 **Consider Adjustment:**
 - **Energy crash** lasting more than a week
@@ -180,7 +181,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 
 ### Tier 1 - Absolutely Essential (Track These)
 1. **Gym weights and reps** - Progressive overload proof
-2. **Daily protein intake** - Muscle preservation priority
+2. **Daily protein intake** - 180g target for muscle preservation
 3. **Weekly weight average** - Fat loss progress indicator
 
 ### Tier 2 - Valuable But Optional
@@ -199,7 +200,7 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 ### Phone App Organization
 **Home Screen (Easy Access):**
 - Flexify app - for gym sessions
-- YouFoods - for quick meal logging
+- MyFitnessPal - for quick meal logging
 - Body weight app - for weekly weigh-ins
 
 **Secondary Screen:**
@@ -207,18 +208,18 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 - Camera - for progress photos
 - Notes app - for meal prep planning
 
-### YouFoods Setup Strategy
+### MyFitnessPal Setup Strategy
 **Week 1 Setup (15 minutes one time):**
-1. **Log all your standard meals** completely
-2. **Create custom recipes** for your meal prep dishes (if feature available)
-3. **Add frequent snacks** to favorites or quick-add
-4. **Set macro targets:** Calories based on phase, protein 140g
+1. **Log all your updated standard meals** completely (with 200g chicken portions)
+2. **Create custom recipes** for your meal prep dishes
+3. **Add 2-scoop protein shakes** to favorites
+4. **Set macro targets:** Calories based on phase, protein 180g
 
 **Ongoing Use (30 seconds daily):**
-1. **Copy yesterday's meals** (if feature available) or use favorites
-2. **Adjust portions** for current calorie phase
-3. **Quick-add** protein shakes and deviations
-4. **Weekly review** of averages, not daily perfection
+1. **Copy yesterday's meals** and adjust portions for current phase
+2. **Quick-add** protein shakes (2 scoops daily)
+3. **Weekly review** of averages, not daily perfection
+4. **Focus on protein target** - 180g non-negotiable
 
 ## Accountability Without Obsession
 
@@ -226,12 +227,12 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 **Sunday evening, ask yourself:**
 - **Am I stronger than last month?** (Check Flexify)
 - **Are my clothes fitting differently?** (Trust this over scale)
+- **Am I hitting 180g protein consistently?** (Priority metric)
 - **Do I have energy for daily activities?** (Including tennis)
-- **Am I enjoying the process** or fighting it?
 
 ### Monthly Reality Checks
 **First Sunday of each month:**
-- **Compare current progress photos** to start
+- **Compare current progress photos** to September baseline
 - **Review 4-week weight trend** (not daily variations)
 - **Assess gym performance trends** over full month
 - **Evaluate sustainability** - can I continue this approach?
@@ -241,20 +242,45 @@ Tracking should take less time than the actual activity. Focus on the big 3: cal
 - **Share gym PRs** when you hit them
 - **Meal prep coordination** - batch cooking days
 - **Accountability without judgment** - progress not perfection
-- **Celebrate non-scale victories** - strength, energy, tennis improvement
+- **Celebrate non-scale victories** - strength, tennis technique improvement
+
+## Updated Tracking Based on Your Body Scan
+
+### Baseline Metrics (From Evolt 360 Scan)
+- **Starting weight:** 73.5kg
+- **Starting body fat:** 20.3%
+- **BMR:** 1,635 kcal
+- **Lean body mass:** 58.6kg (optimal)
+- **Skeletal muscle mass:** 32.6kg (optimal)
+
+### Progress Milestones
+**Month 1 Target:**
+- **Weight:** 72-72.5kg
+- **Estimated body fat:** 18.5-19%
+- **Protein consistency:** 180g daily 6+ days/week
+
+**Month 2 Target:**
+- **Weight:** 70.5-71kg  
+- **Estimated body fat:** 17-17.5%
+- **Strength maintenance:** No major declines
+
+**Final Target (January 2026):**
+- **Weight:** 69-70kg
+- **Body fat:** 15-16%
+- **Lean mass maintained:** Focus on this over just weight loss
 
 ---
 
 ::: tip Precision Tracking Success Philosophy
-With your 4-month timeline to reach 15% body fat from 20.3%, closer macro tracking will accelerate results. Your BMR of 1635 kcal allows for higher calories than originally planned, making this more sustainable while still achieving significant body recomposition.
+With your accurate BMR (1,635 kcal) and clear starting point (20.3% body fat), precise tracking will accelerate results. Your higher protein target (180g) allows for a more aggressive approach while preserving muscle mass.
 :::
 
 ::: warning Balance Precision with Sustainability
-Track closely Sunday-Friday, allow flexibility Saturday for social events. Hit macro targets within ±10g on 6/7 days per week. If tracking starts causing food anxiety or social isolation, dial back the precision and focus on consistency over perfection.
+Track closely Sunday-Friday, allow flexibility Saturday for social events. Hit protein targets within ±5g on 6/7 days per week. If tracking starts causing food anxiety or social isolation, dial back the precision and focus on consistency over perfection.
 :::
 
 ::: info Related Resources
-- **[Meal Plan](../nutrition/meal-plan)** - Pre-planned meals make tracking effortless
+- **[Meal Plan](../nutrition/meal-plan)** - Pre-planned meals with 180g protein targets
 - **[Workout Plan](../fitness/workout-plan)** - Exercises to track and progress in Flexify
 - **[Equipment Guide](../guides/equipment)** - Tools that support simple tracking approaches
 :::

@@ -1,14 +1,15 @@
 ---
 title: Fat Loss Meal Plan
-description: Complete fat loss meal plan targeting 30% to 18% body fat reduction with progressive calorie approach
+description: Complete fat loss meal plan targeting 20.3% to 15% body fat reduction with progressive calorie approach
 ---
 
 # Fat Loss Meal Plan
 
 ::: info Goal Overview
-**Timeline:** September 2025 to January 2026 (4 months)  
-**Calorie Progression:** 2,300 → 2,200 → 2,100 calories  
-**Goal:** Reduce body fat from ~30% to 18% (pending body comp scan)  
+**Timeline:** September 2025 to January 2026 (4.5 months)  
+**Calorie Progression:** 2,200 → 2,100 → 2,000 calories  
+**Goal:** Reduce body fat from 20.3% to 15% (based on Evolt 360 body scan)  
+**Current Stats:** 73.5kg, 20.3% body fat, BMR 1,635 kcal  
 **Previous Success:** 81kg to 72kg cut demonstrates proven ability  
 :::
 
@@ -23,7 +24,6 @@ description: Complete fat loss meal plan targeting 30% to 18% body fat reduction
 - [Meal Prep Strategy](#meal-prep-strategy)
 - [Equipment Guide](#equipment-guide)
 - [Nutrition Tracking](#nutrition-tracking)
-- [Cardio Integration](#cardio-integration)
 - [Supplements & Recovery](#supplements-recovery)
 - [Success Strategies](#success-strategies)
 
@@ -33,151 +33,147 @@ Looking for specific content? Check out our [Workout Plan](../fitness/workout-pl
 
 ## Calorie Progression Strategy
 
-### Month 1 (September): 2,300 Calories - Foundation Phase
-**Focus:** Establish habits while body adapts to exercise
-- All meal portions increased by ~10%
+### Month 1 (September): 2,200 Calories - Foundation Phase
+**Focus:** Establish habits with higher protein intake
+- **Protein:** 180g (33%) = 720 calories
+- **Carbs:** 185g (34%) = 740 calories  
+- **Fat:** 82g (33%) = 740 calories
 - Priority on consistency over perfection
-- Energy levels should remain stable
-- Expected fat loss: 2-3%
+- Expected fat loss: 1-1.5%
 
-### Month 2 (October): 2,200 Calories - Adaptation Phase  
+### Month 2 (October): 2,100 Calories - Adaptation Phase  
 **Focus:** Moderate deficit as fitness improves
-- Reduce portions slightly or eliminate one small snack
+- **Protein:** 180g (34%) = 720 calories
+- **Carbs:** 173g (33%) = 690 calories
+- **Fat:** 77g (33%) = 690 calories
 - Body adapted to training load
-- Expected fat loss: 2-3%
+- Expected fat loss: 1-1.5%
 
-### Month 3-4 (Nov-Jan): 2,100 Calories - Final Push
+### Months 3-4 (Nov-Jan): 2,000 Calories - Final Push
 **Focus:** Target deficit for final body fat reduction
-- Original planned portions
+- **Protein:** 180g (36%) = 720 calories
+- **Carbs:** 160g (32%) = 640 calories
+- **Fat:** 71g (32%) = 640 calories
 - May require strategic refeed days
-- Expected fat loss: 4-6%
+- Expected fat loss: 2-3%
 
 ::: warning Flexibility Built In
-If ahead of schedule after Month 1, drop to 2,100 earlier. If behind schedule, stay at 2,200 longer. Adjust based on body comp results and energy levels.
+If ahead of schedule after Month 1, drop to 2,000 earlier. If behind schedule, stay at 2,100 longer. Adjust based on body composition results and energy levels.
 :::
 
 ## Daily Meal Plans
 
-### Month 1 Calorie Breakdown (2,300 calories)
-- **Breakfast:** 500-550 calories
-- **Lunch:** 650-700 calories  
-- **Dinner:** 600-650 calories
-- **Snacks:** 400-450 calories
+### Breakfast Options (35-40g protein)
+::: details Month 1: 550 calories | Months 3-4: 500 calories
 
-### Month 3-4 Calorie Breakdown (2,100 calories)
-- **Breakfast:** 450-500 calories
-- **Lunch:** 600-650 calories
-- **Dinner:** 550-600 calories
-- **Snacks:** 350-400 calories
+**Option 1 - High Protein Eggs**
+- 4 scrambled eggs (280 cal, 24g protein) *increased from 3*
+- Coles high protein yogurt (80 cal, 15g protein)
+- 1 cup frozen berries (80 cal, 1g protein)
+- Small handful nuts (90-110 cal, 3g protein) *adjust by phase*
 
-### Breakfast Options
-::: details Month 1: 500-550 calories | Months 3-4: 450-500 calories
+**Option 2 - Double Protein Smoothie**
+- 2 scoops WPI/WPC protein shake (300 cal, 50g protein) *increased from 1 scoop*
+- 1 banana (100 cal, 1g protein)
+- 1 cup berries (80 cal, 1g protein)
+- 1-2 slices toast (70-140 cal, 2-4g protein) *adjust by phase*
 
-**Option 1 - Quick Eggs & Yogurt**
-- 3 scrambled eggs (210 cal)
-- Coles high protein yogurt (80 cal)
-- 1 cup frozen berries (80 cal)
-- Handful nuts (80-130 cal) *adjust portion by phase*
-
-**Option 2 - Protein Smoothie**
-- WPI/WPC protein shake (150 cal)
-- 1 banana (100 cal)
-- 1 cup berries (80 cal)
-- 2-3 slices toast (160-240 cal) *adjust by phase*
-
-**Option 3 - Overnight Oats**
-- 1/2 cup oats + protein powder (300 cal)
-- Greek yogurt (100-150 cal) *adjust by phase*
-- Berries (80 cal)
+**Option 3 - Protein Overnight Oats**
+- 1/2 cup oats + 1.5 scoops protein powder (400 cal, 40g protein) *increased protein*
+- Greek yogurt 170g (100-150 cal, 15-20g protein) *adjust by phase*
+- Berries (80 cal, 1g protein)
 
 :::
 
-### Lunch Options
-::: details Month 1: 650-700 calories | Months 3-4: 600-650 calories
+### Lunch Options (45-50g protein)
+::: details Month 1: 700 calories | Months 3-4: 650 calories
 
-**Option 1 - Hainanese Chicken Rice**
-- 150g hainanese chicken (300 cal)
-- 3/4 cup cooked rice (200 cal)
-- Steamed vegetables (80 cal)
-- Light sauce/ginger scallion (70-120 cal) *adjust by phase*
+**Option 1 - Enhanced Hainanese Chicken Rice**
+- 200g hainanese chicken (400 cal, 40g protein) *increased from 150g*
+- 2/3 cup cooked rice (160 cal, 3g protein) *reduced from 3/4 cup*
+- Steamed vegetables (80 cal, 2g protein)
+- Light sauce/ginger scallion (60-100 cal, 2g protein) *adjust by phase*
 
-**Option 2 - Tuna Pasta**
-- 1 can tuna (150 cal)
-- 100g cooked pasta (220 cal)
-- Jar sauce (100 cal)
-- Frozen vegetables (80 cal)
-- Olive oil drizzle (100-150 cal) *adjust by phase*
+**Option 2 - High Protein Tuna Pasta**
+- 1.5 cans tuna (225 cal, 45g protein) *increased from 1 can*
+- 80g cooked pasta (180 cal, 6g protein) *reduced from 100g*
+- Jar sauce (100 cal, 2g protein)
+- Frozen vegetables (80 cal, 2g protein)
+- Olive oil drizzle (115-165 cal, 0g protein) *increased fat, adjust by phase*
 
-**Option 3 - Chicken Pasta Salad**
-- 120-150g cooked chicken (250-300 cal) *adjust by phase*
-- 80g cooked pasta (180 cal)
-- Mixed vegetables (80 cal)
-- Light dressing (140 cal)
-
-:::
-
-### Dinner Options
-::: details Month 1: 600-650 calories | Months 3-4: 550-600 calories
-
-**Option 1 - Air-fried Chicken**
-- 150g Portuguese seasoned chicken (300 cal)
-- 1 large microwaved sweet potato (200 cal)
-- Bagged salad with olive oil (100-150 cal) *adjust by phase*
-
-**Option 2 - Rice Cooker One-Pot**
-- 120-150g chicken (250-300 cal) *adjust by phase*
-- 1/2 cup rice (150 cal)
-- Mixed vegetables (80 cal)
-- Sauce/seasonings (70-120 cal) *adjust by phase*
-
-**Option 3 - Simple Stir-fry**
-- 120-150g chicken (250-300 cal) *adjust by phase*
-- 100g pasta (220 cal)
-- Frozen stir-fry vegetables (80 cal)
-- Oil/sauce (50-100 cal) *adjust by phase*
+**Option 3 - Boosted Chicken Pasta Salad**
+- 180g cooked chicken (360 cal, 45g protein) *increased from 120-150g*
+- 70g cooked pasta (160 cal, 5g protein) *reduced from 80g*
+- Mixed vegetables (80 cal, 2g protein)
+- Light dressing (100-150 cal, 0g protein) *adjust by phase*
 
 :::
 
-### Snack Options
-::: details Month 1: 400-450 calories | Months 3-4: 350-400 calories
+### Dinner Options (45-50g protein)
+::: details Month 1: 650 calories | Months 3-4: 600 calories
 
-**Daily Snack Combination:**
-- WPI/WPC protein shake (150 cal)
-- Measured cereal portion (200-250 cal) *adjust by phase*
+**Option 1 - Enhanced Air-fried Chicken**
+- 200g Portuguese seasoned chicken (400 cal, 50g protein) *increased from 150g*
+- 1 medium microwaved sweet potato (120 cal, 2g protein) *reduced from large*
+- Bagged salad with olive oil (130-180 cal, 2g protein) *increased fat, adjust by phase*
 
-**Alternative Snack Options:**
-- 2 hard-boiled eggs + apple (200 cal) + small nuts portion (100-150 cal)
-- Greek yogurt + nuts (250-300 cal) *adjust portions by phase*
-- Protein bar + banana (300-350 cal)
+**Option 2 - High Protein Rice Cooker One-Pot**
+- 180g chicken (360 cal, 45g protein) *increased from 120-150g*
+- 1/3 cup rice (100 cal, 2g protein) *reduced from 1/2 cup*
+- Mixed vegetables (80 cal, 2g protein)
+- Sauce/seasonings with olive oil (110-160 cal, 2g protein) *increased fat, adjust by phase*
+
+**Option 3 - Protein-Packed Stir-fry**
+- 180g chicken (360 cal, 45g protein) *increased from 120-150g*
+- 80g pasta (180 cal, 6g protein) *reduced from 100g*
+- Frozen stir-fry vegetables (80 cal, 2g protein)
+- Oil/jar sauce (30-80 cal, 0g protein) *adjust by phase*
+
+:::
+
+### Snack Options (50-55g protein)
+::: details Month 1: 300 calories | Months 3-4: 250 calories
+
+**Daily Snack Strategy:**
+- 2 scoops WPI/WPC protein shake (300 cal, 50g protein) *increased from 1 scoop*
+- OR 1 scoop protein + measured nuts (300 cal, 30g protein + healthy fats)
+
+**Alternative High-Protein Snacks:**
+- 3 hard-boiled eggs + small apple (290 cal, 18g protein)
+- 250g Greek yogurt + 20g nuts (280 cal, 25g protein)
+- Protein bar + small banana (270-320 cal, 20-25g protein)
+
+**Budget-Friendly Option:**
+- 4 hard-boiled eggs (280 cal, 24g protein) *prep on Sunday*
 :::
 
 ## Meal Prep Strategy {#meal-prep-strategy}
 
 ### Sunday Prep Session (2-3 hours)
-**Rice Cooker Hainanese Chicken:**
-- 1.5-2kg chicken thighs
+**Rice Cooker Hainanese Chicken (BULK):**
+- 2kg chicken thighs (gives 1.5 weeks of meals) *increased batch size*
 - Ginger slices (smashed, not chopped)
 - Garlic cloves (smashed)
 - Soy sauce, sesame oil, rice wine
 - Cook with minimal water - chicken creates broth
-- Save cooking liquid for rice
+- **Portion into 200g containers** for exact protein targets
 
 **Additional Prep:**
-- Hard-boil 10-12 eggs (budget-friendly protein)
-- Cook bulk pasta (500g)
+- Hard-boil 15-20 eggs (budget-friendly protein) *increased quantity*
+- Cook bulk pasta (400g) *reduced from 500g*
+- Cook bulk rice (reduce portions for lower carb targets)
 - Wash and portion berries
-- Pre-measure cereal portions for each phase
-- Portion nuts into small containers
+- **Portion protein powder** into daily containers (2 scoops each)
 
 ### Mid-Week Prep (Wednesday - WFH Day)
 **Air Fryer Portuguese Chicken:**
-- 1kg chicken thighs (buy when on sale, freeze portions)
+- 1.5kg chicken thighs (buy when on sale, freeze portions) *increased batch*
 - Portuguese seasoning
 - Air fry at 200°C for 25-30 minutes
-- Portion into containers
+- **Portion into 200g containers** for consistency
 
 ### Daily Tasks (5 minutes max)
-- Scramble eggs for breakfast (2 minutes)
+- Scramble 4 eggs for breakfast (3 minutes) *increased from 3*
 - Microwave sweet potatoes as needed
 - Steam frozen vegetables
 - Grab pre-portioned meals
@@ -185,7 +181,7 @@ If ahead of schedule after Month 1, drop to 2,100 earlier. If behind schedule, s
 ### Monday Lunch Prep Strategy
 Since you gym during lunch on Monday:
 - Prepare grab-and-go option Sunday night
-- Overnight oats or pre-made chicken pasta salad
+- High-protein overnight oats or pre-made chicken pasta salad
 - Eat post-workout for recovery
 
 ## Equipment Guide {#equipment-guide}
@@ -197,47 +193,52 @@ Since you gym during lunch on Monday:
 - One-pot pasta meals
 
 ### Air Fryer - Batch Cooking Champion
-- Batch cook seasoned chicken thighs
+- Batch cook seasoned chicken thighs (2kg batches)
 - Reheat pre-cooked proteins without drying
 - Quick vegetable cooking
 
 ### Stove - Daily Fresh Items
-- Daily egg scrambling
+- Daily egg scrambling (4 eggs now)
 - Pasta cooking when needed
 - Quick stir-fries
 
-## Budget-Friendly Protein Strategy
+## Budget-Friendly High-Protein Strategy
 
 ### Primary Proteins (Ranked by Cost-Effectiveness)
-1. **Eggs** - Cheapest complete protein, versatile
-2. **Chicken thighs** - Buy on sale, freeze portions  
-3. **Canned tuna** - Convenient, shelf-stable
-4. **WPI/WPC Protein** - Basic brand, not premium
-5. **Hainanese Chicken** - One batch feeds you for days
+1. **Chicken thighs** - Buy 5kg on sale ($8/kg), freeze in 200g portions  
+2. **Eggs** - 30-pack, cheapest complete protein, versatile
+3. **Canned tuna** - 12-pack when discounted, convenient
+4. **Basic WPI/WPC Protein** - 5kg tub for best per-serving cost
+5. **Greek yogurt** - 1kg tubs vs. individual containers
 
-### Seasoning Rotation (Keep It Interesting)
-- Portuguese chicken seasoning
-- Cajun spice blend
-- Italian herb mix
-- Asian-inspired (soy, ginger, garlic)
-- Indian spices (turmeric, cumin, paprika)
+### Bulk Buying Strategy
+**Monthly Stock-Up:**
+- 5kg chicken thighs when under $8/kg
+- 30-60 eggs 
+- 12-pack canned tuna when under $18
+- 5kg basic whey protein when under $120
+- 2kg Greek yogurt
+
+**Portion Control:**
+- Freeze chicken in 200g portions immediately
+- Pre-portion nuts into 20-30g containers
+- Divide protein powder into daily 2-scoop containers
 
 ## Shopping List Essentials
 
 ### Proteins (Buy Smart)
-- Chicken thighs (3-4kg when on sale, freeze portions)
-- Canned tuna (buy in bulk)
-- Eggs (18 pack)
-- Basic WPI/WPC protein powder
-- Coles high protein yogurt
+- Chicken thighs (5kg when on sale, freeze portions)
+- Canned tuna (12-pack bulk buy)
+- Eggs (30 pack)
+- Basic WPI/WPC protein powder (5kg tub)
+- Greek yogurt (1kg tubs)
 
-### Carbohydrates
-- Jasmine rice (bulk buy)
-- Pasta (various shapes, buy on sale)
-- Sweet potatoes
+### Carbohydrates (Reduced Portions)
+- Jasmine rice (bulk buy, but smaller portions)
+- Pasta (various shapes, reduced serving sizes)
+- Sweet potatoes (medium sized)
 - Oats
 - Bread (freeze portions)
-- Cereal (generic brands work fine)
 
 ### Vegetables & Fruits
 - Frozen vegetable mixes (cost-effective)
@@ -246,52 +247,31 @@ Since you gym during lunch on Monday:
 - Apples, bananas (budget-friendly fruits)
 - Ginger and garlic (buy once, use for weeks)
 
-### Pantry Staples
+### Healthy Fats & Pantry
+- Olive oil (increased usage)
+- Nuts (buy in bulk, portion out)
 - Jar sauces (Asian, Italian, Indian)
 - Soy sauce, sesame oil
-- Olive oil
-- Nuts (buy in bulk, portion out)
 - Rice wine/cooking wine
-
-## Cardio Integration {#cardio-integration}
-
-::: warning Integration with Workout Plan
-This cardio plan is designed to complement the [Workout Plan](../fitness/workout-plan). Tuesday office days are perfect for cardio since you'll already be more active.
-:::
-
-### Starting Phase (Month 1)
-- **Tuesday:** 20-25 minutes post-office (already active day)
-- **Weekend:** Flexible 20-25 minute session
-- **Intensity:** Incline walking (3-4% grade, brisk pace)
-
-### Progression (Month 2-3)
-- Add 5 minutes every 2 weeks
-- Target: 35-40 minutes before adding intensity
-- Eventually add light jogging intervals
-
-### Integration with Your Schedule
-- **Tuesday:** Post-office cardio (energy already up from walking)
-- **Weekend:** Flexible timing around social plans
-- **Friday flexibility:** Move weekend session if needed for social events
 
 ## Nutrition Tracking {#nutrition-tracking}
 
 ### Simplified Approach (Anti-Tedious)
 **Set Up Once, Use Forever:**
-- **Pre-log your standard meals** in MyFitnessPal once
+- **Pre-log your updated standard meals** in MyFitnessPal once
 - **Copy previous days** rather than logging from scratch
-- **Focus on the big 3:** calories, protein, gym progress
+- **Focus on the big 3:** calories, protein (180g target), gym progress
 
 **Daily Tracking (30 seconds max):**
 - Copy yesterday's meals if similar
 - Adjust portion sizes for current calorie phase
-- Quick protein shake log post-workout
+- Quick protein shake log (2 scoops now)
 
 ### Recommended Apps & Tools
 - **[Flexify](https://flexify.net/):** Track gym sessions and progressive overload
 - **[MyFitnessPal](https://www.myfitnesspal.com/):** Pre-log standard meals, then copy daily
 - **Body weight app:** Weekly weigh-ins (not daily obsessing)
-- **Food scale:** One-time investment for accuracy
+- **Food scale:** Essential for 200g chicken portions
 
 ### What NOT to Track (Time Wasters)
 - Individual vegetables in mixed dishes
@@ -303,7 +283,7 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 
 ### Budget-Conscious Supplement Priority
 **Tier 1 (Worth the Money):**
-- **Basic WPI/WPC Protein:** For post-workout and snacks (~$30-40/month)
+- **Basic WPI/WPC Protein:** 2 scoops daily for protein targets (~$40-50/month)
 - **Creatine Monohydrate:** Generic brand, 3-5g daily (~$10/month)
 
 **Tier 2 (If Budget Allows):**
@@ -311,9 +291,9 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 
 **Skip These (Save Your Money):**
 - Premium protein powders
-- BCAAs (redundant with adequate protein)
+- BCAAs (redundant with 180g protein daily)
 - Recovery drinks (overpriced marketing)
-- Magnesium (unless you have sleep/cramp issues)
+- Complex supplement stacks
 
 ### Free Recovery Strategies (Higher Impact)
 
@@ -328,17 +308,12 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 - **Ankle mobility:** Daily focus given previous injury
 - **Stretching:** Consistency beats perfection
 
-### Tennis/Ankle-Specific Recovery
-- **Pre-tennis ankle mobility** (in Thursday routine)
-- **Post-tennis ice if needed**
-- **Gradual balance training** (stand on one foot while brushing teeth)
-- **Supportive shoes** for tennis (worth the investment)
-
 ## Success Strategies {#success-strategies}
 
 ### Managing Your Spontaneous Social Life
 **Friday Night Strategy:**
 - **Lighter meals earlier** if you know you're going out
+- **Save fat/carb calories** for social eating
 - **Don't stress weekend perfection** - aim for 80% adherence
 - **Get back on track Monday** without guilt or restriction
 
@@ -349,9 +324,9 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 
 ### Work Schedule Optimization
 **Office Days (Tue/Wed):**
-- **Pack lunch always** - avoid spontaneous food court decisions
+- **Pack high-protein lunch always** - avoid food court decisions
 - **Use extra steps** as cardio bonus
-- **Post-work cardio** on Tuesday when energy is up
+- **Meal prep reliability** is crucial on office days
 
 **WFH Days (Mon/Thu/Fri):**
 - **Meal prep is crucial** - no easy food options nearby
@@ -362,28 +337,28 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 
 **Key Mental Shifts:**
 - **You've done this before** - 81kg to 72kg proves you can succeed
-- **Progressive calories** - this should feel easier than your previous cut
+- **Higher protein approach** - better muscle preservation than last time
 - **Focus on habits** not daily scale fluctuations
-- **Tennis performance will dip temporarily** - expect and plan for it
+- **Tennis technique focus** - energy isn't your limitation
 
 **Success Principles:**
-- **80% consistency** beats 100% perfection followed by quitting
-- **Meal prep Sunday** is non-negotiable
+- **180g protein non-negotiable** - everything else is flexible
+- **Meal prep Sunday** is your foundation
 - **Track the big 3:** calories, protein, gym progression
-- **Adjust based on results** - be flexible with the timeline
+- **Adjust based on results** - be flexible with timeline
 
 ### Plateau Prevention
 **Month 1:** If losing too fast, increase calories slightly
-**Month 2:** If stalling, consider dropping to 2,100 early
+**Month 2:** If stalling, consider dropping to 2,000 early
 **Month 3:** Strategic refeed day every 10-14 days if needed
 **Month 4:** Final push - expect some fatigue, plan accordingly
 
 ### Warning Signs to Monitor
 **Immediate Concerns:**
 - **Can't complete workouts** - increase calories temporarily
-- **Tennis performance severely impacted** - consider diet break
 - **Sleep quality drops** - usually first sign of over-reaching
 - **Extreme hunger/food obsession** - take a week at maintenance
+- **Strength declining rapidly** - prioritize protein and rest
 
 **Ankle-Specific Monitoring:**
 - **Any pain or instability** - modify exercises immediately
@@ -393,42 +368,42 @@ This cardio plan is designed to complement the [Workout Plan](../fitness/workout
 ## Expected Timeline & Results
 
 ### Month 1 (September) - Foundation
-**Calories:** 2,300 | **Body Fat Target:** 20.3% → 18.8%
-- Habit formation primary goal
-- Energy levels should remain stable with higher BMR
+**Calories:** 2,200 | **Body Fat Target:** 20.3% → 18.8%
+- Habit formation with higher protein primary goal
+- Energy levels should remain stable
 - Gym performance improving steadily
-- Tennis may actually improve with better fitness base
+- Tennis technique focus remains unaffected
 
 ### Month 2 (October) - Adaptation  
-**Calories:** 2,200 | **Body Fat Target:** 18.8% → 17.3%
+**Calories:** 2,100 | **Body Fat Target:** 18.8% → 17.3%
 - Body adapted to exercise load
 - Steady progress continues
 - May feel slight energy dip initially
-- Cardio fitness noticeably better
+- Strength maintained with higher protein
 
 ### Months 3-4 (Nov-Jan) - Final Push
-**Calories:** 2,100 | **Body Fat Target:** 17.3% → 15%
+**Calories:** 2,000 | **Body Fat Target:** 17.3% → 15%
 - Most challenging phase mentally
 - May need refeed days every 10-14 days
-- Tennis performance may dip slightly
+- Tennis performance unaffected (technique-limited)
 - Final push to lean, defined physique
 
 **Realistic Expectations:**
-- **Total Target:** 12% body fat reduction (pending scan results)
-- **Realistic Range:** 18-20% final body fat  
-- **Aggressive Goal:** 18% (requires 85%+ adherence)
+- **Target:** 15% body fat (5.3% reduction)
+- **Realistic Range:** 15-16% final body fat  
+- **Success Metric:** Visual improvement and strength maintenance
 
 ### Best Investment Priorities (In Order)
-1. **Body composition scan** - Know your starting point
-2. **Basic whey protein** - Essential for muscle preservation
-3. **Food scale** - Accuracy matters for tight timeline
+1. **5kg bulk protein powder** - Essential for daily targets
+2. **Food scale** - Accuracy for 200g protein portions
+3. **Bulk chicken purchasing** - Cost-effective protein source
 4. **Supportive tennis shoes** - Protect that ankle
-5. **Creatine** - Only if budget allows after the above
+5. **Creatine** - Only after the above essentials
 
 ---
 
 ::: tip Success Key
-You've proven you can lose weight (81kg→72kg). This time you have higher calories, better muscle preservation, and a progressive approach. Focus on meal prep consistency and let the gym enhance your results rather than relying on perfection.
+Your higher protein target (180g vs. previous 140g) combined with lower carbs will accelerate fat loss while preserving muscle. Focus on meal prep consistency with larger protein portions using your proven rice cooker + air fryer approach.
 :::
 
 ::: info Related Resources
