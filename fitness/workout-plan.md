@@ -23,7 +23,7 @@ This modified routine is designed for **fat loss (30% → 18% body fat)** while 
   - [Thursday - Pre-Tennis Prep](#thursday-tennis-prep)
   - [Sunday - Recovery & Mobility](#sunday-recovery)
 - [Ankle-Specific Modifications](#ankle-modifications)
-- [Exercise Guides](#exercise-guides)
+- [Exercise References](#exercise-references)
 - [Progression Guidelines](#progression)
 
 ::: tip Schedule Integration
@@ -423,7 +423,7 @@ All exercises modified to accommodate subtalar dislocation history. Machine-base
 4. **Return at lower intensity**
 5. **Consider body composition scan** to assess if goals need adjustment
 
-## Exercise Guides {#exercise-guides}
+## Exercise References {#exercise-references}
 
 For detailed exercise instructions, form cues, Jefit video links, and progression guidelines, see the **[Complete Exercise Guides](exercise-guides.md)**.
 
