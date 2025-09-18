@@ -1,454 +1,724 @@
 ---
-title: Workout Plan
-description: Complete workout plan tailored for your schedule, ankle considerations, and fat loss goals
+title: Enhanced Workout Plan
+description: Optimized Push/Pull/Legs split for accelerated fat loss and muscle building progress
 ---
 
 # Enhanced Workout Plan
 
 ::: info Plan Overview
-This modified routine is designed for **fat loss (30% → 18% body fat)** while accommodating your work schedule, previous ankle injury, and beginner tennis level. Focuses on machine-based training for safety and consistency.
+**Push/Pull/Legs split** designed for **20.3% → 15% body fat by Christmas 2025**. Features gym buddy integration, home workout backup options, and ankle-safe progressions based on your Evolt 360 body scan results.
 :::
 
 ## Table of Contents
 
 - [Weekly Schedule](#weekly-schedule)
-- [Strength Training Days](#strength-training)
-  - [Monday - Lunch Break Upper Body](#monday-lunch-upper)
-  - [Wednesday - Lower Body (Office Day)](#wednesday-lower-office)  
-  - [Friday - Push/Pull Flexibility](#friday-push-pull)
-- [Conditioning Days](#conditioning-days)
-  - [Tuesday - Office Day Cardio](#tuesday-office-cardio)
-  - [Saturday - Weekend Circuit](#saturday-weekend-circuit)
-- [Active Recovery](#active-recovery)
-  - [Thursday - Pre-Tennis Prep](#thursday-tennis-prep)
-  - [Sunday - Recovery & Mobility](#sunday-recovery)
-- [Ankle-Specific Modifications](#ankle-modifications)
+- [Training Days](#training-days)
+  - [Monday - Cardio + Core (Primary)](#monday-cardio-core-primary)
+  - [Monday - Home Backup Option](#monday-home-backup)
+  - [Tuesday - Push with Gym Buddy](#tuesday-push-gym-buddy)
+  - [Friday - Pull Focus](#friday-pull-focus)
+  - [Saturday - Legs Power](#saturday-legs-power)
 - [Exercise References](#exercise-references)
-- [Progression Guidelines](#progression)
+- [Progression Guidelines](#progression-guidelines)
+- [Schedule Optimization](#schedule-optimization)
 
-::: tip Schedule Integration
-Designed around your 9-5 work schedule, Tuesday/Wednesday office days, and social Friday nights. Flexible for spontaneous activities.
+::: tip Key Features
+- **Flexible Monday** - gym or home options based on schedule
+- **Gym buddy integration** on Tuesday for motivation
+- **Fresh weekend legs** when energy is highest
+- **Ankle-safe progressions** throughout all sessions
 :::
 
 ## Weekly Schedule {#weekly-schedule}
 
-- **Monday**: Lunch Break Upper Body (30-35 min) *WFH day flexibility*
-- **Tuesday**: Post-Office Cardio + Core (25 min) *Use extra steps as warm-up*
-- **Wednesday**: Lower Body Power (40 min) *Office day - PM session*
+- **Monday**: Cardio + Core (35-40 min lunch) OR Home Backup (25-30 min) *WFH flexibility*
+- **Tuesday**: Push with Gym Buddy (60 min) *Post-office energy + social motivation*
+- **Wednesday**: Rest Day *Office day recovery*
 - **Thursday**: Pre-Tennis Prep + Tennis (15 min prep)
-- **Friday**: Push/Pull OR Move to Saturday *Social life flexibility*
-- **Saturday**: Full Body Circuit (35 min) *Hangover-friendly if needed*
+- **Friday**: Pull Focus (50 min lunch) *Lax work day energy*
+- **Saturday**: Legs Power (45 min morning) *Fresh weekend energy*
 - **Sunday**: Active Recovery + Planning (20 min)
 
 ::: warning Ankle Safety Priority
-All exercises modified to accommodate subtalar dislocation history. Machine-based movements prioritized over free weights for stability and safety.
+All exercises maintain focus on bilateral movements and machine-based training for ankle stability. Progressive return to sport-specific movements.
 :::
 
-## Strength Training Days {#strength-training}
+## Training Days {#training-days}
 
-### Monday - Lunch Break Upper Body {#monday-lunch-upper}
+### Monday - Cardio + Core (Primary) {#monday-cardio-core-primary}
 
-::: details Session Overview - 30-35 minutes (lunch break friendly)
-**Focus:** Efficient upper body workout during lunch
-**Equipment:** Machines primarily for speed and safety
-**Benefits:** Minimal setup time, can work at moderate intensity
+::: details Session Overview - 35-40 minutes (lunch break)
+**Focus:** Enhanced cardio conditioning and core strength at gym
+**Equipment:** Cardio machines and floor space
+**Benefits:** Full gym session when time and energy allow
 :::
 
-**Quick Warm-up (5 min)**
-- Arm circles and shoulder rolls (1 min)
-- Light rowing machine (3 min)
-- Band pull-aparts if available (1 min)
+**Progressive Warm-up (5 min)**
+- Joint mobility (2 min)
+- Easy cardio buildup (3 min)
 
-**Strength Circuit (22 min)**
-**Superset A (3 rounds, 60s rest):**
-- **[Chest Press Machine](exercise-guides.md#chest-press-machine)** - 8-10 reps (*Start: 15-20kg*)
-- **[Lat Pulldown Wide Grip](exercise-guides.md#lat-pulldown-wide-grip)** - 10-12 reps (*Start: 25-30kg*)
+**Enhanced Cardio Block (22 min)**
 
-**Superset B (3 rounds, 60s rest):**
-- **[Shoulder Press Machine](exercise-guides.md#shoulder-press-machine)** - 10-12 reps (*Start: 10-15kg*)
-- **[Seated Cable Row](exercise-guides.md#seated-cable-row)** - 12-15 reps (*Start: 20-25kg*)
+::: details Rowing Machine Intervals (Target: Level 7 intensity)
+**[🎯 Rowing Technique Guide](https://www.concept2.com/indoor-rowers/training/technique-videos)**
 
-**Superset C (2 rounds, 45s rest):**
-- **[Cable Face Pulls](exercise-guides.md#cable-face-pulls)** - 15-20 reps (*Start: 8-12kg*)
-- **[Push-ups](exercise-guides.md#push-ups)** - Max reps (modify as needed)
+**Session Structure:**
+- **3 min** easy warm-up pace (Level 4-5)
+- **Main Set:** 6 rounds of interval work
+- **3 min** cool down pace (Level 3-4)
+
+**Interval Protocol:**
+- **1 min** steady pace (Level 6 - can maintain conversation)
+- **30 sec** harder pace (Level 8 - breathing hard but controlled)
+- **No rest between intervals** - continuous movement
+
+**Form Focus:**
+- Drive with legs first, then lean back, then pull arms
+- Return in reverse: arms, lean forward, bend knees
+- Maintain steady stroke rate during work periods
+:::
+
+::: details Alternative: Recumbent Bike Intervals
+**Equipment:** Recumbent exercise bike
+
+**Same interval structure as rowing:**
+- **3 min** easy warm-up
+- **6 rounds:** 1 min steady + 30 sec harder
+- **3 min** cool down
+
+**Benefits:**
+- Lower impact than rowing
+- Easy to maintain steady effort
+- Good option if rowing unavailable
+:::
+
+**Core Strength Circuit (10 min)**
+**3 rounds, 60 seconds rest between rounds:**
+
+::: details Dead Bugs
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1376/dead-bug)**
+
+**Setup:** 8-10 reps each side (16-20 total)
+
+**Form Focus:**
+- Lie on back, arms up toward ceiling
+- Knees bent 90 degrees, shins parallel to floor
+- Lower back pressed firmly against floor
+- Extend opposite arm and leg slowly
+:::
+
+::: details Lying Leg Raises
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/32/leg-raise)**
+
+**Setup:** 10-15 reps
+
+**Form Focus:**
+- Lie flat on back, hands under lower back for support
+- Start with bent knees (easier) or straight legs (harder)
+- Raise legs until thighs perpendicular to floor
+- Lower slowly without letting feet touch ground
+:::
+
+::: details Russian Twists (Bodyweight)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/58/russian-twist)**
+
+**Setup:** 15-20 reps each side (30-40 total)
+
+**Form Focus:**
+- Seated, leaning back slightly
+- Hands clasped in front of chest
+- Rotate torso side to side
+- Touch ground beside hips with hands
+:::
+
+::: details Bird Dogs
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1377/bird-dog)**
+
+**Setup:** 6-8 reps each side (12-16 total)
+
+**Form Focus:**
+- Hands and knees position
+- Extend opposite arm and leg
+- Hold for 2-3 seconds each extension
+- Return to start and switch sides
+:::
 
 **Cool Down (3 min)**
-- [Doorway chest stretch](#doorway-chest-stretch) - 30 seconds each arm
-- [Cross-body shoulder stretch](#cross-body-shoulder-stretch) - 30 seconds each arm
-- Light walking back to office
+- Light stretching, back to work prep
 
-### Wednesday - Lower Body (Office Day) {#wednesday-lower-office}
+### Monday - Home Backup Option {#monday-home-backup}
 
-::: details Session Overview - 40 minutes (post-office energy)
-**Focus:** Lower body strength with ankle safety priority
-**Equipment:** Machines only - no single-leg instability challenges
-**Benefits:** Safe progression, tennis power development
+::: details Enhanced Home Workout (25-30 minutes)
+**Focus:** Complete cardio + core session at home when gym isn't practical
+**Equipment:** 10kg dumbbell (or water jug), running shoes
+**Benefits:** Time-efficient, weather-proof, perfect for busy days
 :::
 
-**Dynamic Warm-up (6 min)**
-- Light walking (2 min) *extend office walking*
-- Hip circles and leg swings (2 min)
-- Ankle mobility focus (2 min) *critical for your ankle*
+**Quick Warm-up (3 min)**
+- Joint mobility and light movement
+- Movement preparation
 
-**Strength Training (28 min)**
-1. **[Leg Press Machine](exercise-guides.md#leg-press-machine)** - 4 sets x 8-10 reps (*Start: 10-20kg added*)
-   - *Both feet secure, no single-leg variations*
-   - *Rest: 90 seconds between sets*
+**Structured Running Intervals (12 min)**
+- **2 min** warm-up walk
+- **8 rounds of:**
+  - **30 sec** harder run (breathing hard but controlled)
+  - **30 sec** easy jog (can talk easily)
+- **2 min** cool-down walk
 
-2. **Superset A (3 rounds, 75s rest):**
-   - **[Leg Curl Machine](exercise-guides.md#leg-curl-machine)** - 10-12 reps (*Start: 10-15kg*)
-   - **[Leg Extension Machine](exercise-guides.md#leg-extension-machine)** - 12-15 reps (*Start: 15-20kg*)
+**Home Core Circuit (10 min)**
+**3 rounds, 60 seconds rest between rounds:**
 
-3. **Superset B (3 rounds, 60s rest):**
-   - **[Seated Calf Raise](exercise-guides.md#seated-calf-raise-machine)** - 15-20 reps (*Start: 15-20kg*)
-   - **[Hip Abductor Machine](exercise-guides.md#hip-abductor-machine)** - 12-15 reps (*Start: 15-25kg*) *lateral stability*
+::: details Dead Bugs (Home Version)
+**Setup:** 8-10 reps each side (16-20 total)
+- Same form as gym version
+- Use carpet or yoga mat for comfort
+:::
 
-**Tennis-Specific Power (4 min)**
-- **[Jump Squats](exercise-guides.md#jump-squats)** - 3 sets x 6-8 reps (both feet landing together)
-- *No single-leg bounds due to ankle history*
+::: details Lying Leg Raises (Home Version)
+**Setup:** 10-15 reps
+- Same form as gym version
+- Floor space and comfort mat
+:::
+
+::: details Weighted Russian Twists
+**Setup:** 15-20 reps each side (30-40 total)
+- **Use 10kg dumbbell or 4L water jug**
+- Hold weight with both hands
+- Rotate side to side, touch weight to ground beside hips
+:::
+
+::: details Bird Dogs (Home Version)
+**Setup:** 6-8 reps each side (12-16 total)
+- Same form as gym version
+- Perfect for home floor space
+:::
+
+**Cool Down (3 min)**
+- Light stretching, hydration
+- Ready for afternoon work
+
+**Equipment Needed:**
+- **10kg dumbbell** (optimal) or **4L water jug** (budget)
+- **Running shoes** for outdoor intervals
+- **Timer/phone** for intervals
+
+### Tuesday - Push with Gym Buddy {#tuesday-push-gym-buddy}
+
+::: details Session Overview - 60 minutes (gym buddy energy)
+**Focus:** Chest, shoulders, triceps
+**Equipment:** Machines primarily for sharing/spotting ease
+**Benefits:** Social motivation, shared equipment, spotting assistance
+:::
+
+**Social Warm-up (8 min)**
+- Joint mobility together (3 min)
+- Light cardio side by side (4 min)
+- Push movement preparation (1 min)
+
+**Push Training Block (47 min)**
+
+::: details Exercise 1: Chest Press Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
+
+**Setup:**
+- **4 sets x 8-10 reps**
+- **Rest: 2 minutes** *time to chat and spot*
+
+**Form Focus:**
+- Handles at mid-chest level
+- Don't lock elbows completely
+- Control the negative phase
+- Drive through handles, not just arms
+
+**Buddy Benefits:**
+- Spotting for safe progression
+- Form checking from side view
+- Motivation for extra reps
+:::
+
+::: details Exercise 2: Shoulder Press Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/46/machine-shoulder-press)**
+
+**Setup:**
+- **4 sets x 10-12 reps** (*Start: 10-15kg*)
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Handles at shoulder height when seated
+- Press up and slightly forward
+- Don't arch lower back excessively
+- Control descent to ear level
+
+**Buddy Benefits:**
+- Safety spotting for shoulder health
+- Feedback on range of motion
+- Encouragement through tough sets
+:::
+
+::: details Exercise 3: Incline Chest Press
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
+
+**Setup:**
+- **3 sets x 10-12 reps**
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Different angle from flat chest press
+- Upper chest emphasis
+- Squeeze chest muscles at contraction
+- Smooth, controlled movement
+
+**Equipment Options:**
+- Incline chest press machine if available
+- Cable chest press from different angle
+:::
+
+::: details Exercise 4: Lateral Raise Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/42/machine-lateral-raise)**
+
+**Setup:**
+- **3 sets x 12-15 reps** (*Light weight, control focus*)
+- **Rest: 60 seconds**
+
+**Form Focus:**
+- Raise arms to shoulder height only
+- Slight forward lean, don't arch back
+- Control the negative slowly
+- Feel sides of shoulders working
+
+**Buddy Benefits:**
+- Easy to share machine setup
+- Form feedback for shoulder safety
+:::
+
+::: details Exercise 5: Tricep Cable Extensions
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/69/cable-tricep-pushdown)**
+
+**Setup:**
+- **3 sets x 12-15 reps**
+- **Rest: 60 seconds**
+
+**Form Focus:**
+- Keep elbows stationary at sides
+- Full extension without locking out
+- Control the return phase
+- Feel triceps stretch at top
+:::
+
+::: details Exercise 6: Cable Wood Chops
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/744/cable-wood-chop)**
+
+**Setup:**
+- **2 sets x 8 each side** (*Both feet planted for ankle safety*)
+- **Rest: 45 seconds**
+
+**Form Focus:**
+- Cable at shoulder height
+- Both feet firmly planted (no pivoting)
+- Pull diagonally across body to opposite hip
+- Core-initiated movement, not arms
+
+**Tennis Benefits:**
+- Rotational power for groundstrokes
+- Core strength for serve stability
+
+**Ankle Safety:**
+- Never pivot feet during movement
+- Both feet stay planted throughout
+:::
+
+**Optional Buddy Cardio (5 min)**
+- Light bike together if both feeling energetic
+- Social cool down and week planning
+
+### Friday - Pull Focus {#friday-pull-focus}
+
+::: details Session Overview - 50 minutes (lax work day energy)
+**Focus:** Back, biceps, and rear deltoids
+**Equipment:** Cable machines and pulldown stations
+**Benefits:** Lax Friday work energy perfect for focused solo session
+:::
+
+**Extended Warm-up (7 min)**
+- Arm circles and shoulder rolls (2 min)
+- Light rowing machine (4 min)
+- Band pull-aparts if available (1 min)
+
+**Pull Training Block (38 min)**
+
+::: details Exercise 1: Lat Pulldown Wide Grip
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1268/machine-lat-pulldown)**
+
+**Setup:**
+- **4 sets x 8-10 reps** (*Current: 31.8kg, progress to 35kg*)
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Wide grip (1.5x shoulder width)
+- Pull to upper chest/collarbone
+- Squeeze shoulder blades together
+- Control the negative phase
+
+**Progression Notes:**
+- Currently challenging by sets 2-3 at 31.8kg
+- Next target: 35kg for same rep range
+:::
+
+::: details Exercise 2: Seated Cable Row
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/21/cable-seated-row)**
+
+**Setup:**
+- **4 sets x 10-12 reps** (*Current: 21.8kg, increase to 25kg*)
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Pull to lower ribs/upper abdomen
+- Maintain upright posture throughout
+- Lead with elbows, squeeze back muscles
+- Control return to full arm extension
+
+**Progression Notes:**
+- Current weight feels light at 21.8kg
+- Ready to jump to 25kg
+:::
+
+::: details Exercise 3: Single Arm Cable Row
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/21/cable-seated-row)**
+
+**Setup:**
+- **3 sets x 10-12 each arm** (*Current: 10.8kg, try 12kg*)
+- **Rest: 60 seconds between arms**
+
+**Form Focus:**
+- Your favorite mind-muscle connection exercise
+- Focus on lat engagement throughout range
+- Control both concentric and eccentric phases
+- Equal work both sides
+:::
+
+::: details Exercise 4: Rear Delt Fly Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/845/machine-rear-delt-fly)**
+
+**Setup:**
+- **3 sets x 15-20 reps** (*Current: 25kg x 8 - your favorite exercise!*)
+- **Rest: 60 seconds**
+
+**Form Focus:**
+- Sit facing machine, chest against pad
+- Handles at shoulder height
+- Pull handles apart in wide arc
+- Squeeze shoulder blades together
+
+**Why This Is Better Than Face Pulls:**
+- Your favorite exercise - perfect form already
+- Fixed range of motion - no getting yanked around
+- Perfect muscle targeting - rear delts get hit optimally
+- Stable setup every time
+:::
+
+::: details Exercise 5: Bicep Cable Curls
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/52/cable-bicep-curl)**
+
+**Setup:**
+- **3 sets x 12-15 reps** (*Light weight, focus on control*)
+- **Rest: 45 seconds**
+
+**Form Focus:**
+- Slow controlled negatives (2-3 seconds)
+- Squeeze at top of movement
+- Keep elbows stationary
+- Full range of motion
+:::
+
+**Cool Down (5 min)**
+- Cross-body shoulder stretches
+- Light walking, weekend prep
+
+### Saturday - Legs Power {#saturday-legs-power}
+
+::: details Session Overview - 45 minutes (fresh weekend energy)
+**Focus:** Quad dominant with hamstring lengthening (RDLs)
+**Equipment:** Leg press, extension machines, free weight area for RDLs
+**Benefits:** Fresh energy for heavy lifting, ankle-safe progressions
+:::
+
+**Comprehensive Warm-up (8 min)**
+- Light walking (2 min)
+- Hip circles and leg swings (3 min)
+- Ankle mobility focus (3 min) *critical preparation*
+
+**Legs Power Block (32 min)**
+
+::: details Exercise 1: Leg Press Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/132/machine-leg-press)**
+
+**Setup:**
+- **4 sets x 8-10 reps** (*Current: 10-20kg added, progress weekly*)
+- **Rest: 2 minutes** *this is your heavy compound movement*
+
+**Form Focus:**
+- Both feet secure on platform (6 inches apart)
+- Feet pointing slightly outward
+- Lower until thighs approach chest
+- Drive through heels, not toes
+
+**Ankle Safety Priority:**
+- Both feet planted firmly throughout
+- Never single-leg variations
+- Control the descent carefully
+:::
+
+::: details Exercise 2: Romanian Deadlifts (RDLs)
+**[🎯 View Exercise Demo](https://www.jefit.com/exercises/125/barbell-stiff-leg-deadlift)**
+
+**Setup:**
+- **4 sets x 10-12 reps** (*Start light: 20-30kg total*)
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Hip hinge pattern - push hips back first
+- Slight knee bend, mostly straight legs
+- Lower until comfortable hamstring stretch
+- Drive hips forward to return to standing
+
+**Hamstring Benefits:**
+- **Lengthens hamstrings** - opposite of shortening
+- Builds posterior chain strength
+- Improves hip mobility
+- Perfect for tennis movement prep
+
+**Ankle Considerations:**
+- Both feet planted throughout movement
+- Start very light to master pattern
+- Focus on balance and control
+:::
+
+::: details Exercise 3: Leg Extension Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1256/machine-single-leg-extension-)**
+
+**Setup:**
+- **3 sets x 12-15 reps** (*Start: 15-20kg*)
+- **Rest: 75 seconds**
+
+**Form Focus:**
+- Both legs under padding simultaneously
+- Slow controlled extension to full range
+- 2-3 second negative (lowering phase)
+- Squeeze quadriceps at top
+
+**Benefits:**
+- Quad isolation without balance challenge
+- Safe for ankle - no stability required
+- Perfect complement to RDLs
+:::
+
+::: details Exercise 4: Seated Calf Raise Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/144/machine-seated-calf-raise)**
+
+**Setup:**
+- **4 sets x 15-20 reps** (*Current: 20kg feels good*)
+- **Rest: 60 seconds**
+
+**Form Focus:**
+- Full range of motion - deep stretch to high contraction
+- Heels below footpad level for stretch
+- Rise as high as possible on toes
+- Control both up and down phases
+
+**Ankle Strength Priority:**
+- Critical for your ankle injury history
+- Build strength in safe, controlled environment
+- Your current 20kg baseline is excellent
+:::
+
+::: details Exercise 5: Hip Abductor Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1305/machine-hip-abduction)**
+
+**Setup:**
+- **3 sets x 12-15 reps** (*Start: 15-25kg*)
+- **Rest: 60 seconds**
+
+**Form Focus:**
+- Seated upright, back against pad
+- Press knees apart against resistance
+- Hold peak position for 1 second
+- Control the return together
+
+**Tennis Benefits:**
+- Lateral movement stability
+- Court direction change strength
+- Hip stability for serve power
+:::
+
+**Tennis Power Finisher (3 min)**
+
+::: details Jump Squats
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1210/dumbbell-jump-squat)**
+
+**Setup:**
+- **3 sets x 6-8 reps**
+- **Rest: 60 seconds between sets**
+
+**Critical Ankle Safety:**
+- **Both feet landing together ALWAYS**
+- No single-leg variations ever
+- Soft landings - bend knees to absorb
+- Stop immediately if any ankle discomfort
+
+**Form Focus:**
+- Squat down until thighs parallel
+- Explosive jump upward
+- Land softly on both feet simultaneously
+- Immediately descend into next rep
+:::
 
 **Ankle Recovery (2 min)**
-- [Ankle alphabet](exercise-guides.md#ankle-alphabet) - 30 seconds each foot
-- [Calf stretch against wall](exercise-guides.md#standing-calf-stretch) - 30 seconds each leg
-
-### Friday - Push/Pull Flexibility {#friday-push-pull}
-
-::: details Session Overview - 35-40 minutes (flexible timing)
-**Focus:** Upper body hypertrophy with social schedule flexibility
-**Equipment:** Cable machines for versatility
-**Benefits:** Can be moved to Saturday if Friday night plans arise
-:::
-
-**Dynamic Warm-up (5 min)**
-- Arm circles + shoulder rolls (2 min)
-- Band pull-aparts + external rotations (2 min)
-- Light cardio warm-up (1 min)
-
-**Push/Pull Supersets (25 min)**
-**Superset 1 (4 rounds, 75s rest):**
-- **[Chest Press Machine](exercise-guides.md#chest-press-machine)** - 8-10 reps (*Progressive from Monday*)
-- **[Cable Row Wide Grip](exercise-guides.md#cable-row-wide-grip)** - 10-12 reps (*Different angle than Monday*)
-
-**Superset 2 (3 rounds, 60s rest):**
-- **[Shoulder Press Machine](exercise-guides.md#shoulder-press-machine)** - 10-12 reps
-- **[Lat Pulldown Close Grip](exercise-guides.md#lat-pulldown-close-grip)** - 12-15 reps
-
-**Tennis Power Block (8 min)**
-1. **[Cable Wood Chops](exercise-guides.md#cable-wood-chops)** - 3 sets x 8 each side (*Start: 10-15kg, both feet planted*)
-2. **[Rotary Torso Machine](exercise-guides.md#rotary-torso-machine)** - 2 sets x 12 each direction (*Start: 15-20kg, seated stability*)
-
-**Cool Down (2 min)**
-- Upper body stretches
-- Prep for potential Friday night social activities
-
-## Conditioning Days {#conditioning-days}
-
-### Tuesday - Office Day Cardio {#tuesday-office-cardio}
-
-::: details Session Overview - 25 minutes (energy already up from office day)
-**Focus:** Capitalize on extra steps from office day
-**Equipment:** Cardio machines
-**Benefits:** Metabolic boost, tennis endurance base
-:::
-
-**Warm-up (3 min)**
-- Light walk/jog *extend your office walking*
-- You've already been moving, so minimal warm-up needed
-
-**Cardio Block (18 min)**
-**Option 1 - Treadmill (Beginner-friendly):**
-- 3 min easy walk (1% incline)
-- 6 rounds: 30s brisk walk + 90s easy walk recovery
-- 3 min cool down walk
-
-**Option 2 - Bike/Rower (Beginner-friendly):**
-- 3 min easy pace warm-up
-- 6 rounds: 30s moderate effort + 90s easy pace
-- 3 min cool down
-
-**Core Focus (3 min)**
-**2 rounds, 30s work/15s rest:**
-- **[Dead bugs](exercise-guides.md#dead-bugs)** *safe for ankle*
-- **[Plank hold](exercise-guides.md#plank-hold)**
-- **[Russian twists](exercise-guides.md#russian-twists)** *seated, both feet down*
-
-**Cool Down (1 min)**
-- Light stretching, prepare for tomorrow's office day
-
-### Saturday - Weekend Circuit {#saturday-weekend-circuit}
-
-::: details Session Overview - 35 minutes (hangover-friendly intensity)
-**Focus:** Full body conditioning with flexible intensity
-**Equipment:** Circuit training
-**Benefits:** Scalable based on Friday night activities
-:::
-
-**Flexible Warm-up (5 min)**
-- Joint mobility sequence (2 min)
-- Light cardio buildup (3 min) *pace based on how you feel*
-
-**Full Body Circuit (25 min)**
-**Circuit A - 3 rounds, adjust intensity as needed:**
-**45s work/15s rest, 90s rest between rounds:**
-
-1. **[Chest Press Machine](exercise-guides.md#chest-press-machine)** - Light weight, 12-15 reps
-2. **[Leg Press Machine](exercise-guides.md#leg-press-machine)** - Moderate weight, 15-20 reps  
-3. **[Bodyweight Squats](exercise-guides.md#bodyweight-squats)** - Controlled pace
-4. **[Seated Cable Row](exercise-guides.md#seated-cable-row)** - 12-15 reps
-5. **[Modified Push-ups](exercise-guides.md#push-ups)** - From knees if needed
-
-**Weekend Finisher (3 min)**
-*Only if feeling good:*
-- Walking in place or light movement
-- Skip if energy is low from social activities
-
-**Recovery Focus (2 min)**
-- Full body stretches
-- Plan upcoming week's meals and schedule
-
-## Active Recovery {#active-recovery}
-
-### Thursday - Pre-Tennis Prep {#thursday-tennis-prep}
-
-::: details Essential Pre-Tennis Routine - 15 minutes
-**Focus:** Ankle safety and tennis-specific preparation  
-**Equipment:** None required
-**Benefits:** Injury prevention, performance optimization, ankle protection
-:::
-
-**Ankle-Focused Preparation (6 min)**
-1. **[Ankle Alphabet](exercise-guides.md#ankle-alphabet)** - 1 min each foot *critical for your ankle*
-2. **[Ankle Pumps & Circles](exercise-guides.md#ankle-mobility-warmup)** - 1 min each foot
-3. **[Standing Calf Stretch](exercise-guides.md#standing-calf-stretch)** - 1 min each leg
-4. **[Single-leg Balance](exercise-guides.md#single-leg-balance)** - 30s each foot *progress gradually*
-
-**Tennis-Specific Preparation (7 min)**
-1. **[Tennis-Specific Arm Swings](exercise-guides.md#tennis-specific-arm-swings)** - 2 min
-2. **[Cross-body Shoulder Stretch](exercise-guides.md#cross-body-shoulder-stretch)** - 2 min  
-3. **[Hip Circles & Leg Swings](exercise-guides.md#hip-circles-leg-swings)** - 2 min
-4. **[Shadow Tennis Movements](exercise-guides.md#shadow-tennis-movements)** - 1 min *both feet planted*
-
-**Final Check (2 min)**
-- **Ankle stability test** - gentle side-to-side weight shifts
-- **Mental preparation** - focus on footwork rather than power
-- **Hydration check** - ensure adequate water intake
-
-::: warning Ankle Safety on Court
-- **Focus on footwork fundamentals** rather than explosive movements
-- **Communicate with tennis partners** about ankle history if needed
-- **Stop immediately** if any ankle discomfort arises
-- **Post-tennis ice** if any swelling or discomfort
-:::
-
-### Sunday - Recovery & Planning {#sunday-recovery}
-
-::: details Weekly Recovery & Planning - 20 minutes
-**Focus:** Physical recovery and week preparation
-**Equipment:** None required  
-**Benefits:** Reset for upcoming week, meal prep mental preparation
-:::
-
-**Physical Recovery (12 min)**
-1. **Gentle Movement Flow:**
-   - [Cat-cow stretches](exercise-guides.md#cat-cow-stretch) - 2 min
-   - [Child's pose to downward dog](exercise-guides.md#child-pose-to-downward-dog) - 2 min
-   - [Seated spinal twist](#seated-spinal-twist) - 2 min each side
-
-2. **Ankle-Specific Recovery:**
-   - [Ankle mobility sequence](#ankle-mobility-sequence) - 2 min
-   - [Calf and shin stretches](#calf-and-shin-stretches) - 2 min
-
-**Week Planning (8 min)**
-1. **Schedule Review (3 min):**
-   - Check upcoming week for social plans
-   - Identify potential Friday night conflicts
-   - Plan Monday lunch gym session timing
-
-2. **Meal Prep Mental Prep (3 min):**
-   - Review what proteins need cooking
-   - Check freezer for meal options
-   - Plan grocery shopping if needed
-
-3. **Equipment Check (2 min):**
-   - Ensure gym clothes are ready
-   - Check tennis equipment if playing this week
-   - Verify meal prep containers are clean
-
-## Ankle-Specific Modifications {#ankle-modifications}
-
-### Exercise Modifications for Subtalar History
-
-**Completely Avoid:**
-- Single-leg deadlifts
-- Single-leg squats/pistol squats  
-- Lateral lunges with weight
-- Plyometric single-leg bounds
-- Unstable surface training initially
-
-**Modified Approaches:**
-- **All jumps:** Land on both feet simultaneously
-- **Balance work:** Progress gradually, use wall support initially
-- **Calf raises:** Seated version primarily, standing with support
-- **Lateral movements:** Controlled, both feet, no explosive direction changes
-
-### Progressive Ankle Strengthening
-
-**Weeks 1-2: Foundation**
-- Ankle alphabet daily
-- Seated calf raises only
-- Wall-supported balance (30 seconds)
-- No lateral movements
-
-**Weeks 3-4: Gentle Progression**
-- Standing calf raises with wall support
-- Single-leg balance without support (15-30 seconds)
-- Gentle side-to-side weight shifts
-- Light resistance band ankle exercises
-
-**Weeks 5-8: Functional Integration**
-- Unsupported single-leg balance (45+ seconds)
-- Controlled lateral steps
-- Light tennis-specific footwork patterns
-- Progress to standing calf raises without support
-
-**Weeks 9+: Sport-Specific Return**
-- Lateral movement patterns for tennis
-- Change of direction drills (controlled)
-- Plyometric progressions (both feet only initially)
-- Full tennis movement integration
-
-### Tennis-Specific Ankle Considerations
-
-**Court Movement Strategy:**
-- **Focus on positioning** rather than explosive reaches
-- **Anticipate shots better** to reduce emergency stops
-- **Use proper tennis shoes** with ankle support
-- **Communicate limitations** to doubles partners if needed
-
-**Progressive Return:**
-- **Week 1-2:** Focus on hitting technique, minimal movement
-- **Week 3-4:** Basic side-to-side movement, controlled
-- **Week 5-6:** Normal rallies with focus on footwork
-- **Week 7+:** Full movement patterns as ankle allows
-
-## Progression Guidelines {#progression}
-
-### Fat Loss Training Approach
-
-**Month 1 (September): Habit Formation**
-- **Intensity:** RPE 6-7/10 (moderate, sustainable)
-- **Focus:** Learning movements, establishing routine
-- **Progression:** Master form before adding weight
-- **Schedule adherence:** Priority over perfect execution
-
-**Month 2 (October): Building Momentum**
-- **Intensity:** RPE 7-8/10 (challenging but controlled)
-- **Weight increases:** 10-15% where possible
-- **Cardio:** Add 5 minutes to sessions if energy allows
-- **Monitor:** Strength maintenance as calories drop
-
-**Months 3-4 (Nov-Jan): Final Push**
-- **Intensity:** Maintain RPE 7-8/10 despite calorie deficit
-- **Focus:** Strength preservation over progression
-- **Flexibility:** Take extra rest days if severely fatigued
-- **Priority:** Consistency over intensity
-
-### Weight Progression Guidelines
-
-**Upper Body Machines (Monday/Friday):**
-- **Week 1-2:** Establish baseline weights
-- **Week 3-4:** Increase by 2.5-5kg
-- **Monthly:** Aim for 5-10kg increases total
-- **Plateau strategy:** Add extra set before increasing weight
-
-**Lower Body Machines (Wednesday):**
-- **Week 1-2:** Focus on ankle comfort and form
-- **Week 3-4:** Increase by 5-10kg if feeling stable
-- **Monthly:** 10-20kg increases depending on ankle comfort
-- **Safety first:** Never sacrifice ankle stability for weight progression
-
-### Social Schedule Integration
-
-**Friday Night Flexibility:**
-- **Option 1:** Complete Friday workout in morning
-- **Option 2:** Move Friday workout to Saturday morning
-- **Option 3:** Skip Friday, double up Saturday circuit
-- **Recovery:** Light Sunday mobility if Saturday was intense
-
-**Monday Lunch Logistics:**
-- **Timing:** Allow 35 minutes total (including changing)
-- **Intensity:** Moderate to avoid excessive sweating
-- **Backup plan:** Bodyweight circuit if gym is busy
-- **Post-workout:** Quick protein shake, return to work
-
-## Health & Safety Guidelines
-
-### Managing Training During Deficit
-
-**Pre-Workout Fuel:**
-- **Timing:** Eat 100-200 calories 1-2 hours before
-- **Options:** Banana, small handful of nuts, or part of planned meal
-- **Hydration:** 400-500ml water 30-60 minutes before
-
-**During Workouts:**
-- **Rest periods:** Take prescribed rest seriously - no heroics during deficit
-- **Hydration:** Sip water between exercises
-- **Form focus:** Fatigue increases injury risk
-- **Listen to body:** Some days will be harder than others
-
-**Recovery Priorities:**
-- **Sleep:** 7-9 hours non-negotiable (your 11pm-7am target)
-- **Protein timing:** Post-workout shake within 2 hours
-- **Stress management:** Don't add training stress to life stress
-
-### Red Flags - Reduce Intensity or Take Rest Day
-
-**Physical Warning Signs:**
-- **Persistent fatigue** lasting more than 2 days
-- **Strength declining** for 2+ consecutive sessions
-- **Ankle pain or instability** of any kind
-- **Sleep disruption** or increased life stress
-- **Extreme hunger** or food preoccupation
-
-**Ankle-Specific Warning Signs:**
-- **Any pain** during or after exercise
-- **Swelling** that doesn't reduce with rest
-- **Instability** or "giving way" sensations
-- **Compensation patterns** (favoring one side)
-
-**Action Plan for Warning Signs:**
-1. **Take 1-2 rest days** immediately
-2. **Increase calories temporarily** by 200-300
-3. **Focus on sleep and hydration**
-4. **Return at lower intensity**
-5. **Consider body composition scan** to assess if goals need adjustment
+- Ankle alphabet - 30 seconds each foot
+- Standing calf stretch - 45 seconds each leg
 
 ## Exercise References {#exercise-references}
 
 For detailed exercise instructions, form cues, Jefit video links, and progression guidelines, see the **[Complete Exercise Guides](exercise-guides.md)**.
 
-The exercise guide includes:
+**Key Exercise Categories:**
+- **Pull Day:** [Lat Pulldown](exercise-guides.md#lat-pulldown-wide-grip), [Cable Rows](exercise-guides.md#seated-cable-row), [Rear Delt Fly](exercise-guides.md#rear-delt-fly-machine)
+- **Push Day:** [Chest Press](exercise-guides.md#chest-press-machine), [Shoulder Press](exercise-guides.md#shoulder-press-machine)
+- **Leg Day:** [Leg Press](exercise-guides.md#leg-press-machine), [RDLs](exercise-guides.md#romanian-deadlifts), [Calf Raises](exercise-guides.md#seated-calf-raise-machine)
+- **Cardio & Core:** [Dead Bugs](exercise-guides.md#dead-bugs), [Lying Leg Raises](exercise-guides.md#lying-leg-raises)
 
-- **Machine-based exercises** with setup and safety instructions
-- **Bodyweight and functional movements**
-- **Tennis-specific preparation exercises**
-- **Ankle-focused mobility and strengthening**
-- **Recovery and flexibility routines**
+## Progression Guidelines {#progression-guidelines}
 
-All exercises in this workout plan link directly to their detailed descriptions in the exercise guide.
+### Training Load Progression
+
+**Month 1 (September): Foundation**
+- **Focus:** Perfect form, establish baseline weights
+- **Progression:** Increase weight when you can complete all sets with 2 reps in reserve
+- **Rest periods:** Take full prescribed rest
+
+**Month 2 (October): Building Momentum**
+- **Weight increases:** 2.5-5kg for upper body, 5-10kg for lower body
+- **Intensity:** RPE 7-8/10 (challenging but controlled)
+- **Monitor:** Strength maintenance as calories drop
+
+**Months 3-4 (Nov-Jan): Final Push**
+- **Focus:** Strength preservation over progression
+- **Strategy:** Maintain weights, perfect technique
+- **Flexibility:** Extra rest days if severely fatigued
+
+### Session-Specific Progression
+
+**Pull Day (Friday):**
+- **Lat Pulldown:** Progress from 31.8kg → 35kg → 40kg over 8 weeks
+- **Cable Row:** From 21.8kg → 30kg+ with proper form
+- **Rear Delt Fly:** Building on your current 25kg x 8 success
+
+**Push Day (Tuesday):**
+- **Chest Press:** Start conservative, progress 2.5kg every 2 weeks
+- **Shoulder Press:** Most injury-prone - progress gradually
+- **Focus:** Perfect form with gym buddy feedback
+
+**Leg Day (Saturday):**
+- **Leg Press:** Fastest progression potential - 10-20kg increases possible
+- **RDLs:** Start very light (20-30kg), focus on hip hinge pattern first
+- **Calf Raises:** Build on your 20kg success gradually
+
+### Cardio Progression
+
+**Monday Cardio (Both Options):**
+- **Week 1-2:** 6 intervals, focus on maintaining Level 7 intensity
+- **Week 3-4:** 7 intervals, same intensity focus
+- **Week 5+:** Consider 8 intervals or increase work period to 45 seconds
+
+## Schedule Optimization {#schedule-optimization}
+
+### Gym Buddy Integration
+
+**Tuesday Benefits:**
+- **Motivation:** Consistent training partner
+- **Spotting:** Safe progression on chest/shoulder work
+- **Equipment sharing:** More efficient use of machines
+- **Social accountability:** Harder to skip sessions
+
+### Work Schedule Management
+
+**Monday Flexibility:**
+- **Primary:** Gym cardio + core when time/energy allows
+- **Backup:** Home workout when schedule is tight
+- **Decision factors:** Evening plans, energy levels, weather
+
+**Friday Pull Focus:**
+- **Lax work day energy:** Perfect for focused solo session
+- **Extended warm-up:** Take time to prepare properly
+- **Mind-muscle connection:** Focus on your favorite exercises (rear delt fly, single arm rows)
+
+**Saturday Morning Advantage:**
+- **Fresh energy:** Best time for heavy leg work
+- **Weekend mindset:** More time for proper warm-up and recovery
+- **RDL practice:** Learn hip hinge pattern when alert
+
+### Tennis Integration
+
+**Thursday Preparation:**
+- **Ankle-focused warm-up** following Saturday leg session
+- **Mobility priority** over strength
+- **Performance expectation:** Technique focus rather than explosive power
+
+**Weekly Flow:**
+- **Monday cardio** doesn't interfere with Thursday tennis
+- **Tuesday push** gives arms 2 days rest before tennis
+- **Saturday legs** gets 5 days recovery before next tennis
+
+### Home Equipment Recommendations
+
+**For Home Backup Days:**
+- **10kg dumbbell** - optimal weight for Russian twists
+- **4L water jug** - budget alternative
+- **Running shoes** - for outdoor intervals
+- **Phone timer** - for interval tracking
+
+## Health & Safety Guidelines
+
+### Fat Loss Training Considerations
+
+**Calorie Deficit Management:**
+- **Pre-workout fuel:** 100-200 calories 1-2 hours before longer sessions
+- **Hydration:** Extra attention during 60-minute Tuesday sessions
+- **Recovery:** Flexibility in choosing gym vs home on Monday
+
+### Ankle-Specific Safety
+
+**RDL Considerations:**
+- **Start very light** - master hip hinge pattern first
+- **Both feet planted** throughout movement
+- **Stop immediately** if any ankle instability
+- **Progress weight** only when balance is perfect
+
+**Daily Ankle Prep:**
+- **Saturday pre-workout:** Extended ankle mobility (5+ minutes)
+- **Post-RDL:** Gentle ankle circles and stretches
+- **Weekly assessment:** Monitor ankle response to new movement patterns
+
+### Warning Signs
+
+**Reduce intensity or take rest day if:**
+- **Persistent fatigue** lasting more than 2 days
+- **Strength declining** for 2+ consecutive sessions
+- **Ankle pain or instability** during or after RDLs
+- **Sleep disruption** from training stress
+- **Gym buddy sessions** becoming overly competitive vs. supportive
 
 ---
 
-::: tip Schedule Success Strategy
-Your biggest advantage is the flexible WFH schedule. Use Monday lunch sessions as anchor workouts, build Tuesday cardio around your office energy, and keep Friday flexible for social life. Consistency beats intensity during a calorie deficit.
+::: tip Enhanced Plan Success Strategy
+Your optimal muscle mass baseline (32.6kg) supports this intensive approach. The gym buddy accountability on Tuesday, flexible Monday options, and fresh weekend leg sessions create the perfect setup for accelerated progress toward your Christmas goal.
 :::
 
-::: warning Ankle Priority
-Your ankle history is the most important consideration. All progressions should prioritize ankle stability over weight increases. If any exercise causes ankle discomfort, immediately modify or skip it. Your long-term tennis enjoyment depends on ankle health.
+::: warning Progressive Overload Priority
+With your aggressive timeline, focus on consistent progression over perfection. The push/pull/legs split allows maximum intensity per muscle group while maintaining safety through machine-based movements and proper rest distribution.
 :::
 
 ::: info Related Resources
-- **[Fat Loss Meal Plan](../nutrition/meal-plan)** - Progressive calorie approach to support training
-- **[Equipment Guide](../guides/equipment)** - Gym machine focus and home options
-- **[Progress Tracking](../guides/tracking)** - Monitor strength while in deficit
+- **[Fat Loss Meal Plan](../nutrition/meal-plan)** - Coordinated calorie progression to support enhanced training
+- **[Exercise Guides](exercise-guides.md)** - Detailed instructions for all movements
+- **[Progress Tracking](../guides/tracking)** - Monitor strength gains during deficit phase
 :::
