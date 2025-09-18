@@ -119,16 +119,21 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Lower slowly without letting feet touch ground
 :::
 
-::: details Russian Twists (Bodyweight)
+::: details Russian Twists (Weighted)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/58/russian-twist)**
 
 **Setup:** 15-20 reps each side (30-40 total)
 
 **Form Focus:**
 - Seated, leaning back slightly
-- Hands clasped in front of chest
+- **Hold 10kg dumbbell, medicine ball, or weight plate**
 - Rotate torso side to side
-- Touch ground beside hips with hands
+- Touch weight to ground beside hips
+
+**Equipment Options at Gym:**
+- 10kg dumbbell (hold one end)
+- Medicine ball (if available)
+- Weight plate (10-15kg)
 :::
 
 ::: details Bird Dogs
