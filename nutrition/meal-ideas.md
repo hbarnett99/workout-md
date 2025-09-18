@@ -99,12 +99,13 @@ This guide contains all the meal options organized by preparation method and tim
 - **Protein shake** (1-2 scoops + milk) (280-450 cal, 25-50g protein)
 - **Hard-boiled eggs + apple** (200 cal, 12g protein)
 - **Cottage cheese + crackers** (200 cal, 15g protein)
-- **Handful of nuts + string cheese** (250 cal, 10g protein)
+- **Handful of nuts + Laughing Cow cheese** (2 triangles) (220 cal, 8g protein)
 
 ### Convenient Options
-- **Protein bar + piece of fruit** (300 cal, 20g protein)
+- **Protein bar + mandarins** (2-3 pieces) (280 cal, 20g protein)
 - **Trail mix** (nuts + dried fruit portions) (200 cal, 6g protein)
 - **Pre-made protein smoothie** (just shake and drink)
+- **Handful nuts + Laughing Cow cheese** (2 triangles) (200 cal, 6g protein)
 
 ## Mum's Batch Cooking List
 
@@ -271,8 +272,8 @@ This guide contains all the meal options organized by preparation method and tim
 
 ### Snack Staples
 - **Nuts:** Mixed nuts (bulk buy, portion into containers)
-- **Fruit:** Bananas, apples, frozen berries
-- **Protein:** Protein bars, string cheese, protein powder
+- **Fruit:** Bananas, apples, mandarins (easy to grab), frozen berries
+- **Protein:** Protein bars, Laughing Cow cheese, protein powder
 
 ---
 
