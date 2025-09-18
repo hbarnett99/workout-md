@@ -30,7 +30,10 @@ export default defineConfig({
       },
       {
         text: "Nutrition",
-        items: [{ text: "Meal Plan", link: "/nutrition/meal-plan" }],
+        items: [
+          { text: "Meal Plan", link: "/nutrition/meal-plan" },
+          { text: "Meal Ideas", link: "/nutrition/meal-ideas" },
+        ],
       },
       {
         text: "Guides",
