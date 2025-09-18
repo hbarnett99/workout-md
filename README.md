@@ -4,8 +4,8 @@ A comprehensive VitePress documentation site containing a complete workout and n
 
 ## 🎯 Features
 
-- **Complete Meal Plan**: 2,100 calorie daily plan targeting 30% → 17% body fat reduction
-- **Enhanced Workout Plan**: 6-day hybrid routine for strength, conditioning, and sports performance  
+- **BMR-Optimized Meal Plan**: Progressive calorie plan (2,400 → 2,200) targeting 20.3% → 15% body fat reduction
+- **Enhanced Push/Pull/Legs Split**: Comprehensive routine with gym buddy integration and home backup options for accelerated fat loss  
 - **Equipment Guides**: Maximize your kitchen and gym equipment
 - **Progress Tracking**: Apps and tools for monitoring success
 - **Sports-Specific Training**: Optimized for tennis, golf, and climbing
@@ -37,7 +37,7 @@ workout-md/
 ├── nutrition/
 │   └── meal-plan.md           # Complete meal planning guide
 ├── fitness/
-│   └── workout-plan.md        # Enhanced 6-day workout routine
+│   └── workout-plan.md        # Enhanced Push/Pull/Legs workout routine
 ├── guides/
 │   ├── equipment.md           # Equipment usage guide
 │   └── tracking.md            # Progress tracking guide
@@ -92,8 +92,8 @@ The deployment workflow (`.github/workflows/deploy.yml`) handles:
 - **Prep Strategy**: Weekly meal preparation guide
 - **Shopping Lists**: Essential ingredients and tools
 
-### Fitness Section  
-- **6-Day Routine**: Strength training + conditioning
+### Fitness Section
+- **Push/Pull/Legs Split**: Strength training + conditioning with flexible scheduling
 - **Progressive Overload**: Systematic progression guidelines
 - **Sports Integration**: Tennis, golf, and climbing optimization
 
@@ -104,8 +104,8 @@ The deployment workflow (`.github/workflows/deploy.yml`) handles:
 
 ## 📈 Goals & Timeline
 
-- **Primary Goal**: 30% → 17% body fat (13% reduction)
-- **Timeline**: 4 months (September → January)  
+- **Primary Goal**: 20.3% → 15% body fat (5.3% reduction)
+- **Timeline**: 3.5 months (September 2025 → January 2026)  
 - **Approach**: Caloric deficit + increased training volume
 - **Sports Focus**: Tennis, golf, and climbing performance
 

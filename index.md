@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Fitness & Nutrition"
   text: "Complete Transformation Guide"
-  tagline: Fat loss meal plan and sports-focused workout routine
+  tagline: BMR-optimized fat loss plan and enhanced Push/Pull/Legs workout routine
   actions:
     - theme: brand
       text: Start with Meal Plan
@@ -15,11 +15,11 @@ hero:
       link: /fitness/workout-plan
 
 features:
-  - title: 🍽️ Structured Meal Plan
-    details: 2,100 calorie daily plan designed to reduce body fat from 30% to 17% over 4 months with simple meal prep strategies
-  - title: 🏋️ Sports-Focused Workouts
-    details: 3-day gym routine optimized for tennis, golf, and climbing performance with detailed exercise guides and progression
+  - title: 🍽️ BMR-Optimized Meal Plan
+    details: Progressive calorie plan (2,400 → 2,200) designed to reduce body fat from 20.3% to 15% over 3.5 months with evidence-based nutrition strategies
+  - title: 🏋️ Enhanced Push/Pull/Legs Split
+    details: Comprehensive workout routine with gym buddy integration, home backup options, and ankle-safe progressions optimized for accelerated fat loss
   - title: 🔄 Integrated Approach
-    details: Synchronized nutrition and training plan with equipment guides, tracking tools, and cross-referenced resources
+    details: Synchronized nutrition and training plan based on Evolt 360 body scan data with equipment guides, tracking tools, and progress monitoring
 ---
 
