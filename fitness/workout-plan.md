@@ -241,23 +241,35 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Motivation for extra reps
 :::
 
-::: details Exercise 2: Shoulder Press Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/46/machine-shoulder-press)**
+::: details Exercise 2: Cable Lateral Raise (Primary)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/19/Cable-Lateral-Raise)**
 
 **Setup:**
-- **4 sets x 10-12 reps** (*Start: 10-15kg*)
+- **4 sets x 10-12 reps** (*Test minimum cable weight first*)
 - **Rest: 90 seconds**
 
 **Form Focus:**
-- Handles at shoulder height when seated
-- Press up and slightly forward
-- Don't arch lower back excessively
-- Control descent to ear level
+- Stand beside cable stack, grab handle with far hand
+- Raise arm out to side until parallel with floor
+- Control the negative slowly
+- Feel sides of shoulders working
 
-**Buddy Benefits:**
-- Safety spotting for shoulder health
-- Feedback on range of motion
-- Encouragement through tough sets
+**Equipment Notes:**
+- Use low cable position
+- Single handle attachment
+- Start light to test minimum weight
+- **Backup: Machine Lateral Raise** if cable weight too heavy
+
+**Why Better Than Shoulder Press:**
+- Direct side deltoid targeting
+- No front delt dominance
+- Better isolation for shoulder width
+- Constant tension throughout range
+
+**Backup Exercise: Machine Lateral Raise**
+- Same rep scheme if cable doesn't work
+- Seated position, more stable
+- Easier weight adjustments
 :::
 
 ::: details Exercise 3: Incline Chest Press
@@ -278,39 +290,32 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Cable chest press from different angle
 :::
 
-::: details Exercise 4: Lateral Raise Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/42/machine-lateral-raise)**
+::: details Exercise 4: Overhead Cable Tricep Extensions
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/70/cable-overhead-tricep-extension)**
 
 **Setup:**
-- **3 sets x 12-15 reps** (*Light weight, control focus*)
+- **3 sets x 12-15 reps** (*Use bar attachment*)
 - **Rest: 60 seconds**
 
 **Form Focus:**
-- Raise arms to shoulder height only
-- Slight forward lean, don't arch back
-- Control the negative slowly
-- Feel sides of shoulders working
+- Face away from cable stack, bar attachment overhead
+- Elbows stay stationary and high
+- Lower bar behind head until deep tricep stretch
+- Extend arms fully but don't lock out harshly
 
-**Buddy Benefits:**
-- Easy to share machine setup
-- Form feedback for shoulder safety
+**Why Better Than Regular Extensions:**
+- Overhead position provides better tricep stretch
+- Different angle complements pressing movements
+- Bar attachment more comfortable than rope
+- Better range of motion for muscle development
+
+**Form Cues:**
+- Keep elbows pointing forward, not flaring out
+- Control the eccentric (lowering) phase
+- Feel the stretch at the bottom position
 :::
 
-::: details Exercise 5: Tricep Cable Extensions
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/69/cable-tricep-pushdown)**
-
-**Setup:**
-- **3 sets x 12-15 reps**
-- **Rest: 60 seconds**
-
-**Form Focus:**
-- Keep elbows stationary at sides
-- Full extension without locking out
-- Control the return phase
-- Feel triceps stretch at top
-:::
-
-::: details Exercise 6: Cable Wood Chops
+::: details Exercise 5: Cable Wood Chops
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/744/cable-wood-chop)**
 
 **Setup:**
@@ -369,22 +374,34 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Next target: 35kg for same rep range
 :::
 
-::: details Exercise 2: Seated Cable Row
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/21/cable-seated-row)**
+::: details Exercise 2: Chest Supported Row (Narrow Grip)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/700/seated-machine-row)**
 
 **Setup:**
-- **4 sets x 10-12 reps** (*Current: 21.8kg, increase to 25kg*)
+- **4 sets x 10-12 reps** (*Progress from 25kg starting point*)
 - **Rest: 90 seconds**
 
 **Form Focus:**
-- Pull to lower ribs/upper abdomen
-- Maintain upright posture throughout
-- Lead with elbows, squeeze back muscles
-- Control return to full arm extension
+- **Narrow grip** for increased lat focus
+- Chest firmly against pad, feet planted
+- Pull handles to lower ribs/upper abdomen
+- Squeeze shoulder blades together at peak
+
+**Why Narrow Grip:**
+- **Better lat activation** than wide grip
+- **Increased range of motion** to chest
+- **Complements wide-grip pulldowns** for complete back development
+- **More bicep involvement** for arm growth
 
 **Progression Notes:**
-- Current weight feels light at 21.8kg
-- Ready to jump to 25kg
+- Start at 25kg based on your cable row strength
+- Focus on controlled negatives
+- **Backup: Seated Cable Row** if machine unavailable
+
+**Benefits Over Cable Row:**
+- Fixed chest support eliminates momentum
+- Consistent setup every rep
+- Easier to focus purely on pulling muscles
 :::
 
 ::: details Exercise 3: Single Arm Cable Row
@@ -421,18 +438,29 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Stable setup every time
 :::
 
-::: details Exercise 5: Bicep Cable Curls
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/52/cable-bicep-curl)**
+::: details Exercise 5: Preacher Bicep Curls
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/113/barbell-preacher-curl)**
 
 **Setup:**
-- **3 sets x 12-15 reps** (*Light weight, focus on control*)
+- **3 sets x 12-15 reps** (*Start light, focus on control*)
 - **Rest: 45 seconds**
 
 **Form Focus:**
+- Chest against preacher pad, arms over the angled surface
 - Slow controlled negatives (2-3 seconds)
+- Don't fully lock out at bottom (keep tension)
 - Squeeze at top of movement
-- Keep elbows stationary
-- Full range of motion
+
+**Why Better Than Regular Curls:**
+- Eliminates momentum and cheating
+- Fixed arm position forces biceps isolation
+- Better mind-muscle connection
+- Consistent range of motion every rep
+
+**Equipment Options:**
+- Machine preacher curl (preferred)
+- Dumbbell preacher curl
+- Barbell preacher curl
 :::
 
 **Cool Down (5 min)**
@@ -443,7 +471,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 
 ::: details Session Overview - 45 minutes (fresh weekend energy)
 **Focus:** Quad dominant with hamstring lengthening (RDLs)
-**Equipment:** Leg press, extension machines, free weight area for RDLs
+**Equipment:** Hack squat, extension machines, free weight area for RDLs
 **Benefits:** Fresh energy for heavy lifting, ankle-safe progressions
 :::
 
@@ -454,23 +482,29 @@ All exercises maintain focus on bilateral movements and machine-based training f
 
 **Legs Power Block (32 min)**
 
-::: details Exercise 1: Leg Press Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/132/machine-leg-press)**
+::: details Exercise 1: Hack Squat Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/127/hack-squat)**
 
 **Setup:**
-- **4 sets x 8-10 reps** (*Current: 10-20kg added, progress weekly*)
+- **4 sets x 8-10 reps** (*Start conservative, progress weekly*)
 - **Rest: 2 minutes** *this is your heavy compound movement*
 
 **Form Focus:**
-- Both feet secure on platform (6 inches apart)
-- Feet pointing slightly outward
-- Lower until thighs approach chest
-- Drive through heels, not toes
+- Back flat against pad, shoulders under shoulder pads
+- Feet positioned shoulder-width apart on platform
+- Lower until thighs parallel or comfortable depth
+- Drive through heels to return to start
 
 **Ankle Safety Priority:**
 - Both feet planted firmly throughout
-- Never single-leg variations
+- More natural squat movement than leg press
 - Control the descent carefully
+- Better quad activation than leg press
+
+**Benefits over Leg Press:**
+- More athletic movement pattern
+- Better quad development
+- Easier progressive overload
 :::
 
 ::: details Exercise 2: Romanian Deadlifts (RDLs)
@@ -586,9 +620,9 @@ All exercises maintain focus on bilateral movements and machine-based training f
 For detailed exercise instructions, form cues, Jefit video links, and progression guidelines, see the **[Complete Exercise Guides](exercise-guides.md)**.
 
 **Key Exercise Categories:**
-- **Pull Day:** [Lat Pulldown](exercise-guides.md#lat-pulldown-wide-grip), [Cable Rows](exercise-guides.md#seated-cable-row), [Rear Delt Fly](exercise-guides.md#rear-delt-fly-machine)
-- **Push Day:** [Chest Press](exercise-guides.md#chest-press-machine), [Shoulder Press](exercise-guides.md#shoulder-press-machine)
-- **Leg Day:** [Leg Press](exercise-guides.md#leg-press-machine), [RDLs](exercise-guides.md#romanian-deadlifts), [Calf Raises](exercise-guides.md#seated-calf-raise-machine)
+- **Pull Day:** [Lat Pulldown](exercise-guides.md#lat-pulldown-wide-grip), [Chest Supported Row](exercise-guides.md#chest-supported-row), [Rear Delt Fly](exercise-guides.md#rear-delt-fly-machine)
+- **Push Day:** [Chest Press](exercise-guides.md#chest-press-machine), [Cable Lateral Raise](exercise-guides.md#cable-lateral-raise)
+- **Leg Day:** [Hack Squat](exercise-guides.md#hack-squat-machine), [RDLs](exercise-guides.md#romanian-deadlifts), [Calf Raises](exercise-guides.md#seated-calf-raise-machine)
 - **Cardio & Core:** [Dead Bugs](exercise-guides.md#dead-bugs), [Lying Leg Raises](exercise-guides.md#lying-leg-raises)
 
 ## Progression Guidelines {#progression-guidelines}
@@ -614,16 +648,16 @@ For detailed exercise instructions, form cues, Jefit video links, and progressio
 
 **Pull Day (Friday):**
 - **Lat Pulldown:** Progress from 31.8kg → 35kg → 40kg over 8 weeks
-- **Cable Row:** From 21.8kg → 30kg+ with proper form
+- **Chest Supported Row:** Start at 25kg, progress to 30kg+ with proper form
 - **Rear Delt Fly:** Building on your current 25kg x 8 success
 
 **Push Day (Tuesday):**
 - **Chest Press:** Start conservative, progress 2.5kg every 2 weeks
-- **Shoulder Press:** Most injury-prone - progress gradually
+- **Cable Lateral Raise:** Test minimum cable weight, progress gradually
 - **Focus:** Perfect form with gym buddy feedback
 
 **Leg Day (Saturday):**
-- **Leg Press:** Fastest progression potential - 10-20kg increases possible
+- **Hack Squat:** Fastest progression potential - 10-20kg increases possible
 - **RDLs:** Start very light (20-30kg), focus on hip hinge pattern first
 - **Calf Raises:** Build on your 20kg success gradually
 
