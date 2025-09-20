@@ -241,7 +241,25 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Motivation for extra reps
 :::
 
-::: details Exercise 2: Cable Lateral Raise (Primary)
+::: details Exercise 2: Incline Chest Press
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
+
+**Setup:**
+- **3 sets x 10-12 reps**
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Different angle from flat chest press
+- Upper chest emphasis
+- Squeeze chest muscles at contraction
+- Smooth, controlled movement
+
+**Equipment Options:**
+- Incline chest press machine if available
+- Cable chest press from different angle
+:::
+
+::: details Exercise 3: Cable Lateral Raise (Primary)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/19/Cable-Lateral-Raise)**
 
 **Setup:**
@@ -272,24 +290,6 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Easier weight adjustments
 :::
 
-::: details Exercise 3: Incline Chest Press
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
-
-**Setup:**
-- **3 sets x 10-12 reps**
-- **Rest: 90 seconds**
-
-**Form Focus:**
-- Different angle from flat chest press
-- Upper chest emphasis
-- Squeeze chest muscles at contraction
-- Smooth, controlled movement
-
-**Equipment Options:**
-- Incline chest press machine if available
-- Cable chest press from different angle
-:::
-
 ::: details Exercise 4: Overhead Cable Tricep Extensions
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/70/cable-overhead-tricep-extension)**
 
@@ -315,26 +315,29 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Feel the stretch at the bottom position
 :::
 
-::: details Exercise 5: Cable Wood Chops
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/744/cable-wood-chop)**
+::: details Exercise 5: Cable Tricep Kickbacks
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1234/cable-tricep-kickback)**
 
 **Setup:**
-- **2 sets x 8 each side** (*Both feet planted for ankle safety*)
+- **2 sets x 12-15 reps each arm**
 - **Rest: 45 seconds**
 
 **Form Focus:**
-- Cable at shoulder height
-- Both feet firmly planted (no pivoting)
-- Pull diagonally across body to opposite hip
-- Core-initiated movement, not arms
+- Single handle attachment, low cable position
+- Hinge forward at hips, upper arm parallel to floor
+- Extend arm back until straight, squeeze tricep
+- Control the return, don't let weight swing
 
-**Tennis Benefits:**
-- Rotational power for groundstrokes
-- Core strength for serve stability
+**Why Perfect for Push Day:**
+- Completes tricep development after overhead extensions
+- Different angle than overhead tricep work
+- Single-arm allows focus on weaker side
+- Perfect gym buddy exercise for spotting
 
-**Ankle Safety:**
-- Never pivot feet during movement
-- Both feet stay planted throughout
+**Tricep Development:**
+- **Overhead Extensions:** Long head emphasis
+- **Kickbacks:** Lateral head emphasis
+- Complete tricep training from two angles
 :::
 
 **Optional Buddy Cardio (5 min)**
@@ -404,21 +407,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Easier to focus purely on pulling muscles
 :::
 
-::: details Exercise 3: Single Arm Cable Row
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/21/cable-seated-row)**
-
-**Setup:**
-- **3 sets x 10-12 each arm** (*Current: 10.8kg, try 12kg*)
-- **Rest: 60 seconds between arms**
-
-**Form Focus:**
-- Your favorite mind-muscle connection exercise
-- Focus on lat engagement throughout range
-- Control both concentric and eccentric phases
-- Equal work both sides
-:::
-
-::: details Exercise 4: Rear Delt Fly Machine
+::: details Exercise 3: Rear Delt Fly Machine
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/845/machine-rear-delt-fly)**
 
 **Setup:**
@@ -436,6 +425,31 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Fixed range of motion - no getting yanked around
 - Perfect muscle targeting - rear delts get hit optimally
 - Stable setup every time
+:::
+
+::: details Exercise 4: EZ Bar Reverse Curls
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1241/ez-bar-reverse-curl)**
+
+**Setup:**
+- **3 sets x 12-15 reps** (*Start light: 15-20kg total*)
+- **Rest: 60 seconds**
+
+**Form Focus:**
+- EZ bar with overhand grip, hands shoulder-width apart
+- Elbows close to sides, don't swing
+- Slow controlled movement both up and down
+- Focus on forearm burn, not bicep activation
+
+**Why EZ Bar Over Straight Bar:**
+- **Natural wrist angle** - more comfortable for reverse grip
+- **Better grip comfort** - less wrist strain
+- **Wrist pain management** - critical for your tennis needs
+- **Forearm targeting** - hits extensors that balance all your pulling work
+
+**Tennis Benefits:**
+- **Grip strength** for racquet control
+- **Wrist stability** for injury prevention
+- **Forearm balance** after heavy pulling exercises
 :::
 
 ::: details Exercise 5: Preacher Bicep Curls
@@ -456,6 +470,11 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Fixed arm position forces biceps isolation
 - Better mind-muscle connection
 - Consistent range of motion every rep
+
+**Perfect Arm Finish:**
+- **Reverse curls** hit forearms and extensors
+- **Preacher curls** isolate biceps with perfect form
+- Complete arm development to finish pull day
 
 **Equipment Options:**
 - Machine preacher curl (preferred)
@@ -688,7 +707,7 @@ For detailed exercise instructions, form cues, Jefit video links, and progressio
 **Friday Pull Focus:**
 - **Lax work day energy:** Perfect for focused solo session
 - **Extended warm-up:** Take time to prepare properly
-- **Mind-muscle connection:** Focus on your favorite exercises (rear delt fly, single arm rows)
+- **Mind-muscle connection:** Focus on your favorite exercises (rear delt fly, EZ bar reverse curls)
 
 **Saturday Morning Advantage:**
 - **Fresh energy:** Best time for heavy leg work
