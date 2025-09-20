@@ -551,30 +551,11 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Focus on balance and control
 :::
 
-::: details Exercise 3: Leg Extension Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1256/machine-single-leg-extension-)**
+::: details Exercise 3: Standing Calf Raise Machine
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/145/machine-calf-raise)**
 
 **Setup:**
-- **3 sets x 12-15 reps** (*Start: 15-20kg*)
-- **Rest: 75 seconds**
-
-**Form Focus:**
-- Both legs under padding simultaneously
-- Slow controlled extension to full range
-- 2-3 second negative (lowering phase)
-- Squeeze quadriceps at top
-
-**Benefits:**
-- Quad isolation without balance challenge
-- Safe for ankle - no stability required
-- Perfect complement to RDLs
-:::
-
-::: details Exercise 4: Seated Calf Raise Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/144/machine-seated-calf-raise)**
-
-**Setup:**
-- **4 sets x 15-20 reps** (*Current: 20kg feels good*)
+- **4 sets x 15-20 reps** (*Current: 20kg+ feels good*)
 - **Rest: 60 seconds**
 
 **Form Focus:**
@@ -589,7 +570,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Your current 20kg baseline is excellent
 :::
 
-::: details Exercise 5: Hip Abductor Machine
+::: details Exercise 4: Hip Abductor Machine
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1305/machine-hip-abduction)**
 
 **Setup:**
