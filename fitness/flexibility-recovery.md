@@ -554,37 +554,40 @@ Quick, effective stretching routines designed for recovery, injury prevention, a
 
 ### Option A: Seated Desk Stretches (3 minutes)
 
-**Neck & Shoulder Relief**
+::: details Neck & Shoulder Relief
 - **Neck tilts:** Ear to shoulder, 15 seconds each side
 - **Shoulder rolls:** 10 backward, 10 forward
 - **Upper trap stretch:** Hand behind back, tilt head away, 20 seconds each
+:::
 
-**Spinal Mobility**
+::: details Spinal Mobility
 - **Seated spinal twist:** Hand on back of chair, rotate, 20 seconds each direction
 - **Seated backbend:** Hands behind head, open chest, 15 seconds
 - **Forward fold:** Fold over legs, let arms hang, 30 seconds
+:::
 
-**Wrist Care (Important for your pain)**
+::: details Wrist Care (Important for your pain)
 - **Wrist circles:** 10 each direction
 - **Prayer stretch:** 20 seconds
 - **Shake out hands:** 10 seconds vigorously
+:::
 
 ### Option B: Standing Movement Break (5 minutes)
 
-**Energy Boost Sequence**
+::: details Energy Boost Sequence
 - **Standing forward fold:** 30 seconds, sway side to side
 - **Standing backbend:** Hands on lower back, gentle arch, 15 seconds
 - **Standing side stretch:** Reach overhead and lean, 20 seconds each side
 - **Hip circles:** 10 each direction
 - **Calf raises:** 15 reps
 - **Deep breathing:** 30 seconds with arm movements
+:::
 
-**Eye Relief (Bonus)**
+::: details Eye Relief (Bonus)
 - **Look far distance:** Out window for 20 seconds
 - **Eye circles:** 5 each direction
 - **Palming:** Cover eyes with palms, rest 15 seconds
-
----
+:::
 
 ## Evening Recovery Routine (10-15 minutes)
 
