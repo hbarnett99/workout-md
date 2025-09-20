@@ -24,7 +24,7 @@ export default defineConfig({
         text: "Fitness",
         items: [
           { text: "Workout Plan", link: "/fitness/workout-plan" },
-          { text: "Baseline Assessment", link: "/fitness/baseline-assessment" },
+          { text: "Flexibility & Recovery", link: "/fitness/flexibility-recovery" },
           { text: "Exercise Guides", link: "/fitness/exercise-guides" },
         ],
       },
