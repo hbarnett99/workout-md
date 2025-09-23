@@ -1,6 +1,6 @@
 ---
 title: Enhanced Workout Plan
-description: Optimized Push/Pull/Legs split for accelerated fat loss and muscle building progress
+description: Optimized Push/Pull/Legs split for accelerated fat loss and muscle building progress with refined exercise selection
 ---
 
 # Enhanced Workout Plan
@@ -136,16 +136,22 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Weight plate (10-15kg)
 :::
 
-::: details Bird Dogs
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1377/bird-dog)**
+::: details Back Extensions (NEW)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/128/back-extension)**
 
-**Setup:** 6-8 reps each side (12-16 total)
+**Setup:** 12-15 reps
 
 **Form Focus:**
-- Hands and knees position
-- Extend opposite arm and leg
-- Hold for 2-3 seconds each extension
-- Return to start and switch sides
+- Use back extension bench or machine
+- Hands behind head or crossed over chest
+- Lower torso down until comfortable stretch
+- Raise up until body is straight (not hyperextended)
+
+**Why Added:**
+- **Stronger posterior chain** activation than bird dogs
+- **Better gym equipment** utilization
+- **Complements forward posture** from desk work
+- **You'll feel this working** unlike bird dogs
 :::
 
 **Cool Down (3 min)**
@@ -192,20 +198,25 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Rotate side to side, touch weight to ground beside hips
 :::
 
-::: details Bird Dogs (Home Version)
-**Setup:** 6-8 reps each side (12-16 total)
-- Same form as gym version
-- Perfect for home floor space
+::: details Superman Extensions (Home Back Extension)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/129/superman)**
+
+**Setup:** 12-15 reps
+- Lie face down on floor
+- Arms extended overhead
+- Simultaneously lift chest and legs off ground
+- Hold for 1-2 seconds, lower slowly
+
+**Why This Replaces Back Extensions:**
+- **Same muscle activation** as gym back extensions
+- **No equipment needed**
+- **Stronger posterior chain** than bird dogs
+- **You'll feel this working**
 :::
 
 **Cool Down (3 min)**
 - Light stretching, hydration
 - Ready for afternoon work
-
-**Equipment Needed:**
-- **10kg dumbbell** (optimal) or **4L water jug** (budget)
-- **Running shoes** for outdoor intervals
-- **Timer/phone** for intervals
 
 ### Tuesday - Push with Gym Buddy {#tuesday-push-gym-buddy}
 
@@ -222,7 +233,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 
 **Push Training Block (47 min)**
 
-::: details Exercise 1: Chest Press Machine
+::: details Exercise 1: Incline Chest Press Machine
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
 
 **Setup:**
@@ -230,36 +241,48 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - **Rest: 2 minutes** *time to chat and spot*
 
 **Form Focus:**
-- Handles at mid-chest level
+- Handles at upper chest level for incline angle
 - Don't lock elbows completely
 - Control the negative phase
-- Drive through handles, not just arms
+- Drive through handles, focus on upper chest squeeze
 
 **Buddy Benefits:**
 - Spotting for safe progression
 - Form checking from side view
 - Motivation for extra reps
+
+**Why Incline Over Flat:**
+- **Upper chest emphasis** that's often underdeveloped
+- **Better carryover** to overhead sports movements
+- **Perfect setup** for the pec fly that follows
 :::
 
-::: details Exercise 2: Incline Chest Press
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
+::: details Exercise 2: Seated Pec Fly Machine (NEW)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/174/machine-fly)**
 
 **Setup:**
-- **3 sets x 10-12 reps**
+- **3 sets x 12-15 reps**
 - **Rest: 90 seconds**
 
 **Form Focus:**
-- Different angle from flat chest press
-- Upper chest emphasis
-- Squeeze chest muscles at contraction
-- Smooth, controlled movement
+- Seat height so upper arms parallel to floor
+- Slight bend in elbows throughout movement
+- Squeeze chest muscles together at center
+- Control the stretch at the wide position
 
-**Equipment Options:**
-- Incline chest press machine if available
-- Cable chest press from different angle
+**Why This Is Perfect:**
+- **Completes chest development** - hits outer/middle chest fibers that pressing misses
+- **Amazing muscle feel** - you'll actually feel your chest working
+- **Perfect complement** to incline press
+- **Great gym buddy exercise** - easy to spot and encourage
+
+**Equipment Notes:**
+- **Pec deck machine** (most common)
+- **Cable fly machine** (alternative)
+- Focus on the squeeze, not the weight
 :::
 
-::: details Exercise 3: Cable Lateral Raise (Primary)
+::: details Exercise 3: Cable Lateral Raise
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/19/Cable-Lateral-Raise)**
 
 **Setup:**
@@ -277,17 +300,6 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Single handle attachment
 - Start light to test minimum weight
 - **Backup: Machine Lateral Raise** if cable weight too heavy
-
-**Why Better Than Shoulder Press:**
-- Direct side deltoid targeting
-- No front delt dominance
-- Better isolation for shoulder width
-- Constant tension throughout range
-
-**Backup Exercise: Machine Lateral Raise**
-- Same rep scheme if cable doesn't work
-- Seated position, more stable
-- Easier weight adjustments
 :::
 
 ::: details Exercise 4: Overhead Cable Tricep Extensions
@@ -302,17 +314,6 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Elbows stay stationary and high
 - Lower bar behind head until deep tricep stretch
 - Extend arms fully but don't lock out harshly
-
-**Why Better Than Regular Extensions:**
-- Overhead position provides better tricep stretch
-- Different angle complements pressing movements
-- Bar attachment more comfortable than rope
-- Better range of motion for muscle development
-
-**Form Cues:**
-- Keep elbows pointing forward, not flaring out
-- Control the eccentric (lowering) phase
-- Feel the stretch at the bottom position
 :::
 
 ::: details Exercise 5: Cable Tricep Kickbacks
@@ -327,17 +328,6 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Hinge forward at hips, upper arm parallel to floor
 - Extend arm back until straight, squeeze tricep
 - Control the return, don't let weight swing
-
-**Why Perfect for Push Day:**
-- Completes tricep development after overhead extensions
-- Different angle than overhead tricep work
-- Single-arm allows focus on weaker side
-- Perfect gym buddy exercise for spotting
-
-**Tricep Development:**
-- **Overhead Extensions:** Long head emphasis
-- **Kickbacks:** Lateral head emphasis
-- Complete tricep training from two angles
 :::
 
 **Optional Buddy Cardio (5 min)**
@@ -395,16 +385,6 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - **Increased range of motion** to chest
 - **Complements wide-grip pulldowns** for complete back development
 - **More bicep involvement** for arm growth
-
-**Progression Notes:**
-- Start at 25kg based on your cable row strength
-- Focus on controlled negatives
-- **Backup: Seated Cable Row** if machine unavailable
-
-**Benefits Over Cable Row:**
-- Fixed chest support eliminates momentum
-- Consistent setup every rep
-- Easier to focus purely on pulling muscles
 :::
 
 ::: details Exercise 3: Rear Delt Fly Machine
@@ -439,12 +419,6 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Elbows close to sides, don't swing
 - Slow controlled movement both up and down
 - Focus on forearm burn, not bicep activation
-
-**Why EZ Bar Over Straight Bar:**
-- **Natural wrist angle** - more comfortable for reverse grip
-- **Better grip comfort** - less wrist strain
-- **Wrist pain management** - critical for your tennis needs
-- **Forearm targeting** - hits extensors that balance all your pulling work
 
 **Tennis Benefits:**
 - **Grip strength** for racquet control
@@ -621,9 +595,9 @@ For detailed exercise instructions, form cues, Jefit video links, and progressio
 
 **Key Exercise Categories:**
 - **Pull Day:** [Lat Pulldown](exercise-guides.md#lat-pulldown-wide-grip), [Chest Supported Row](exercise-guides.md#chest-supported-row), [Rear Delt Fly](exercise-guides.md#rear-delt-fly-machine)
-- **Push Day:** [Chest Press](exercise-guides.md#chest-press-machine), [Cable Lateral Raise](exercise-guides.md#cable-lateral-raise)
+- **Push Day:** [Incline Chest Press](exercise-guides.md#chest-press-machine), [Seated Pec Fly](exercise-guides.md#seated-pec-fly), [Cable Lateral Raise](exercise-guides.md#cable-lateral-raise)
 - **Leg Day:** [Hack Squat](exercise-guides.md#hack-squat-machine), [RDLs](exercise-guides.md#romanian-deadlifts), [Calf Raises](exercise-guides.md#seated-calf-raise-machine)
-- **Cardio & Core:** [Dead Bugs](exercise-guides.md#dead-bugs), [Lying Leg Raises](exercise-guides.md#lying-leg-raises)
+- **Cardio & Core:** [Dead Bugs](exercise-guides.md#dead-bugs), [Lying Leg Raises](exercise-guides.md#lying-leg-raises), [Back Extensions](exercise-guides.md#back-extensions)
 
 ## Progression Guidelines {#progression-guidelines}
 
@@ -652,9 +626,9 @@ For detailed exercise instructions, form cues, Jefit video links, and progressio
 - **Rear Delt Fly:** Building on your current 25kg x 8 success
 
 **Push Day (Tuesday):**
-- **Chest Press:** Start conservative, progress 2.5kg every 2 weeks
+- **Incline Chest Press:** Start conservative, progress 2.5kg every 2 weeks
+- **Seated Pec Fly:** Focus on muscle feel over heavy weight
 - **Cable Lateral Raise:** Test minimum cable weight, progress gradually
-- **Focus:** Perfect form with gym buddy feedback
 
 **Leg Day (Saturday):**
 - **Hack Squat:** Fastest progression potential - 10-20kg increases possible
