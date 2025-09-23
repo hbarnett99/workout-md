@@ -1,13 +1,13 @@
 ---
 title: Fat Loss Meal Plan
-description: Complete structured meal plan targeting 20.3% to 15% body fat reduction with BMR-optimized calorie approach
+description: Complete structured meal plan targeting 20.3% to 15% body fat reduction with optimized 140g protein approach
 ---
 
 # Fat Loss Meal Plan
 
 ::: info Goal Overview
 **Timeline:** September 2025 to January 2026 (4.5 months)  
-**Calorie Progression:** 2,400 → 2,300 → 2,200 calories (BMR-optimized)  
+**Calorie Progression:** 2,300 → 2,200 → 2,100 calories (BMR-optimized with realistic protein)  
 **Goal:** Reduce body fat from 20.3% to 15% (based on Evolt 360 body scan)  
 **Current Stats:** 73.5kg, 20.3% body fat, BMR 1,635 kcal  
 **Previous Success:** 81kg to 72kg cut demonstrates proven ability  
@@ -18,15 +18,15 @@ description: Complete structured meal plan targeting 20.3% to 15% body fat reduc
 - [Fat Loss Meal Plan](#fat-loss-meal-plan)
   - [Table of Contents](#table-of-contents)
   - [Calorie Progression Strategy](#calorie-progression-strategy)
-    - [Month 1 (September): 2,400 Calories - Foundation Phase](#month-1-september-2400-calories---foundation-phase)
-    - [Month 2 (October): 2,300 Calories - Adaptation Phase](#month-2-october-2300-calories---adaptation-phase)
-    - [Months 3-4 (Nov-Jan): 2,200 Calories - Final Push](#months-3-4-nov-jan-2200-calories---final-push)
+    - [Month 1 (September): 2,300 Calories - Foundation Phase](#month-1-september-2300-calories---foundation-phase)
+    - [Month 2 (October): 2,200 Calories - Adaptation Phase](#month-2-october-2200-calories---adaptation-phase)
+    - [Months 3-4 (Nov-Jan): 2,100 Calories - Final Push](#months-3-4-nov-jan-2100-calories---final-push)
   - [Daily Meal Structure](#daily-meal-structure)
-    - [Breakfast Options (35-40g protein)](#breakfast-options-35-40g-protein)
-    - [Lunch Options (45-50g protein)](#lunch-options-45-50g-protein)
-    - [Dinner Options (45-50g protein)](#dinner-options-45-50g-protein)
-    - [Post-Workout Meal (50-55g protein)](#post-workout-meal-50-55g-protein)
-    - [Daily Snacks (Flexible to meet targets)](#daily-snacks-flexible-to-meet-targets)
+    - [Breakfast Options (30-35g protein)](#breakfast-options-30-35g-protein)
+    - [Lunch Options (35-40g protein)](#lunch-options-35-40g-protein)
+    - [Dinner Options (35-40g protein)](#dinner-options-35-40g-protein)
+    - [Post-Workout Meal (35-40g protein)](#post-workout-meal-35-40g-protein)
+    - [Daily Snacks (100 extra calories for enjoyment)](#daily-snacks-100-extra-calories-for-enjoyment)
   - [Weekly Meal Prep Strategy](#weekly-meal-prep-strategy)
     - [Sunday Prep Session (2-3 hours max)](#sunday-prep-session-2-3-hours-max)
     - [No Mid-Week Prep Required](#no-mid-week-prep-required)
@@ -44,124 +44,124 @@ description: Complete structured meal plan targeting 20.3% to 15% body fat reduc
 
 ## Calorie Progression Strategy
 
-### Month 1 (September): 2,400 Calories - Foundation Phase
-**Focus:** Establish habits with higher protein intake (BMR-optimized)
-- **Protein:** 190g (32%) = 760 calories
-- **Carbs:** 225g (38%) = 900 calories  
-- **Fat:** 82g (30%) = 740 calories
+### Month 1 (September): 2,300 Calories - Foundation Phase
+**Focus:** Establish habits with optimized protein intake (BMR-based)
+- **Protein:** 140g (24%) = 560 calories
+- **Carbs:** 260g (45%) = 1,040 calories  
+- **Fat:** 78g (31%) = 700 calories
 - Priority on consistency over perfection
 - Expected fat loss: 1-1.5%
 
-### Month 2 (October): 2,300 Calories - Adaptation Phase  
+### Month 2 (October): 2,200 Calories - Adaptation Phase  
 **Focus:** Moderate deficit as fitness improves
-- **Protein:** 190g (33%) = 760 calories
-- **Carbs:** 210g (37%) = 840 calories
-- **Fat:** 78g (30%) = 700 calories
+- **Protein:** 140g (25%) = 560 calories
+- **Carbs:** 246g (45%) = 984 calories
+- **Fat:** 73g (30%) = 656 calories
 - Body adapted to training load
 - Expected fat loss: 1-1.5%
 
-### Months 3-4 (Nov-Jan): 2,200 Calories - Final Push
+### Months 3-4 (Nov-Jan): 2,100 Calories - Final Push
 **Focus:** Target deficit for final body fat reduction
-- **Protein:** 190g (35%) = 760 calories
-- **Carbs:** 195g (35%) = 780 calories
-- **Fat:** 73g (30%) = 660 calories
+- **Protein:** 140g (27%) = 560 calories
+- **Carbs:** 231g (44%) = 924 calories
+- **Fat:** 68g (29%) = 616 calories
 - May require strategic refeed days
 - Expected fat loss: 2-3%
 
 ::: warning Flexibility Built In
-If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, stay at 2,300 longer. Adjust based on body composition results and energy levels.
+If ahead of schedule after Month 1, drop to 2,100 earlier. If behind schedule, stay at 2,200 longer. Adjust based on body composition results and energy levels.
 :::
 
 ## Daily Meal Structure
 
-### Breakfast Options (35-40g protein)
-::: details Month 1: 550 calories | Months 3-4: 500 calories
+### Breakfast Options (30-35g protein)
+::: details Month 1: 500 calories | Months 3-4: 450 calories
 
 **Option 1 - High Protein Eggs**
-- 4 scrambled eggs (280 cal, 24g protein) 
-- Greek yogurt 200g (150 cal, 20g protein)
+- 3 scrambled eggs (210 cal, 18g protein) 
+- Greek yogurt 150g (113 cal, 15g protein)
 - 1 cup frozen berries (80 cal, 1g protein)
-- Small handful nuts (40-30 cal, 2g protein) *reduce by phase*
+- Small handful nuts (97-47 cal, 3g protein) *reduce by phase*
 
 **Option 2 - Protein Smoothie**
-- 1.5 scoops WPI/WPC + 300ml full cream milk (400 cal, 49g protein) 
+- 1 scoop WPI/WPC + 300ml full cream milk (310 cal, 33g protein) 
 - 1 banana (100 cal, 1g protein)
-- Small handful nuts (50-0 cal, 2-0g protein) *reduce by phase*
+- Small handful nuts (90-40 cal, 3-1g protein) *reduce by phase*
 
 **Option 3 - Protein Cereal**
 - Special K Protein cereal + 300ml full cream milk (350 cal, 20g protein)
-- 1 scoop protein powder mixed in (150 cal, 25g protein)
-- 1/2 banana (50-0 cal, 0.5-0g protein) *reduce by phase*
+- 1/2 scoop protein powder mixed in (75 cal, 13g protein)
+- 1/2 banana (75-25 cal, 0.5g protein) *reduce by phase*
 
 **Option 4 - Grab-and-Go**
-- Overnight protein oats (pre-made) (300 cal, 25g protein)
-- Greek yogurt 150g (150 cal, 15g protein)
-- Berries (100-50 cal, 1g protein) *reduce by phase*
+- Overnight protein oats (pre-made) (250 cal, 20g protein)
+- Greek yogurt 100g (75 cal, 10g protein)
+- Berries (175-125 cal, 1g protein) *reduce by phase*
 
 :::
 
-### Lunch Options (45-50g protein)
-::: details Month 1: 750 calories | Months 3-4: 700 calories
+### Lunch Options (35-40g protein)
+::: details Month 1: 650 calories | Months 3-4: 600 calories
 
 **Option 1 - Hainanese Chicken Rice (Your Staple)**
-- 200g hainanese chicken (400 cal, 40g protein) 
-- 3/4-2/3 cup cooked rice in chicken stock (180-160 cal, 4-3g protein) *reduce by phase*
+- 150g hainanese chicken (300 cal, 30g protein) 
+- 2/3-1/2 cup cooked rice in chicken stock (160-140 cal, 3g protein) *reduce by phase*
 - Steamed vegetables (80 cal, 2g protein)
-- Light ginger scallion sauce (90-60 cal, 2g protein) *reduce by phase*
+- Light ginger scallion sauce (110-60 cal, 2g protein) *reduce by phase*
 
 **Option 2 - Beef/Pork Mince Pasta**
-- 150g cooked beef/pork mince (fat drained) (285 cal, 45g protein) 
-- 90-80g cooked pasta (200-180 cal, 7-6g protein) *reduce by phase*
+- 120g cooked beef/pork mince (fat drained) (228 cal, 36g protein) 
+- 80-70g cooked pasta (180-158 cal, 6-5g protein) *reduce by phase*
 - Bolognese/Napolitana sauce (100 cal, 2g protein)
 - Steamed vegetables (80 cal, 2g protein)
-- Olive oil drizzle (85-55 cal, 0g protein) *reduce by phase*
+- Olive oil drizzle (62-32 cal, 0g protein) *reduce by phase*
 
 **Option 3 - High Protein Tuna Pasta**
-- 1.5 cans tuna in springwater (225 cal, 45g protein) 
-- 90-80g cooked pasta (200-180 cal, 7-6g protein) *reduce by phase*
-- Light mayo/olive oil mix (150 cal, 0g protein)
+- 1 can tuna in springwater (150 cal, 30g protein) 
+- 80-70g cooked pasta (180-158 cal, 6-5g protein) *reduce by phase*
+- Light mayo/olive oil mix (120 cal, 0g protein)
 - Mixed vegetables (80 cal, 2g protein)
-- Reduce mayo/oil by phase (95-65 cal, 0g protein) *reduce by phase*
+- Adjust oil by phase (120-70 cal, 0g protein) *reduce by phase*
 
 :::
 
-### Dinner Options (45-50g protein)
-::: details Month 1: 700 calories | Months 3-4: 650 calories
+### Dinner Options (35-40g protein)
+::: details Month 1: 600 calories | Months 3-4: 550 calories
 
 **Option 1 - Air-Fried Seasoned Chicken**
-- 200g Portuguese/Cajun seasoned chicken (400 cal, 50g protein) 
-- 1 large-medium microwaved sweet potato (150-120 cal, 3-2g protein) *reduce by phase*
-- Bagged salad with olive oil (150-130 cal, 2g protein) *reduce by phase*
+- 150g Portuguese/Cajun seasoned chicken (300 cal, 38g protein) 
+- 1 medium-small microwaved sweet potato (120-100 cal, 2g protein) *reduce by phase*
+- Bagged salad with olive oil (180-150 cal, 2g protein) *reduce by phase*
 
 **Option 2 - Beef/Pork Mince Rice Bowl**
-- 150g cooked beef/pork mince (fat drained) (285 cal, 45g protein) 
-- 1/2-1/3 cup rice (120-100 cal, 2g protein) *reduce by phase*
+- 120g cooked beef/pork mince (fat drained) (228 cal, 36g protein) 
+- 1/3-1/4 cup rice (100-80 cal, 2g protein) *reduce by phase*
 - Asian/Mexican sauce (curry, black bean, salsa) (80 cal, 2g protein)
 - Mixed vegetables (80 cal, 2g protein)
-- Oil for cooking (135-105 cal, 0g protein) *reduce by phase*
+- Oil for cooking (112-82 cal, 0g protein) *reduce by phase*
 
 **Option 3 - Mum's Batch Cooked Dinner**
-- Pre-cooked portion from freezer (varies, target ~700-650 cal, 45-50g protein)
+- Pre-cooked portion from freezer (varies, target ~600-550 cal, 35-40g protein)
 - Asian chicken curry, beef bulgogi, chicken casserole, etc.
 - Just reheat and serve with rice/pasta as needed
 
 :::
 
-### Post-Workout Meal (50-55g protein)
-::: details All Phases: 500 calories (Peak hunger priority)
+### Post-Workout Meal (35-40g protein)
+::: details All Phases: 400 calories (Peak hunger priority)
 
 **Enhanced Recovery Shake (Your Go-To):**
-- **2 scoops WPI/WPC protein powder** (300 cal, 50g protein)
-- **300ml full cream milk** (160 cal, 8g protein)
+- **1.5 scoops WPI/WPC protein powder** (225 cal, 38g protein)
+- **200ml full cream milk** (107 cal, 5g protein)
 - **1 medium banana** (100 cal, 1g protein)
 - **Water/ice** for blending consistency
 
-**Total: 560 cal, 59g protein** *(Adjust by using less milk if needed for calorie targets)*
+**Total: 432 cal, 44g protein** *(Adjust by using less milk if needed for calorie targets)*
 
 **Alternative Post-Workout Options:**
-- 1.5 scoops protein + 250ml milk + banana + handful oats (500 cal, 45g protein)
-- 3 hard-boiled eggs + large banana + Greek yogurt (450 cal, 25g protein)
-- High-protein smoothie bowl with frozen fruit (500 cal, 35g protein)
+- 1 scoop protein + 250ml milk + banana + handful oats (400 cal, 35g protein)
+- 2 hard-boiled eggs + large banana + Greek yogurt (350 cal, 20g protein)
+- High-protein smoothie bowl with frozen fruit (400 cal, 30g protein)
 
 **Timing Notes:**
 - **Within 30-60 minutes** post-workout for optimal recovery
@@ -170,24 +170,34 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 
 :::
 
-### Daily Snacks (Flexible to meet targets)
-::: details Usually 150-300 remaining calories
+### Daily Snacks (100 extra calories for enjoyment)
+::: details Flexible 100 calories for fruit, treats, or whatever you want
 
-**High-Protein Options:**
-- 1 scoop protein + 200ml milk (280 cal, 33g protein)
-- 2 hard-boiled eggs + apple (200 cal, 12g protein)
-- Greek yogurt 200g + handful nuts (300 cal, 22g protein)
-- Cottage cheese + crackers (200 cal, 15g protein)
+**Fruit Options:**
+- 1 large apple (80 cal)
+- 1 large banana (100 cal)
+- 2 cups strawberries (90 cal)
+- 1 cup grapes (90 cal)
+- 1 large orange (85 cal)
 
-**Moderate-Protein Options:**
-- Handful nuts + string cheese (250 cal, 10g protein)
-- Protein bar + piece of fruit (300 cal, 20g protein)
-- Trail mix portion (200 cal, 6g protein)
+**Tasty Options:**
+- Small chocolate bar (90-100 cal)
+- Handful of crackers (100 cal)
+- Small bag of chips (100 cal)
+- Ice cream portion (100 cal)
+- Biscuits/cookies (2-3 pieces, 100 cal)
+
+**Flexible Options:**
+- Extra nuts if still hungry (100 cal = 12-15 nuts)
+- Extra olive oil on salads (100 cal = 1 tbsp)
+- Larger fruit portions
+- Whatever you're craving that day
 
 **Strategy:**
-- Calculate remaining calories after main meals
-- Prioritize protein if under 190g daily target
-- Use lower-protein snacks if protein target already met
+- **Pure enjoyment** - don't worry about protein contribution
+- **Satisfy cravings** to prevent bigger binges
+- **Flexibility** for social situations
+- **Mental health** - dieting shouldn't be miserable
 
 :::
 
@@ -195,12 +205,12 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 
 ### Sunday Prep Session (2-3 hours max)
 **Priority 1 - Protein Sources:**
-- **Hainanese chicken rice** - 2kg batch using rice cooker + chicken stock
-- **Air fryer chicken thighs** - 1.5kg with Portuguese/Cajun seasoning
-- **Beef/pork mince batch** - 1kg browned and portioned for pasta/rice dishes
+- **Hainanese chicken rice** - 1.5kg batch using rice cooker + chicken stock
+- **Air fryer chicken thighs** - 1kg with Portuguese/Cajun seasoning
+- **Beef/pork mince batch** - 800g browned and portioned for pasta/rice dishes
 
 **Priority 2 - Grab-and-Go Items:**
-- Hard-boil 15-20 eggs
+- Hard-boil 12-15 eggs
 - Overnight protein oats (3-4 containers)
 - Pre-portion nuts and snacks
 
@@ -216,12 +226,12 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 ## Nutrition Tracking Simplified
 
 ### Daily Non-Negotiables
-1. **Hit 190g protein target** - track this religiously
-2. **Stay within calorie phase** - 2,400 → 2,300 → 2,200
+1. **Hit 140g protein target** - track this consistently
+2. **Stay within calorie phase** - 2,300 → 2,200 → 2,100
 3. **Post-workout shake within 1 hour** - addresses peak hunger
 
 ### Weekly Targets
-- **6+ days hitting protein target** (190g ±5g acceptable)
+- **6+ days hitting protein target** (140g ±5g acceptable)
 - **Average daily calories within ±100 of phase target**
 - **Meal prep completed by Sunday evening**
 
@@ -230,6 +240,7 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 - Condiments under 20 calories
 - Weekend social meals (just get back on track Monday)
 - Exact cooking oil amounts (estimate reasonably)
+- The 100-calorie snack portion (just enjoy it guilt-free)
 
 ## Social Schedule Integration
 
@@ -240,12 +251,12 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 - Mexican: Chicken bowls (skip sour cream, extra protein)
 - Pub food: Grilled chicken, steak with salad
 
-**Target:** ~700 calories, 45-50g protein to match home lunch macros
+**Target:** ~600 calories, 35-40g protein to match home lunch macros
 
 ### Weekend Flexibility
 **Friday Social Plans:**
 - Lighter meals earlier if going out for dinner
-- Save 200-300 calories from snacks for social eating
+- Save 100-200 calories from snacks for social eating
 - Don't stress perfection - aim for 80% adherence
 - Resume normal schedule Monday
 
@@ -259,7 +270,7 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 ### Month 1 Target (September)
 - **Weight:** 72-72.5kg
 - **Estimated body fat:** 18.5-19%
-- **Protein consistency:** 190g daily 6+ days/week
+- **Protein consistency:** 140g daily 6+ days/week
 - **Energy levels:** Should remain stable
 
 ### Month 2 Target (October)
@@ -277,7 +288,7 @@ If ahead of schedule after Month 1, drop to 2,200 earlier. If behind schedule, s
 ---
 
 ::: tip Key Success Factors
-Your BMR-optimized approach (2,400→2,300→2,200) with milk-based protein shakes addresses taste preferences while the 500+ calorie post-workout meal hits your peak hunger period for sustainable adherence.
+Your BMR-optimized approach (2,300→2,200→2,100) with realistic 140g protein targets and 100 calories daily flexibility creates a sustainable path to your Christmas goal while maintaining sanity and social life.
 :::
 
 ::: info Related Resources
