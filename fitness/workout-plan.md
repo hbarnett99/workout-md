@@ -460,12 +460,12 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Cross-body shoulder stretches
 - Light walking, weekend prep
 
-### Saturday - Legs Power {#saturday-legs-power}
+### ### Saturday - Legs Power {#saturday-legs-power}
 
 ::: details Session Overview - 45 minutes (fresh weekend energy)
-**Focus:** Quad dominant with hamstring lengthening (RDLs)
-**Equipment:** Hack squat, extension machines, free weight area for RDLs
-**Benefits:** Fresh energy for heavy lifting, ankle-safe progressions
+**Focus:** Quad and glute dominant with hamstring lengthening (RDLs)
+**Equipment:** Incline leg press, barbells, calf raise machine
+**Benefits:** Fresh energy for heavy lifting, ankle-safe progressions, complete lower body development
 :::
 
 **Comprehensive Warm-up (8 min)**
@@ -473,38 +473,51 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Hip circles and leg swings (3 min)
 - Ankle mobility focus (3 min) *critical preparation*
 
-**Legs Power Block (32 min)**
+**Legs Power Block (35 min)**
 
-::: details Exercise 1: Hack Squat Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/127/hack-squat)**
+::: details Exercise 1: Incline Leg Press
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/132/machine-leg-press)**
 
 **Setup:**
-- **4 sets x 8-10 reps** (*Start conservative, progress weekly*)
+- **4 sets x 8-10 reps** (*Starting: 72kg, building to 150kg+*)
 - **Rest: 2 minutes** *this is your heavy compound movement*
 
 **Form Focus:**
-- Back flat against pad, shoulders under shoulder pads
-- Feet positioned shoulder-width apart on platform
-- Lower until thighs parallel or comfortable depth
-- Drive through heels to return to start
+- Foot placement shoulder-width, mid-platform position
+- Both feet flat throughout - NO heel lifting
+- Lower until 90-degree knee bend or comfortable depth
+- Drive through whole foot, not just toes
 
 **Ankle Safety Priority:**
 - Both feet planted firmly throughout
-- More natural squat movement than leg press
+- More stable than hack squat machine
 - Control the descent carefully
-- Better quad activation than leg press
+- Better progressive overload potential
 
-**Benefits over Leg Press:**
-- More athletic movement pattern
-- Better quad development
-- Easier progressive overload
+**Benefits over Hack Squat:**
+- Safer ankle position with stable platform
+- Can load significantly heavier (150kg+ achievable)
+- Less balance challenge, more quad focus
+- Easier recovery between sets
+
+**Month 1-2 Progression:**
+- Start: 72kg x 10 reps
+- Week 2: 80kg x 10 reps
+- Week 4: 90kg x 8-10 reps
+- Focus: Perfect form and control
+
+**Month 3-4 Progression:**
+- Week 6: 100-110kg x 8 reps
+- Week 8: 120-130kg x 8 reps
+- Week 12: 140-150kg+ x 6-8 reps
+- Focus: Strength building for aesthetics
 :::
 
 ::: details Exercise 2: Romanian Deadlifts (RDLs)
 **[🎯 View Exercise Demo](https://www.jefit.com/exercises/125/barbell-stiff-leg-deadlift)**
 
 **Setup:**
-- **4 sets x 10-12 reps** (*Start light: 20-30kg total*)
+- **4 sets x 10-12 reps** (*Starting: 20kg bar, building to 60kg+*)
 - **Rest: 90 seconds**
 
 **Form Focus:**
@@ -521,15 +534,74 @@ All exercises maintain focus on bilateral movements and machine-based training f
 
 **Ankle Considerations:**
 - Both feet planted throughout movement
-- Start very light to master pattern
+- Start very light to master pattern (20kg bar)
 - Focus on balance and control
+- No balance challenge once pattern learned
+
+**Month 1-2 Progression:**
+- Start: 20kg (empty bar) x 12 reps
+- Week 2: 25kg x 12 reps
+- Week 4: 30-35kg x 10-12 reps
+- Focus: Hip hinge pattern mastery
+
+**Month 3-4 Progression:**
+- Week 6: 40-45kg x 10 reps
+- Week 8: 50kg x 8-10 reps
+- Week 12: 55-60kg+ x 8-10 reps
+- Focus: Load progression with perfect form
 :::
 
-::: details Exercise 3: Standing Calf Raise Machine
+::: details Exercise 3: Barbell Hip Thrusts
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/111/barbell-hip-thrust)**
+
+**Setup:**
+- **4 sets x 10-12 reps** (*Starting: 20kg bar, building to 80kg+*)
+- **Rest: 90 seconds**
+
+**Form Focus:**
+- Upper back resting on bench edge
+- Bar across hip crease (use pad or towel for comfort)
+- Feet shoulder-width apart, flat on ground
+- Drive through heels, squeeze glutes hard at top
+- Hold 1-2 seconds at peak contraction
+
+**Why This Exercise Is Essential:**
+- **Direct glute development** - major aesthetic muscle
+- **Missing from previous plan** - fills crucial gap
+- **Fast progression potential** - 20kg to 80kg+ achievable
+- **Tennis serve power** - hip extension explosiveness
+- **Safe for ankle** - both feet planted, no balance challenge
+
+**Aesthetic Priority:**
+- Primary muscle for "getting more built" lower body goal
+- Creates visual separation and development
+- Complements quad work from leg press
+- Essential for complete physique
+
+**Month 1-2 Progression:**
+- Start: 20kg (empty bar) x 12 reps
+- Week 2: 30kg x 12 reps
+- Week 4: 40-50kg x 10-12 reps
+- Focus: Glute activation and mind-muscle connection
+
+**Month 3-4 Progression:**
+- Week 6: 55-65kg x 10 reps
+- Week 8: 70-75kg x 8-10 reps
+- Week 12: 80-90kg+ x 8-10 reps
+- Focus: Heavy loading for maximum development
+
+**Setup Tips:**
+- Use gym bench (not too high, not too low)
+- Bar pad or towel essential for comfort
+- Position bar before sitting down
+- Roll bar into position, then thrust up
+:::
+
+::: details Exercise 4: Standing Calf Raise Machine
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/145/machine-calf-raise)**
 
 **Setup:**
-- **4 sets x 15-20 reps** (*Current: 20kg+ feels good*)
+- **4 sets x 12-15 reps** (*Starting: 30kg, building to 60kg+*)
 - **Rest: 60 seconds**
 
 **Form Focus:**
@@ -537,52 +609,31 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Heels below footpad level for stretch
 - Rise as high as possible on toes
 - Control both up and down phases
+- 2-3 second holds at top position
 
 **Ankle Strength Priority:**
 - Critical for your ankle injury history
 - Build strength in safe, controlled environment
-- Your current 20kg baseline is excellent
-:::
+- Your current 20kg baseline is excellent starting point
+- 30kg starting weight builds on existing strength
 
-::: details Exercise 4: Hip Abductor Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1305/machine-hip-abduction)**
+**Month 1-2 Progression:**
+- Start: 30kg x 15 reps
+- Week 2: 35kg x 15 reps
+- Week 4: 40-45kg x 12-15 reps
+- Focus: Full range of motion and control
 
-**Setup:**
-- **3 sets x 12-15 reps** (*Start: 15-25kg*)
-- **Rest: 60 seconds**
-
-**Form Focus:**
-- Seated upright, back against pad
-- Press knees apart against resistance
-- Hold peak position for 1 second
-- Control the return together
+**Month 3-4 Progression:**
+- Week 6: 50kg x 12 reps
+- Week 8: 55kg x 10-12 reps
+- Week 12: 60kg+ x 10-12 reps
+- Focus: Progressive strength building
 
 **Tennis Benefits:**
-- Lateral movement stability
-- Court direction change strength
-- Hip stability for serve power
-:::
-
-**Tennis Power Finisher (3 min)**
-
-::: details Jump Squats
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1210/dumbbell-jump-squat)**
-
-**Setup:**
-- **3 sets x 6-8 reps**
-- **Rest: 60 seconds between sets**
-
-**Critical Ankle Safety:**
-- **Both feet landing together ALWAYS**
-- No single-leg variations ever
-- Soft landings - bend knees to absorb
-- Stop immediately if any ankle discomfort
-
-**Form Focus:**
-- Squat down until thighs parallel
-- Explosive jump upward
-- Land softly on both feet simultaneously
-- Immediately descend into next rep
+- Ankle stability for court movement
+- Push-off power for explosive steps
+- Injury prevention through strengthening
+- Confidence in ankle strength and stability
 :::
 
 **Ankle Recovery (2 min)**
