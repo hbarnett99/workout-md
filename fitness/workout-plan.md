@@ -13,9 +13,10 @@ description: Optimized Push/Pull/Legs split for accelerated fat loss and muscle 
 
 - [Weekly Schedule](#weekly-schedule)
 - [Training Days](#training-days)
-  - [Monday - Cardio + Core (Primary)](#monday-cardio-core-primary)
+  - [Monday - Cable Core & Cardio](#monday-cable-core-cardio)
   - [Monday - Home Backup Option](#monday-home-backup)
   - [Tuesday - Push with Gym Buddy](#tuesday-push-gym-buddy)
+  - [Wednesday - Hamstring Mobility & Recovery](#wednesday-hamstring-mobility-recovery)
   - [Friday - Pull Focus](#friday-pull-focus)
   - [Saturday - Legs Power](#saturday-legs-power)
 - [Exercise References](#exercise-references)
@@ -24,16 +25,17 @@ description: Optimized Push/Pull/Legs split for accelerated fat loss and muscle 
 
 ::: tip Key Features
 - **Flexible Monday** - gym or home options based on schedule
-- **Gym buddy integration** on Tuesday for motivation
+- **Gym buddy integration** on Tuesday with separate programs
+- **Wednesday mobility** - active recovery for hamstring DOMS
 - **Fresh weekend legs** when energy is highest
 - **Ankle-safe progressions** throughout all sessions
 :::
 
 ## Weekly Schedule {#weekly-schedule}
 
-- **Monday**: Cardio + Core (35-40 min lunch) OR Home Backup (25-30 min) *WFH flexibility*
+- **Monday**: Cable Core + Cardio (35-40 min lunch) OR Home Backup (25-30 min) *WFH flexibility*
 - **Tuesday**: Push with Gym Buddy (60 min) *Post-office energy + social motivation*
-- **Wednesday**: Rest Day *Office day recovery*
+- **Wednesday**: Hamstring Mobility & Recovery (10 min evening) *NEW - DOMS management*
 - **Thursday**: Pre-Tennis Prep + Tennis (15 min prep)
 - **Friday**: Pull Focus (50 min lunch) *Lax work day energy*
 - **Saturday**: Legs Power (45 min morning) *Fresh weekend energy*
@@ -45,113 +47,142 @@ All exercises maintain focus on bilateral movements and machine-based training f
 
 ## Training Days {#training-days}
 
-### Monday - Cardio + Core (Primary) {#monday-cardio-core-primary}
+### Monday - Cable Core & Cardio {#monday-cable-core-cardio}
 
 ::: details Session Overview - 35-40 minutes (lunch break)
-**Focus:** Enhanced cardio conditioning and core strength at gym
-**Equipment:** Cardio machines and floor space
-**Benefits:** Full gym session when time and energy allow
+**Focus:** Progressive cable core work + cardio conditioning at gym
+**Equipment:** Cable machines and cardio equipment
+**Benefits:** Clear weight progression, more enjoyable than floor work
 :::
 
 **Progressive Warm-up (5 min)**
 - Joint mobility (2 min)
 - Easy cardio buildup (3 min)
 
-**Enhanced Cardio Block (22 min)**
+**Cable Core Circuit (15 min)**
 
-::: details Rowing Machine Intervals (Target: Level 7 intensity)
-**[🎯 Rowing Technique Guide](https://www.concept2.com/indoor-rowers/training/technique-videos)**
+**4 rounds total, 60 seconds rest between rounds:**
 
-**Session Structure:**
-- **3 min** easy warm-up pace (Level 4-5)
-- **Main Set:** 6 rounds of interval work
-- **3 min** cool down pace (Level 3-4)
+::: details Exercise 1: Cable Crunches (Kneeling)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1377/cable-crunch)**
 
-**Interval Protocol:**
-- **1 min** steady pace (Level 6 - can maintain conversation)
-- **30 sec** harder pace (Level 8 - breathing hard but controlled)
-- **No rest between intervals** - continuous movement
+**Setup:**
+- **12-15 reps** (*Starting weight: 15-20kg*)
+- **Rest: Part of circuit**
 
 **Form Focus:**
-- Drive with legs first, then lean back, then pull arms
-- Return in reverse: arms, lean forward, bend knees
-- Maintain steady stroke rate during work periods
+- Kneel facing cable machine, rope attachment overhead
+- Pull rope down by crunching abs, bringing elbows to knees
+- Hold contraction for 1 second
+- Control the return, don't let weight pull you up
+
+**Progression:**
+- Week 1-2: 15kg x 15 reps (establish baseline)
+- Week 3-4: 17.5kg x 12-15 reps
+- Week 5+: 20kg+ x 12-15 reps
+
+**Why This Works:**
+- Clear weight progression you can track
+- Feels the burn immediately
+- Better than floor crunches for motivation
 :::
 
-::: details Alternative: Recumbent Bike Intervals
-**Equipment:** Recumbent exercise bike
+::: details Exercise 2: Cable Wood Chops
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/744/cable-wood-chop)**
 
-**Same interval structure as rowing:**
-- **3 min** easy warm-up
-- **6 rounds:** 1 min steady + 30 sec harder
-- **3 min** cool down
-
-**Benefits:**
-- Lower impact than rowing
-- Easy to maintain steady effort
-- Good option if rowing unavailable
-:::
-
-**Core Strength Circuit (10 min)**
-**3 rounds, 60 seconds rest between rounds:**
-
-::: details Dead Bugs
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1376/dead-bug)**
-
-**Setup:** 8-10 reps each side (16-20 total)
+**Setup:**
+- **12 reps each side** (*Starting weight: 10-15kg*)
+- **Rest: Part of circuit**
 
 **Form Focus:**
-- Lie on back, arms up toward ceiling
-- Knees bent 90 degrees, shins parallel to floor
-- Lower back pressed firmly against floor
-- Extend opposite arm and leg slowly
+- Cable at shoulder height, stand sideways to machine
+- Both feet planted firmly throughout (ankle safety)
+- Pull cable diagonally across body to opposite hip
+- Core rotation, not arm pulling
+
+**Progression:**
+- Week 1-2: 10kg x 12 each side
+- Week 3-4: 12.5kg x 12 each side
+- Week 5+: 15kg+ x 12 each side
+
+**Tennis Benefits:**
+- Direct carryover to groundstroke rotation
+- Safe rotational power development
 :::
 
-::: details Lying Leg Raises
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/32/leg-raise)**
+::: details Exercise 3: Cable Pallof Press (Anti-Rotation)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1380/cable-pallof-press)**
 
-**Setup:** 10-15 reps
+**Setup:**
+- **10 reps each side** (*Starting weight: 10-15kg*)
+- **Rest: Part of circuit**
 
 **Form Focus:**
-- Lie flat on back, hands under lower back for support
-- Start with bent knees (easier) or straight legs (harder)
-- Raise legs until thighs perpendicular to floor
-- Lower slowly without letting feet touch ground
+- Stand sideways to cable machine, cable at chest height
+- Hold handle at chest with both hands
+- Press arms straight out in front, resist cable trying to rotate you
+- Return to chest slowly
+
+**Progression:**
+- Week 1-2: 10kg x 10 each side
+- Week 3-4: 12.5kg x 10 each side
+- Week 5+: 15kg+ x 10 each side
+
+**Why Anti-Rotation Matters:**
+- Core stability for all sports movements
+- Injury prevention
+- Directly improves all other lifts
 :::
 
-::: details Russian Twists (Weighted)
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/58/russian-twist)**
-
-**Setup:** 15-20 reps each side (30-40 total)
-
-**Form Focus:**
-- Seated, leaning back slightly
-- **Hold 10kg dumbbell, medicine ball, or weight plate**
-- Rotate torso side to side
-- Touch weight to ground beside hips
-
-**Equipment Options at Gym:**
-- 10kg dumbbell (hold one end)
-- Medicine ball (if available)
-- Weight plate (10-15kg)
-:::
-
-::: details Back Extensions (NEW)
+::: details Exercise 4: Back Extensions (Machine)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/128/back-extension)**
 
-**Setup:** 12-15 reps
+**Setup:**
+- **12-15 reps** (*Bodyweight or add 5-10kg plate*)
+- **Rest: 60 seconds before next round**
 
 **Form Focus:**
-- Use back extension bench or machine
+- Position hips on pad, ankles secured
 - Hands behind head or crossed over chest
-- Lower torso down until comfortable stretch
-- Raise up until body is straight (not hyperextended)
+- Lower torso until comfortable stretch in lower back
+- Raise up until body is straight (don't hyperextend)
 
-**Why Added:**
-- **Stronger posterior chain** activation than bird dogs
-- **Better gym equipment** utilization
-- **Complements forward posture** from desk work
-- **You'll feel this working** unlike bird dogs
+**Progression:**
+- Week 1-2: Bodyweight x 15 reps
+- Week 3-4: +5kg plate x 12-15 reps
+- Week 5+: +10kg plate x 12-15 reps
+
+**Why This Instead of Bird Dogs:**
+- You'll actually feel this working
+- Progressive overload with weight
+- Complements forward desk posture
+:::
+
+**Enhanced Cardio Block (17 min)**
+
+::: details Incline Walk Protocol (Your Preferred Method)
+**Equipment:** Treadmill
+
+**Session Structure:**
+- **2 min** warm-up walk (flat, easy pace)
+- **12 min** main set: 12-degree incline at 5 km/h
+- **3 min** cool down (reduce incline gradually)
+
+**Why This Works Better Than Running:**
+- Lower impact on ankle
+- Can maintain conversation (sustainable)
+- Still elevates heart rate effectively
+- No motivation drain from hating running
+
+**Progression Options:**
+- Increase incline: 13-14 degrees (weeks 5+)
+- Increase duration: 15 minutes main set (weeks 9+)
+- Increase speed: 5.5 km/h (if feeling good)
+
+**Form Focus:**
+- Stand tall, don't lean on handles
+- Natural arm swing
+- Even, controlled breathing
 :::
 
 **Cool Down (3 min)**
@@ -160,23 +191,21 @@ All exercises maintain focus on bilateral movements and machine-based training f
 ### Monday - Home Backup Option {#monday-home-backup}
 
 ::: details Enhanced Home Workout (25-30 minutes)
-**Focus:** Complete cardio + core session at home when gym isn't practical
-**Equipment:** 10kg dumbbell (or water jug), running shoes
-**Benefits:** Time-efficient, weather-proof, perfect for busy days
+**Focus:** Bodyweight core + walking when gym isn't practical
+**Equipment:** 10kg dumbbell, comfortable walking route
+**Benefits:** Time-efficient, weather-proof option
 :::
 
 **Quick Warm-up (3 min)**
 - Joint mobility and light movement
-- Movement preparation
 
-**Structured Running Intervals (12 min)**
-- **2 min** warm-up walk
-- **8 rounds of:**
-  - **30 sec** harder run (breathing hard but controlled)
-  - **30 sec** easy jog (can talk easily)
-- **2 min** cool-down walk
+**Outdoor Incline Walk (12 min)**
+- **Option A:** Find hilly route, walk briskly for 12 minutes
+- **Option B:** Flat route, increase pace to 6 km/h equivalent
+- **Focus:** Maintain elevated heart rate, conversation pace
 
 **Home Core Circuit (10 min)**
+
 **3 rounds, 60 seconds rest between rounds:**
 
 ::: details Dead Bugs (Home Version)
@@ -191,11 +220,11 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Floor space and comfort mat
 :::
 
-::: details Weighted Russian Twists
+::: details Weighted Russian Twists (10kg Dumbbell)
 **Setup:** 15-20 reps each side (30-40 total)
-- **Use 10kg dumbbell or 4L water jug**
-- Hold weight with both hands
+- Hold 10kg dumbbell with both hands
 - Rotate side to side, touch weight to ground beside hips
+- Keep feet on ground (ankle safety)
 :::
 
 ::: details Superman Extensions (Home Back Extension)
@@ -208,56 +237,63 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Hold for 1-2 seconds, lower slowly
 
 **Why This Replaces Back Extensions:**
-- **Same muscle activation** as gym back extensions
-- **No equipment needed**
-- **Stronger posterior chain** than bird dogs
-- **You'll feel this working**
+- Same muscle activation as gym back extensions
+- No equipment needed
+- You'll feel this working
 :::
 
 **Cool Down (3 min)**
 - Light stretching, hydration
-- Ready for afternoon work
 
 ### Tuesday - Push with Gym Buddy {#tuesday-push-gym-buddy}
 
 ::: details Session Overview - 60 minutes (gym buddy energy)
 **Focus:** Chest, shoulders, triceps
-**Equipment:** Machines primarily for sharing/spotting ease
-**Benefits:** Social motivation, shared equipment, spotting assistance
+**Equipment:** Machines and dumbbells/Smith machine
+**Benefits:** Social motivation, do your own programs side-by-side
+**New Structure:** Warm up together, train separately, cool down together
 :::
 
-**Social Warm-up (8 min)**
+**Social Warm-up Together (8 min)**
 - Joint mobility together (3 min)
 - Light cardio side by side (4 min)
 - Push movement preparation (1 min)
 
-**Push Training Block (47 min)**
+**Your Push Training Block (47 min)**
 
-::: details Exercise 1: Incline Chest Press Machine
-**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/163/machine-bench-press)**
+::: details Exercise 1: Incline Dumbbell Press OR Smith Machine Incline Press
+**Dumbbell Version:** [🎯 View on Jefit](https://www.jefit.com/exercises/1/dumbbell-incline-bench-press)  
+**Smith Machine Version:** [🎯 View on Jefit](https://www.jefit.com/exercises/164/smith-machine-incline-bench-press)
 
 **Setup:**
 - **4 sets x 8-10 reps**
-- **Rest: 2 minutes** *time to chat and spot*
+- **Rest: 2 minutes**
 
-**Form Focus:**
-- Handles at upper chest level for incline angle
-- Don't lock elbows completely
-- Control the negative phase
-- Drive through handles, focus on upper chest squeeze
+**Form Focus (Dumbbell):**
+- Incline bench at 30-45 degrees
+- Start light: 8-10kg dumbbells each hand
+- Lower dumbbells to sides of chest
+- Press up and slightly together at top
+- Can bail safely by dropping to sides
 
-**Buddy Benefits:**
-- Spotting for safe progression
-- Form checking from side view
-- Motivation for extra reps
+**Form Focus (Smith Machine):**
+- Incline bench under Smith machine
+- Bar path guided = safer when alone
+- Start with just the bar (20kg)
+- Lower to upper chest, press straight up
 
-**Why Incline Over Flat:**
-- **Upper chest emphasis** that's often underdeveloped
-- **Better carryover** to overhead sports movements
-- **Perfect setup** for the pec fly that follows
+**Progression:**
+- Week 1-2: Establish baseline with perfect form
+- Week 3-4: Add 2.5kg when hitting 10 reps all sets
+- Week 5+: Continue progressive overload
+
+**Choose Based On:**
+- **Dumbbells:** Better for balance development, safer to bail
+- **Smith Machine:** More stable, easier progressive overload alone
+- Try both first session, pick what feels better
 :::
 
-::: details Exercise 2: Seated Pec Fly Machine (NEW)
+::: details Exercise 2: Seated Pec Fly Machine
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/174/machine-fly)**
 
 **Setup:**
@@ -270,23 +306,22 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Squeeze chest muscles together at center
 - Control the stretch at the wide position
 
-**Why This Is Perfect:**
-- **Completes chest development** - hits outer/middle chest fibers that pressing misses
-- **Amazing muscle feel** - you'll actually feel your chest working
-- **Perfect complement** to incline press
-- **Great gym buddy exercise** - easy to spot and encourage
+**Why This Exercise:**
+- Completes chest development
+- Amazing muscle feel - you'll actually feel your chest working
+- Perfect complement to pressing movement
+- Easy to do alone, no spotter needed
 
-**Equipment Notes:**
-- **Pec deck machine** (most common)
-- **Cable fly machine** (alternative)
-- Focus on the squeeze, not the weight
+**Progression:**
+- Week 1-2: Find weight where 15 reps is challenging
+- Week 3+: Increase weight when you can do 15 reps with good squeeze
 :::
 
 ::: details Exercise 3: Cable Lateral Raise
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/19/Cable-Lateral-Raise)**
 
 **Setup:**
-- **4 sets x 10-12 reps** (*Test minimum cable weight first*)
+- **4 sets x 10-12 reps**
 - **Rest: 90 seconds**
 
 **Form Focus:**
@@ -298,8 +333,12 @@ All exercises maintain focus on bilateral movements and machine-based training f
 **Equipment Notes:**
 - Use low cable position
 - Single handle attachment
-- Start light to test minimum weight
-- **Backup: Machine Lateral Raise** if cable weight too heavy
+- **Start at minimum weight** to test if manageable
+- If minimum weight too heavy: **Use dumbbell lateral raises** instead
+
+**Backup: Dumbbell Lateral Raises:**
+- Same setup, but with light dumbbells (4-6kg)
+- Same form and progression
 :::
 
 ::: details Exercise 4: Overhead Cable Tricep Extensions
@@ -330,9 +369,609 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Control the return, don't let weight swing
 :::
 
-**Optional Buddy Cardio (5 min)**
-- Light bike together if both feeling energetic
-- Social cool down and week planning
+**Cool Down Together (5 min)**
+- Chest and shoulder stretches
+- Week planning and social catch-up
+
+### Wednesday - Active Hip & Hamstring Mobility {#wednesday-hip-hamstring-mobility}
+
+::: details MbD-Inspired Session - 20 minutes (evening at home)
+**Focus:** Active mobility + DOMS relief - feel like you're actually working
+**Equipment:** None needed (bodyweight only, optional yoga mat)
+**Benefits:** Combat RDL DOMS, dynamic hip mobility, feels more like training
+**Timing:** Evening after work (6:30-7pm)
+**Structure:** Dynamic movement → Active stretching → Relaxation
+**Style:** Movement by David principles - controlled active ranges
+:::
+
+**Why This Session Works Better:**
+- **Active > Passive:** Feels more engaging than just static stretching
+- **DOMS relief:** Still addresses RDL tightness through movement
+- **Mental boost:** Post-office energy from doing something vs. just stretching
+- **Tennis prep:** Dynamic movement better prepares for Thursday
+- **Sustainable:** Not too intense, but feels productive
+
+**Session Flow: Dynamic → Active → Static → Finish (20 min total)**
+
+---
+
+**PART 1: Dynamic Hip CARs & Movement (6 minutes)**
+
+::: details Hip CARs (Controlled Articular Rotations)
+**MbD Principle:** Move through full hip range with control
+
+**Setup:** 10 circles each direction, each leg (4 min total)
+
+**Form Focus:**
+- Stand on one leg, use wall for light balance support
+- Lift other knee to 90 degrees in front
+- **External rotation:** Circle knee out to side, then behind you
+- Move SLOWLY through entire range (5 seconds per circle)
+- **Internal rotation:** Reverse direction
+- Keep standing leg stable, core engaged
+
+**Mental Cue:**
+- "Paint the biggest circle possible with your knee"
+- Feel the hip socket moving through full range
+- This is ACTIVE work, not passive stretching
+
+**What You Should Feel:**
+- Hip muscles working to control the movement
+- Outer hip and glutes engaging
+- Mild stretch at end ranges
+- This is harder than it looks!
+
+**Week-to-Week Progression:**
+- Week 1-2: Focus on smooth, controlled circles
+- Week 3-4: Increase circle size (bigger range)
+- Week 5+: Add pause at end ranges (2 sec holds)
+:::
+
+::: details 90/90 Hip Switches (Dynamic)
+**MbD Principle:** Active transitions between positions
+
+**Setup:** 10 switches (2 min total)
+
+**Form Focus:**
+- Sit on floor in 90/90 position (both knees at 90 degrees)
+- Front leg: knee bent in front, shin parallel to body
+- Back leg: knee bent behind, shin parallel to body
+- **Switch:** Lift hips slightly, rotate to opposite 90/90
+- Use hands for support but try to drive movement from hips
+
+**Mental Cue:**
+- "Windshield wiper" motion with legs
+- Feel hips rotating actively
+- Each switch is a mini hip mobility workout
+
+**What You Should Feel:**
+- Hip internal and external rotation working
+- Core engaging to control the switch
+- Mild stretch in hips at each position
+- Feels "active" not passive
+
+**Progression:**
+- Week 1-2: Use hands for significant support
+- Week 3-4: Lighter hand support, more hip drive
+- Week 5+: Minimal hand support, slower transitions
+:::
+
+---
+
+**PART 2: Active Stretching & Strengthening (8 minutes)**
+
+::: details Active Hamstring Sweeps
+**MbD Principle:** Active leg raises build strength at end range
+
+**Setup:** 8-10 reps each leg (3 min total)
+
+**Form Focus:**
+- Lie on back, one leg extended on floor
+- **Active raise:** Lift other leg straight up as high as comfortable
+- Keep both legs completely straight (no knee bend)
+- **Hold at top:** 2-3 seconds, actively pull leg toward you
+- **Controlled lower:** Take 3 seconds to lower back down
+- No momentum, all muscular control
+
+**Mental Cue:**
+- "I'm strengthening my hamstrings while stretching them"
+- Pull from the hamstring, not just lifting the leg
+- Each rep should feel like work AND stretch
+
+**What You Should Feel:**
+- Hamstring working hard to lift leg
+- Stretch at top position
+- Muscular fatigue by rep 8-10
+- This builds flexibility through strength
+
+**Progression:**
+- Week 1-2: Focus on straight legs, any height is good
+- Week 3-4: Try to increase lift height
+- Week 5+: Add 5-second holds at top
+:::
+
+::: details 90/90 Hip Lift-Offs
+**MbD Principle:** Build strength in stretched positions
+
+**Setup:** 8 reps each side (2 min total)
+
+**Form Focus:**
+- Sit in 90/90 position (front leg shin parallel to body)
+- Place hands on floor for light support
+- **Active lift:** Lift front knee 2-3 inches off floor
+- Hold for 5 seconds (hip working HARD)
+- Lower with control
+- Switch sides after all reps
+
+**Mental Cue:**
+- "Fight gravity while in a stretched position"
+- Feel outer hip and glutes burning
+- This is active hip strengthening at end range
+
+**What You Should Feel:**
+- Outer hip and glute working intensely
+- Stretch in hip at bottom position
+- Muscular burn by rep 5-6
+- Shaking is normal and good!
+
+**Progression:**
+- Week 1-2: 3-second holds
+- Week 3-4: 5-second holds  
+- Week 5+: 8-second holds or add reps
+:::
+
+::: details RDL Pattern with Pause (Active Hamstring)
+**MbD Principle:** Build strength through full range of motion
+
+**Setup:** 10 slow reps (3 min with rest)
+
+**Form Focus:**
+- Stand tall, feet hip-width apart
+- Push hips back, slight knee bend
+- Lower hands toward floor with control (3 seconds down)
+- **Pause at bottom:** Hold deepest comfortable position for 3 seconds
+- Drive through heels to stand (2 seconds up)
+- This is ACTIVE, not just stretching
+
+**Mental Cue:**
+- "Building strength in my Saturday RDL pattern"
+- The pause at bottom is where magic happens
+- Feel hamstrings working to control the position
+
+**What You Should Feel:**
+- Hamstring stretch at bottom
+- Hamstrings AND glutes working to return to standing
+- Muscular work, not just passive stretch
+- Direct carryover to Saturday RDLs
+
+**Progression:**
+- Week 1-2: 3-second pause, comfortable depth
+- Week 3-4: 5-second pause, try to go slightly deeper
+- Week 5+: 8-second pause, maximum comfortable depth
+:::
+
+---
+
+**PART 3: Static Stretching & Recovery (4 minutes)**
+
+::: details Figure-4 Hip Stretch (Lying) - Static Hold
+**Setup:** 60 seconds each leg
+
+**Form Focus:**
+- Lie on back, both knees bent
+- Cross ankle over opposite knee
+- Grab behind thigh, pull toward chest
+- Relax into the stretch (passive now)
+
+**Why Switch to Passive Here:**
+- Active work is done, time to release tension
+- Deep hip stretch after all the active work
+- DOMS relief through passive stretching
+
+**What You Should Feel:**
+- Deep glute and hip stretch
+- Much deeper than you could before active work
+- Relaxation starting
+:::
+
+::: details Cat-Cow Flow - Slower Tempo
+**Setup:** 10 cycles, 5 seconds per position
+
+**Form Focus:**
+- Hands and knees
+- Arch back (cow) - 5 second hold
+- Round spine (cat) - 5 second hold
+- Focus on breathing and relaxation
+
+**Why This Now:**
+- Transition from active to relaxation
+- Spinal mobility after hip work
+- Prepares nervous system for final relaxation
+:::
+
+---
+
+**PART 4: Final Relaxation (2 minutes)**
+
+::: details Constructive Rest Position
+**Setup:** 90 seconds
+
+**Form Focus:**
+- Lie on back, knees bent, feet flat on floor
+- Arms out to sides, palms up
+- Let knees rest against each other (less effort than legs up wall)
+- Close eyes, focus on breathing
+
+**Why Not Legs Up Wall:**
+- After active work, this is easier to fully relax
+- Still gets recovery benefits
+- Lower barrier to actually doing the relaxation
+
+**What You Should Feel:**
+- Complete body relaxation
+- Hip flexors releasing
+- Mental calm after "doing something"
+:::
+
+::: details Final Deep Breathing
+**Setup:** 30 seconds
+
+**Form Focus:**
+- Stay in same position
+- 4-count inhale, 6-count exhale
+- Let any remaining tension go
+- Ready for Thursday tennis
+
+**What You Should Feel:**
+- Deep calm
+- Satisfaction from active session
+- Ready for quality sleep
+:::
+
+---
+
+**Why This MbD-Style Version Is Better for You:**
+
+**Mental/Motivational:**
+- ✅ **Feels active** - you're "doing something" not just lying there
+- ✅ **Engaging** - requires focus and control
+- ✅ **Productive** - building strength AND flexibility
+- ✅ **Better for post-office energy** - stimulating rather than sedating
+- ✅ **You'll look forward to it** - feels like training, not just stretching
+
+**Physical Benefits:**
+- ✅ **DOMS relief** - active movement flushes metabolic waste better than static
+- ✅ **Mobility through strength** - MbD principle of earning your flexibility
+- ✅ **RDL carryover** - directly improves Saturday performance
+- ✅ **Tennis preparation** - dynamic movement better for Thursday
+- ✅ **Hip health** - CARs address office-sitting hip issues
+
+**Practical:**
+- ✅ **20 minutes** - same time commitment
+- ✅ **No equipment** - still home-based
+- ✅ **Progressive** - can increase difficulty each week
+- ✅ **Sustainable** - engaging enough to maintain consistency
+
+**Weekly Impact:**
+
+**Week 1-2:**
+- DOMS reduced significantly
+- Hips feel "worked" not just stretched
+- Look forward to Wednesday session
+
+**Week 3-4:**
+- RDL depth improving on Saturday
+- Tennis ball pickup getting easier
+- Strength in stretched positions noticeable
+
+**Month 2+:**
+- Hip CARs feeling smooth and natural
+- RDL pattern significantly improved
+- Wednesday session is highlight of recovery week
+- Can't imagine going back to passive-only stretching
+
+**If You're Too Tired One Week:**
+- Skip Part 1 (dynamic CARs) → saves 6 minutes
+- Keep Part 2 (active stretching) → core benefit
+- Keep Parts 3-4 (static + relaxation) → still get DOMS relief
+- Even shortened version = 14 minutes, still worthwhile
+
+::: details 90/90 Hip Stretch (Standing Version)
+**Setup:** 60 seconds each leg
+
+**Form Focus:**
+- Place one foot on chair/couch at 90-degree angle
+- Front of hip on chair, knee bent 90 degrees
+- Standing leg straight, slight forward lean
+- Feel stretch in front hip flexor and outer hip
+
+**Why This First:**
+- Opens hip flexors (tight from sitting all day in office)
+- Addresses hip mobility limitation from RDLs
+- Prepares hips for deeper stretches to come
+
+**What You Should Feel:**
+- Front of hip flexor stretching on elevated leg
+- Possible outer hip stretch as well
+- No knee pain (adjust position if needed)
+:::
+
+::: details Standing Hamstring Stretch
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1365/standing-hamstring-stretch)**
+
+**Setup:** 90 seconds each leg (increased from 60 sec)
+
+**Form Focus:**
+- Place heel on elevated surface (chair, low table, stairs)
+- Keep standing leg slightly bent
+- Lean forward from hips (not rounding back)
+- Feel stretch in back of elevated thigh
+- Can point toe up for deeper calf stretch
+
+**Progression:**
+- Week 1-2: Lower surface, gentle lean
+- Week 3-4: Higher surface or deeper lean
+- Week 5+: Add toe point for calf stretch
+
+**What You Should Feel:**
+- Comfortable stretch in hamstring
+- Possibly into calf if toe pointed
+- Not painful, just good tension
+:::
+
+::: details Standing Figure-4 Hip Stretch
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1352/standing-figure-4-stretch)**
+
+**Setup:** 60 seconds each leg
+
+**Form Focus:**
+- Place ankle on opposite knee (make "4" shape)
+- Use wall for balance if needed
+- Sit hips back like sitting in chair
+- Feel stretch in outer hip and glute
+
+**Why Include This:**
+- Opens outer hips (often tight from desk sitting)
+- Prepares for deeper floor hip work
+- Balance component good for ankle stability
+
+**What You Should Feel:**
+- Deep stretch in glute of crossed leg
+- Outer hip opening
+- Stable on standing ankle
+:::
+
+::: details Light RDL Pattern Practice (No Load)
+**[🎯 View Exercise Demo](https://www.jefit.com/exercises/125/barbell-stiff-leg-deadlift)**
+
+**Setup:** 10 slow, controlled reps
+
+**Form Focus:**
+- Stand tall, feet hip-width apart
+- Push hips back (like closing car door with butt)
+- Slight knee bend, mostly straight legs
+- Lower hands toward floor as far as comfortable
+- Feel stretch in hamstrings, not pain
+- Drive through heels to stand back up
+
+**Purpose:**
+- Reinforce proper hip hinge pattern
+- Active stretching through movement
+- Preparation for Saturday's loaded RDLs
+- Combines mobility with motor pattern learning
+
+**What You Should Feel:**
+- Hamstring stretch at bottom position
+- Glutes engaging to return to standing
+- No lower back strain
+- Getting better at the pattern each rep
+:::
+
+---
+
+**PART 2: Floor Hip & Hamstring Deep Work (10 minutes)**
+
+::: details Lying Hamstring Stretch (Towel Method)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1366/supine-hamstring-stretch)**
+
+**Setup:** 90 seconds each leg (increased from 60 sec)
+
+**Form Focus:**
+- Lie on back, towel/belt looped around foot
+- Keep leg as straight as comfortable
+- Pull towel to bring leg toward chest
+- Other leg can be bent (easier) or straight on floor (harder)
+
+**Variations to Try:**
+- **Straight pull:** Toe pointed toward ceiling
+- **Across body:** Pull leg across to opposite shoulder (outer hamstring)
+- **Away from body:** Pull leg out to side (inner hamstring)
+
+**Advanced:**
+- Straighten both legs for deeper stretch
+- Flex foot toward shin for calf stretch too
+
+**What You Should Feel:**
+- Deep stretch in back of thigh
+- Possibly into calf if foot flexed
+- Can feel in different parts of hamstring with variations
+:::
+
+::: details Figure-4 Hip Stretch (Lying)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1363/supine-figure-4-stretch)**
+
+**Setup:** 90 seconds each leg
+
+**Form Focus:**
+- Lie on back, both knees bent, feet flat
+- Cross one ankle over opposite knee (make "4" shape)
+- Reach through and grab behind thigh of uncrossed leg
+- Pull thigh toward chest
+- Feel deep stretch in glute and outer hip
+
+**Intensity Adjustment:**
+- **Easier:** Keep bottom foot on floor
+- **Harder:** Pull thigh closer to chest
+- **Deeper:** Gently press crossed knee away with elbow
+
+**What You Should Feel:**
+- Deep glute stretch (this one's intense!)
+- Outer hip opening
+- Possibly lower back release
+:::
+
+::: details Happy Baby Pose
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1364/happy-baby-pose)**
+
+**Setup:** 90 seconds total
+
+**Form Focus:**
+- Lie on back, knees bent toward chest
+- Grab outside edges of feet (or back of thighs if can't reach)
+- Pull knees toward armpits (not straight down)
+- Keep lower back on floor
+- Can gently rock side to side for massage effect
+
+**Why This Is Amazing:**
+- Opens hips in all directions
+- Releases lower back tension
+- Feels incredible after RDLs
+- Can rock gently for extra relief
+
+**What You Should Feel:**
+- Deep inner hip and groin stretch
+- Lower back release
+- Complete hip opening
+:::
+
+::: details Cat-Cow Stretches (Spinal Mobility)
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1378/cat-cow-stretch)**
+
+**Setup:** 15 slow cycles (about 90 seconds)
+
+**Form Focus:**
+- Hands and knees position
+- **Cow pose:** Drop belly, lift chest and tailbone - inhale
+- **Cat pose:** Round spine, tuck tailbone, drop head - exhale
+- Move slowly with breath, no rushing
+- Really emphasize the extremes of each position
+
+**Why Include This:**
+- RDLs stress lower back and entire posterior chain
+- Helps with overall spinal mobility
+- Feels amazing after sitting all day in office
+- Prepares spine for final stretches
+
+**What You Should Feel:**
+- Gentle stretch and compression throughout spine
+- Lower back release in cat pose
+- Front body stretch in cow pose
+- Overall spinal relief
+:::
+
+::: details Child's Pose with Hip Rocks
+**[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1375/child-pose)**
+
+**Setup:** 90 seconds total
+
+**Form Focus:**
+- Kneel, sit back on heels
+- Fold forward with arms extended overhead
+- Rest forehead on ground (or on stacked hands)
+- **Add hip rocks:** Gently shift hips side to side
+- Walk hands to left for 20 seconds (stretch right side)
+- Walk hands to right for 20 seconds (stretch left side)
+- Return to center for final 20 seconds
+
+**Why This Finishes Floor Work:**
+- Complete hip and lower back release
+- Side reaches hit lats and obliques
+- Feels incredibly relaxing
+- Perfect transition to final relaxation
+
+**What You Should Feel:**
+- Deep hip flexor and lower back stretch
+- Side body stretch when reaching left/right
+- Complete posterior chain relaxation
+:::
+
+---
+
+**PART 3: Final Relaxation & Breathing (2 minutes)**
+
+::: details Legs Up the Wall (or Legs Elevated)
+**Setup:** 60 seconds
+
+**Form Focus:**
+- Lie on back near wall
+- Extend legs up wall (or on couch/chair if no wall space)
+- Arms out to sides, palms up
+- Let entire body relax and sink into floor
+- Close eyes if comfortable
+
+**Why End With This:**
+- Reduces leg swelling and tension
+- Calms nervous system
+- Signals body that workout/stretching is done
+- Perfect pre-sleep preparation
+
+**What You Should Feel:**
+- Blood draining from legs (tingling is normal)
+- Complete body relaxation
+- Mental calm
+:::
+
+::: details Final Deep Breathing
+**Setup:** 60 seconds
+
+**Form Focus:**
+- Stay in same position (legs elevated) or lower legs
+- 4-count inhale through nose
+- 6-count exhale through mouth
+- Focus on making exhale longer than inhale
+- Let any remaining tension melt away
+
+**Why This Matters:**
+- Activates parasympathetic nervous system
+- Improves sleep quality
+- Mentally prepares you for Thursday tennis
+- Completes the recovery session
+
+**What You Should Feel:**
+- Deep sense of calm
+- Body fully relaxed
+- Ready for quality sleep
+- Confident for tomorrow's tennis
+:::
+
+---
+
+**Weekly Impact of Full 20-Minute Session:**
+
+**Physical Benefits:**
+- **Significantly reduces DOMS severity** for rest of week
+- **Maintains and improves flexibility** for tennis and daily activities  
+- **Reinforces RDL pattern** for better Saturday performance
+- **Opens hips** that get tight from office sitting
+- **Prepares body for Thursday tennis** with optimal mobility
+
+**Mental Benefits:**
+- **Breaks up office day stress** with restorative practice
+- **Improves sleep quality** through parasympathetic activation
+- **Creates consistency** in weekly routine
+- **Feels amazing** - you'll look forward to this
+
+**Practical Reality:**
+- **Only 20 minutes** but profound recovery benefit
+- **No equipment needed** - can do anywhere at home
+- **Flexible timing** - anytime between 6pm-9pm works
+- **Can shorten to 15 min** if truly pressed for time (skip Part 1 hip work)
+
+**How You'll Know It's Working:**
+- **Week 1:** Immediate DOMS relief, better tennis ball pickup
+- **Week 2-3:** Noticeably less stiff on Thursday mornings
+- **Week 4+:** RDL depth improving, overall flexibility better
+- **Month 2+:** Can't imagine skipping this session
 
 ### Friday - Pull Focus {#friday-pull-focus}
 
@@ -340,6 +979,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 **Focus:** Back, biceps, and rear deltoids
 **Equipment:** Cable machines and pulldown stations
 **Benefits:** Lax Friday work energy perfect for focused solo session
+**Exercise Order:** Optimized for best performance and muscle targeting
 :::
 
 **Extended Warm-up (7 min)**
@@ -353,65 +993,86 @@ All exercises maintain focus on bilateral movements and machine-based training f
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1268/machine-lat-pulldown)**
 
 **Setup:**
-- **4 sets x 8-10 reps** (*Current: 31.8kg, progress to 35kg*)
+- **4 sets x 8-10 reps**
 - **Rest: 90 seconds**
 
-**Form Focus:**
-- Wide grip (1.5x shoulder width)
+**FORM CORRECTION NEEDED:**
+- **Previous:** Too narrow grip at 31.8kg
+- **Current:** Drop to 25-27kg, use WIDE grip (1.5x shoulder width)
 - Pull to upper chest/collarbone
-- Squeeze shoulder blades together
-- Control the negative phase
+- Lead with elbows down and back (not hands to chest)
+- Squeeze shoulder blades together at bottom
 
-**Progression Notes:**
-- Currently challenging by sets 2-3 at 31.8kg
-- Next target: 35kg for same rep range
+**Progression Plan:**
+- Week 1-2: 25-27kg wide grip, perfect form
+- Week 3-4: 29-31kg wide grip
+- Week 5+: Build back to 31.8kg and beyond with proper width
+
+**Why This First:**
+- Heavy back work when you're freshest
+- Sets the tone for entire pull session
+- Wide grip hits the lat width you want
 :::
 
 ::: details Exercise 2: Chest Supported Row (Narrow Grip)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/700/seated-machine-row)**
 
 **Setup:**
-- **4 sets x 10-12 reps** (*Progress from 25kg starting point*)
+- **4 sets x 10-12 reps**
 - **Rest: 90 seconds**
 
-**Form Focus:**
-- **Narrow grip** for increased lat focus
-- Chest firmly against pad, feet planted
-- Pull handles to lower ribs/upper abdomen
-- Squeeze shoulder blades together at peak
+**YOUR CURRENT APPROACH IS SMART:**
+- **Keep doing:** 15kg each side with shoulder blade squeeze
+- **Why it works:** You're learning to feel your back properly
+- **Don't change:** This form teaches mind-muscle connection
 
-**Why Narrow Grip:**
-- **Better lat activation** than wide grip
-- **Increased range of motion** to chest
-- **Complements wide-grip pulldowns** for complete back development
-- **More bicep involvement** for arm growth
+**Progression Plan (When Ready):**
+- **Week 1-4:** Continue current form (15kg, focus on back squeeze)
+- **Week 5-8:** Gradually pull handles closer to ribs (increase range)
+- **Week 9+:** Add weight (17.5kg, 20kg) with fuller row pattern
+
+**Why Your "Shrugging" Form Is Actually Good:**
+- Learning scapular retraction (crucial for back development)
+- Better than using momentum with heavier weight
+- Biceps get worked plenty from other exercises
+- Mind-muscle connection beats ego lifting
+
+**Why This Second:**
+- Another heavy back movement while energy is high
+- Different angle than pulldowns (hits mid-back more)
+- You're already progressing well with current form
 :::
 
-::: details Exercise 3: Rear Delt Fly Machine
+::: details Exercise 3: Rear Delt Fly Machine (Your Favorite!)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/845/machine-rear-delt-fly)**
 
 **Setup:**
-- **3 sets x 15-20 reps** (*Current: 25kg x 8 - your favorite exercise!*)
+- **3 sets x 15-20 reps** (*Current: 25kg x 8 reps*)
 - **Rest: 60 seconds**
 
 **Form Focus:**
 - Sit facing machine, chest against pad
 - Handles at shoulder height
 - Pull handles apart in wide arc
-- Squeeze shoulder blades together
+- Squeeze shoulder blades together hard
 
-**Why This Is Better Than Face Pulls:**
-- Your favorite exercise - perfect form already
-- Fixed range of motion - no getting yanked around
-- Perfect muscle targeting - rear delts get hit optimally
-- Stable setup every time
+**Why This Third (Not Face Pulls):**
+- Your favorite exercise = you have great form
+- Back is pre-fatigued from pulldowns/rows = perfect for isolation
+- Machine stability = consistent targeting
+- Energy still good but compound work is done
+
+**Progression:**
+- Currently: 25kg x 8 reps (good starting point)
+- Goal: 25kg x 15-20 reps (build endurance first)
+- Then: 27.5-30kg x 12-15 reps (add weight after endurance)
 :::
 
 ::: details Exercise 4: EZ Bar Reverse Curls
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/1241/ez-bar-reverse-curl)**
 
 **Setup:**
-- **3 sets x 12-15 reps** (*Start light: 15-20kg total*)
+- **3 sets x 12-15 reps** (*Start: 15-20kg total*)
 - **Rest: 60 seconds**
 
 **Form Focus:**
@@ -420,13 +1081,19 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Slow controlled movement both up and down
 - Focus on forearm burn, not bicep activation
 
+**Why Fourth (Before Biceps):**
+- Forearms aren't tired yet from bicep work
+- Can use heavier weight than if biceps were fatigued
+- Tennis grip strength development
+- Wrist pain prevention work
+
 **Tennis Benefits:**
-- **Grip strength** for racquet control
-- **Wrist stability** for injury prevention
-- **Forearm balance** after heavy pulling exercises
+- Grip strength for racquet control
+- Wrist stability for injury prevention
+- Forearm balance after heavy pulling exercises
 :::
 
-::: details Exercise 5: Preacher Bicep Curls
+::: details Exercise 5: Preacher Bicep Curls (Finish Strong)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/113/barbell-preacher-curl)**
 
 **Setup:**
@@ -434,74 +1101,88 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - **Rest: 45 seconds**
 
 **Form Focus:**
-- Chest against preacher pad, arms over the angled surface
-- Slow controlled negatives (2-3 seconds)
-- Don't fully lock out at bottom (keep tension)
-- Squeeze at top of movement
+- Chest against preacher pad, arms over angled surface
+- Slow controlled negatives (2-3 seconds down)
+- Don't fully lock out at bottom (keep tension on biceps)
+- Squeeze hard at top of movement
+
+**Why Last:**
+- Biceps already pre-fatigued from all the pulling = perfect
+- Don't need heavy weight for great pump
+- Isolation exercise = perfect finisher
+- Eliminates cheating and momentum
 
 **Why Better Than Regular Curls:**
-- Eliminates momentum and cheating
 - Fixed arm position forces biceps isolation
+- Can't use body momentum to cheat
 - Better mind-muscle connection
 - Consistent range of motion every rep
 
-**Perfect Arm Finish:**
-- **Reverse curls** hit forearms and extensors
-- **Preacher curls** isolate biceps with perfect form
-- Complete arm development to finish pull day
+**Equipment Options at Your Gym:**
+- Machine preacher curl (preferred - most stable)
+- Dumbbell preacher curl (if machine taken)
+- Barbell preacher curl (if you prefer)
 
-**Equipment Options:**
-- Machine preacher curl (preferred)
-- Dumbbell preacher curl
-- Barbell preacher curl
+**Perfect Arm Finish:**
+- Reverse curls hit forearms and extensors
+- Preacher curls isolate biceps with perfect form
+- Complete arm development to end pull day
 :::
 
 **Cool Down (5 min)**
 - Cross-body shoulder stretches
-- Light walking, weekend prep
+- Light walking
+- Weekend prep mindset
 
-### ### Saturday - Legs Power {#saturday-legs-power}
+**New Exercise Order Benefits:**
+1. **Heavy back work first** = best strength performance
+2. **Isolation when pre-fatigued** = better muscle targeting  
+3. **Forearms before biceps** = can handle more weight
+4. **Biceps last** = already tired, don't need heavy weights for great pump
+
+### Saturday - Legs Power {#saturday-legs-power}
 
 ::: details Session Overview - 45 minutes (fresh weekend energy)
 **Focus:** Quad and glute dominant with hamstring lengthening (RDLs)
-**Equipment:** Incline leg press, barbells, calf raise machine
+**Equipment:** 45-degree leg press, barbells, calf raise machine
 **Benefits:** Fresh energy for heavy lifting, ankle-safe progressions, complete lower body development
 :::
 
 **Comprehensive Warm-up (8 min)**
 - Light walking (2 min)
 - Hip circles and leg swings (3 min)
-- Ankle mobility focus (3 min) *critical preparation*
+- **Extended ankle mobility** (3 min) *critical preparation*
 
 **Legs Power Block (35 min)**
 
-::: details Exercise 1: Incline Leg Press
+::: details Exercise 1: 45-Degree Leg Press (Plate Loaded)
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/132/machine-leg-press)**
 
 **Setup:**
-- **4 sets x 8-10 reps** (*Starting: 72kg, building to 150kg+*)
+- **4 sets x 8-10 reps** (*Current: 72kg, building to 150kg+*)
 - **Rest: 2 minutes** *this is your heavy compound movement*
 
 **Form Focus:**
 - Foot placement shoulder-width, mid-platform position
-- Both feet flat throughout - NO heel lifting
+- Both feet flat throughout - NO heel lifting (ankle safety)
 - Lower until 90-degree knee bend or comfortable depth
 - Drive through whole foot, not just toes
+- Control the descent carefully
 
 **Ankle Safety Priority:**
 - Both feet planted firmly throughout
-- More stable than hack squat machine
+- Stable platform = safer than hack squat
 - Control the descent carefully
 - Better progressive overload potential
 
-**Benefits over Hack Squat:**
+**Benefits Over Hack Squat:**
 - Safer ankle position with stable platform
 - Can load significantly heavier (150kg+ achievable)
 - Less balance challenge, more quad focus
 - Easier recovery between sets
 
 **Month 1-2 Progression:**
-- Start: 72kg x 10 reps
+- Week 1: 72kg x 10 reps (current baseline)
 - Week 2: 80kg x 10 reps
 - Week 4: 90kg x 8-10 reps
 - Focus: Perfect form and control
@@ -513,42 +1194,70 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Focus: Strength building for aesthetics
 :::
 
-::: details Exercise 2: Romanian Deadlifts (RDLs)
+::: details Exercise 2: Romanian Deadlifts (RDLs) - FORM FOCUSED
 **[🎯 View Exercise Demo](https://www.jefit.com/exercises/125/barbell-stiff-leg-deadlift)**
 
 **Setup:**
-- **4 sets x 10-12 reps** (*Starting: 20kg bar, building to 60kg+*)
+- **4 sets x 10-12 reps**
 - **Rest: 90 seconds**
+
+**CRITICAL ADJUSTMENT FOR YOUR DOMS ISSUE:**
+
+**NEW PROGRESSION (Slower, Form-Focused):**
+- **Week 1-2: 20kg (empty bar) x 12 reps**
+  - Master hip hinge pattern
+  - No ego, perfect form only
+  - Focus on feeling hamstring stretch
+
+- **Week 3-4: 25kg x 12 reps**
+  - Add small plates (2.5kg each side)
+  - Pattern should feel natural now
+  - Control the tempo: 2 seconds down, 1 second up
+
+- **Week 5-6: 30kg x 10-12 reps**
+  - Hamstrings adapting, less DOMS
+  - Flexibility should be improving
+  - Wednesday mobility helping recovery
+
+- **Week 7-8: 35kg x 10-12 reps**
+  - First "moderate" weight
+  - Should feel challenging but controlled
+  - DOMS should be much more manageable
+
+- **Week 9+: 40-45kg+ x 10 reps**
+  - Continue 2.5-5kg increases only
+  - Never rush the progression
+  - Form perfect = results will come
 
 **Form Focus:**
 - Hip hinge pattern - push hips back first
 - Slight knee bend, mostly straight legs
-- Lower until comfortable hamstring stretch
+- Lower until comfortable hamstring stretch (don't force depth)
 - Drive hips forward to return to standing
+- Bar stays close to legs entire movement
+
+**Why You're Getting Massive DOMS:**
+- ❌ Likely progressing weight too fast
+- ❌ Going too deep before flexibility developed
+- ❌ New movement pattern shocking muscles
+
+**New Approach Benefits:**
+- ✅ Empty bar for 2 weeks = pattern mastery
+- ✅ Slower progression = muscles adapt gradually
+- ✅ Wednesday mobility = active recovery
+- ✅ Less DOMS = maintained flexibility for tennis
 
 **Hamstring Benefits:**
-- **Lengthens hamstrings** - opposite of shortening
+- Lengthens hamstrings (opposite of shortening)
 - Builds posterior chain strength
-- Improves hip mobility
+- Improves hip mobility and flexibility
 - Perfect for tennis movement prep
 
-**Ankle Considerations:**
-- Both feet planted throughout movement
-- Start very light to master pattern (20kg bar)
-- Focus on balance and control
-- No balance challenge once pattern learned
-
-**Month 1-2 Progression:**
-- Start: 20kg (empty bar) x 12 reps
-- Week 2: 25kg x 12 reps
-- Week 4: 30-35kg x 10-12 reps
-- Focus: Hip hinge pattern mastery
-
-**Month 3-4 Progression:**
-- Week 6: 40-45kg x 10 reps
-- Week 8: 50kg x 8-10 reps
-- Week 12: 55-60kg+ x 8-10 reps
-- Focus: Load progression with perfect form
+**What You Should Feel:**
+- **Weeks 1-2:** Hamstring stretch, learning pattern
+- **Weeks 3-4:** Mild muscle work, less intense DOMS
+- **Weeks 5+:** Good muscle fatigue, manageable next-day soreness
+- **Never:** Can't bend down to pick up tennis balls
 :::
 
 ::: details Exercise 3: Barbell Hip Thrusts
@@ -562,7 +1271,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 - Upper back resting on bench edge
 - Bar across hip crease (use pad or towel for comfort)
 - Feet shoulder-width apart, flat on ground
-- Drive through heels, squeeze glutes hard at top
+- Drive through heels, squeeze glutes HARD at top
 - Hold 1-2 seconds at peak contraction
 
 **Why This Exercise Is Essential:**
@@ -601,7 +1310,7 @@ All exercises maintain focus on bilateral movements and machine-based training f
 **[🎯 View Exercise on Jefit](https://www.jefit.com/exercises/145/machine-calf-raise)**
 
 **Setup:**
-- **4 sets x 12-15 reps** (*Starting: 30kg, building to 60kg+*)
+- **4 sets x 12-15 reps** (*Current: 25kg each side, building to 60kg+*)
 - **Rest: 60 seconds**
 
 **Form Focus:**
@@ -614,19 +1323,19 @@ All exercises maintain focus on bilateral movements and machine-based training f
 **Ankle Strength Priority:**
 - Critical for your ankle injury history
 - Build strength in safe, controlled environment
-- Your current 20kg baseline is excellent starting point
-- 30kg starting weight builds on existing strength
+- Your current 25kg (50kg total) baseline is excellent
+- Progressive loading for tennis stability
 
 **Month 1-2 Progression:**
-- Start: 30kg x 15 reps
-- Week 2: 35kg x 15 reps
-- Week 4: 40-45kg x 12-15 reps
+- Week 1: 25kg each side x 15 reps (current)
+- Week 2: 27.5kg x 15 reps
+- Week 4: 30-32.5kg x 12-15 reps
 - Focus: Full range of motion and control
 
 **Month 3-4 Progression:**
-- Week 6: 50kg x 12 reps
-- Week 8: 55kg x 10-12 reps
-- Week 12: 60kg+ x 10-12 reps
+- Week 6: 35-37.5kg x 12 reps
+- Week 8: 40-42.5kg x 10-12 reps
+- Week 12: 45kg+ x 10-12 reps
 - Focus: Progressive strength building
 
 **Tennis Benefits:**
@@ -645,10 +1354,10 @@ All exercises maintain focus on bilateral movements and machine-based training f
 For detailed exercise instructions, form cues, Jefit video links, and progression guidelines, see the **[Complete Exercise Guides](exercise-guides.md)**.
 
 **Key Exercise Categories:**
-- **Pull Day:** [Lat Pulldown](exercise-guides.md#lat-pulldown-wide-grip), [Chest Supported Row](exercise-guides.md#chest-supported-row), [Rear Delt Fly](exercise-guides.md#rear-delt-fly-machine)
-- **Push Day:** [Incline Chest Press](exercise-guides.md#chest-press-machine), [Seated Pec Fly](exercise-guides.md#seated-pec-fly), [Cable Lateral Raise](exercise-guides.md#cable-lateral-raise)
-- **Leg Day:** [Hack Squat](exercise-guides.md#hack-squat-machine), [RDLs](exercise-guides.md#romanian-deadlifts), [Calf Raises](exercise-guides.md#seated-calf-raise-machine)
-- **Cardio & Core:** [Dead Bugs](exercise-guides.md#dead-bugs), [Lying Leg Raises](exercise-guides.md#lying-leg-raises), [Back Extensions](exercise-guides.md#back-extensions)
+- **Pull Day:** [Lat Pulldown](exercise-guides.md#lat-pulldown-wide-grip), [Chest Supported Row](exercise-guides.md#seated-cable-row), [Rear Delt Fly](exercise-guides.md#rear-delt-fly-machine)
+- **Push Day:** [Incline Dumbbell Press](exercise-guides.md#chest-press-machine), [Seated Pec Fly](exercise-guides.md#seated-pec-fly), [Cable Lateral Raise](exercise-guides.md#cable-lateral-raise)
+- **Leg Day:** [45-Degree Leg Press](exercise-guides.md#leg-press-machine), [RDLs](exercise-guides.md#romanian-deadlifts), [Hip Thrusts](exercise-guides.md#barbell-hip-thrusts), [Calf Raises](exercise-guides.md#standing-calf-raise-machine)
+- **Core Work:** [Cable Crunches](exercise-guides.md#cable-crunches), [Wood Chops](exercise-guides.md#cable-wood-chops), [Pallof Press](exercise-guides.md#cable-pallof-press)
 
 ## Progression Guidelines {#progression-guidelines}
 
@@ -656,133 +1365,96 @@ For detailed exercise instructions, form cues, Jefit video links, and progressio
 
 **Month 1 (September): Foundation**
 - **Focus:** Perfect form, establish baseline weights
+- **Cable core:** Learn the movements, find starting weights
+- **RDLs:** Empty bar (20kg) only for first 2 weeks - pattern mastery
 - **Progression:** Increase weight when you can complete all sets with 2 reps in reserve
 - **Rest periods:** Take full prescribed rest
 
 **Month 2 (October): Building Momentum**
 - **Weight increases:** 2.5-5kg for upper body, 5-10kg for lower body
+- **RDLs:** Still conservative progression (25-35kg range)
 - **Intensity:** RPE 7-8/10 (challenging but controlled)
 - **Monitor:** Strength maintenance as calories drop
 
 **Months 3-4 (Nov-Jan): Final Push**
 - **Focus:** Strength preservation over progression
+- **RDLs:** Now at moderate weights (40-50kg) with good form
 - **Strategy:** Maintain weights, perfect technique
 - **Flexibility:** Extra rest days if severely fatigued
 
 ### Session-Specific Progression
 
-**Pull Day (Friday):**
-- **Lat Pulldown:** Progress from 31.8kg → 35kg → 40kg over 8 weeks
-- **Chest Supported Row:** Start at 25kg, progress to 30kg+ with proper form
-- **Rear Delt Fly:** Building on your current 25kg x 8 success
+**Monday Core Work:**
+- **Cable Crunches:** 15kg → 17.5kg → 20kg+ over 8 weeks
+- **Wood Chops:** 10kg → 12.5kg → 15kg+ per side
+- **Pallof Press:** 10kg → 12.5kg → 15kg+ per side
+- **Back Extensions:** Bodyweight → +5kg → +10kg plate
 
-**Push Day (Tuesday):**
-- **Incline Chest Press:** Start conservative, progress 2.5kg every 2 weeks
-- **Seated Pec Fly:** Focus on muscle feel over heavy weight
-- **Cable Lateral Raise:** Test minimum cable weight, progress gradually
+**Tuesday Push Day:**
+- **Incline Press:** Start conservative with dumbbells/Smith machine
+- **Pec Fly:** Focus on muscle feel over heavy weight
+- **Lateral Raise:** Test minimum cable weight first, may need dumbbells
 
-**Leg Day (Saturday):**
-- **Hack Squat:** Fastest progression potential - 10-20kg increases possible
-- **RDLs:** Start very light (20-30kg), focus on hip hinge pattern first
-- **Calf Raises:** Build on your 20kg success gradually
+**Friday Pull Day (Form Corrections Applied):**
+- **Lat Pulldown:** Drop to 25-27kg with WIDE grip, rebuild to 31.8kg+
+- **Chest Supported Row:** Continue 15kg with current "shrugging" form (it's working!)
+- **Rear Delt Fly:** Build from 25kg x 8 to 25kg x 15-20 reps first
+
+**Saturday Leg Day (Major Adjustments):**
+- **Leg Press:** 72kg → 80kg → 90kg → 100kg+ (can progress faster)
+- **RDLs:** 20kg (weeks 1-2) → 25kg (weeks 3-4) → 30kg (weeks 5-6) → slow progression
+- **Hip Thrusts:** 20kg → 30kg → 40-50kg (can progress quickly)
+- **Calves:** Current 25kg each side, progress 2.5kg every 2 weeks
 
 ### Cardio Progression
 
-**Monday Cardio (Both Options):**
-- **Week 1-2:** 6 intervals, focus on maintaining Level 7 intensity
-- **Week 3-4:** 7 intervals, same intensity focus
-- **Week 5+:** Consider 8 intervals or increase work period to 45 seconds
+**Monday Cardio:**
+- **Weeks 1-4:** 12-degree incline walk at 5 km/h for 25 minutes
+- **Weeks 5-8:** Increase to 13-degree incline or 5.5 km/h
+- **Weeks 9+:** Consider 14-degree incline or 15-minute duration
 
-## Schedule Optimization {#schedule-optimization}
+**Alternative if needed:**
+- Can switch between incline walk and rowing intervals based on preference
+- Consistency matters more than specific modality
 
-### Gym Buddy Integration
+### DOMS Management Strategy
 
-**Tuesday Benefits:**
-- **Motivation:** Consistent training partner
-- **Spotting:** Safe progression on chest/shoulder work
-- **Equipment sharing:** More efficient use of machines
-- **Social accountability:** Harder to skip sessions
+**The RDL DOMS Problem:**
+- **Issue:** Currently lasting all week, limiting flexibility
+- **Root cause:** Likely progressing too fast, going too deep too soon
+- **Solution:** Empty bar for 2 weeks, 2.5-5kg increases only
+- **Wednesday mobility:** Critical for active recovery
 
-### Work Schedule Management
-
-**Monday Flexibility:**
-- **Primary:** Gym cardio + core when time/energy allows
-- **Backup:** Home workout when schedule is tight
-- **Decision factors:** Evening plans, energy levels, weather
-
-**Friday Pull Focus:**
-- **Lax work day energy:** Perfect for focused solo session
-- **Extended warm-up:** Take time to prepare properly
-- **Mind-muscle connection:** Focus on your favorite exercises (rear delt fly, EZ bar reverse curls)
-
-**Saturday Morning Advantage:**
-- **Fresh energy:** Best time for heavy leg work
-- **Weekend mindset:** More time for proper warm-up and recovery
-- **RDL practice:** Learn hip hinge pattern when alert
-
-### Tennis Integration
-
-**Thursday Preparation:**
-- **Ankle-focused warm-up** following Saturday leg session
-- **Mobility priority** over strength
-- **Performance expectation:** Technique focus rather than explosive power
-
-**Weekly Flow:**
-- **Monday cardio** doesn't interfere with Thursday tennis
-- **Tuesday push** gives arms 2 days rest before tennis
-- **Saturday legs** gets 5 days recovery before next tennis
-
-### Home Equipment Recommendations
-
-**For Home Backup Days:**
-- **10kg dumbbell** - optimal weight for Russian twists
-- **4L water jug** - budget alternative
-- **Running shoes** - for outdoor intervals
-- **Phone timer** - for interval tracking
-
-## Health & Safety Guidelines
-
-### Fat Loss Training Considerations
-
-**Calorie Deficit Management:**
-- **Pre-workout fuel:** 100-200 calories 1-2 hours before longer sessions
-- **Hydration:** Extra attention during 60-minute Tuesday sessions
-- **Recovery:** Flexibility in choosing gym vs home on Monday
-
-### Ankle-Specific Safety
-
-**RDL Considerations:**
-- **Start very light** - master hip hinge pattern first
-- **Both feet planted** throughout movement
-- **Stop immediately** if any ankle instability
-- **Progress weight** only when balance is perfect
-
-**Daily Ankle Prep:**
-- **Saturday pre-workout:** Extended ankle mobility (5+ minutes)
-- **Post-RDL:** Gentle ankle circles and stretches
-- **Weekly assessment:** Monitor ankle response to new movement patterns
+**Expected DOMS Timeline with New Approach:**
+- **Weeks 1-2 (20kg):** Mild soreness, learning pattern
+- **Weeks 3-4 (25kg):** Moderate soreness, adapting to movement
+- **Weeks 5+ (30-35kg+):** Manageable soreness, flexibility maintained
 
 ### Warning Signs
 
 **Reduce intensity or take rest day if:**
-- **Persistent fatigue** lasting more than 2 days
-- **Strength declining** for 2+ consecutive sessions
-- **Ankle pain or instability** during or after RDLs
-- **Sleep disruption** from training stress
-- **Gym buddy sessions** becoming overly competitive vs. supportive
+- **Persistent fatigue:** Lasting more than 2 days
+- **Strength declining:** For 2+ consecutive sessions
+- **Ankle pain or instability:** During or after any exercise (especially RDLs)
+- **Sleep disruption:** From training stress or DOMS
+- **RDL DOMS:** So bad you can't pick up tennis balls comfortably
+- **Chest weakness frustration:** Making you skip workouts
+
+**When to Adjust:**
+- **RDLs too aggressive:** Drop back to lighter weight, focus on pattern
+- **Chest exercises not working:** Try the other option (dumbbells vs Smith machine)
+- **Cable core too heavy:** No shame in dropping weight, form first
+- **Social pressure from gym buddy:** Remember you're on different timelines
 
 ---
 
 ::: tip Enhanced Plan Success Strategy
-Your optimal muscle mass baseline (32.6kg) supports this intensive approach. The gym buddy accountability on Tuesday, flexible Monday options, and fresh weekend leg sessions create the perfect setup for accelerated progress toward your Christmas goal.
-:::
-
-::: warning Progressive Overload Priority
-With your aggressive timeline, focus on consistent progression over perfection. The push/pull/legs split allows maximum intensity per muscle group while maintaining safety through machine-based movements and proper rest distribution.
+Your optimal muscle mass baseline (32.6kg) supports this intensive approach. The cable core revolution, gym buddy independence, and Wednesday hamstring mobility create sustainable systems for your Christmas goal while maintaining enjoyment.
 :::
 
 ::: info Related Resources
-- **[Fat Loss Meal Plan](../nutrition/meal-plan)** - Coordinated calorie progression to support enhanced training
-- **[Exercise Guides](exercise-guides.md)** - Detailed instructions for all movements
+- **[Fat Loss Meal Plan](../nutrition/meal-plan)** - Coordinated calorie progression (2,300 → 2,200 → 2,100)
+- **[Exercise Guides](exercise-guides.md)** - Detailed instructions for all movements with Jefit links
 - **[Progress Tracking](../guides/tracking)** - Monitor strength gains during deficit phase
+- **[Flexibility & Recovery](flexibility-recovery.md)** - Full Wednesday hamstring routine and more
 :::
